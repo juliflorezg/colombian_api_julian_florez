@@ -36,7 +36,7 @@ function sortPresidents(data, field) {
 }
 
 
-const useFetchPresident = () => {
+const useFetchPresident = (active) => {
   const [data, setData] = useState(null);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState(null);
@@ -44,7 +44,12 @@ const useFetchPresident = () => {
   useEffect(() => {
     const fetchData = async () => {
       try {
+        const startTime = new Date().getTime()
         const response = await fetch('https://api-colombia.com/api/v1/President');
+        const finishTime = new Date().getTime()
+        const duration = (finishTime - startTime) / 1000
+
+        // console.log({ startTime, finishTime, durationInMS: finishTime - startTime, durationInSec: (finishTime - startTime) / 1000 })
         if (!response.ok) {
           throw new Error(`HTTP error! status: ${response.status}`);
         }
@@ -53,7 +58,7 @@ const useFetchPresident = () => {
         const result = sortPresidents(data, 'politicalParty')
         console.log(result)
 
-        setData(result);
+        setData({ data: data, processedData: result, count: result.length, apiResponseInSec: duration });
       } catch (error) {
         setError(error.message);
       } finally {
@@ -61,7 +66,9 @@ const useFetchPresident = () => {
       }
     };
 
-    fetchData();
+    if (active === 'presidentes') {
+      fetchData();
+    }
   }, []);
 
   return [data, loading, error];
