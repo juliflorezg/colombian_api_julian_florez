@@ -1,6 +1,7 @@
-import React, { useContext, useState } from 'react';
+import React from 'react';
 
 import TabHeader from './TabHeader';
+import TabContent from './TabContent';
 // import logo from './logo.svg';
 // import './App.css';
 
@@ -9,7 +10,7 @@ function TabComponent({ active, setActiveTab }) {
   return (
     <React.Fragment>
       <TabHeader active={active} setActiveTab={setActiveTab}></TabHeader>
-      {/* <Content></Content> */}
+      <TabContent active={active}></TabContent>
     </React.Fragment>
   )
 }
