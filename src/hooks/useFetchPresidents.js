@@ -1,7 +1,7 @@
 import { useState, useEffect } from 'react';
 
 
-function sortPresidents(data, field, sort) {
+function sortPresidents(data, field) {
 
   const presidentsByPoliticalParty = {}
   const result = []
@@ -50,7 +50,7 @@ const useFetchPresident = () => {
         }
         const data = await response.json();
 
-        const result = sortPresidents(data, 'politicalParty', 'descendant')
+        const result = sortPresidents(data, 'politicalParty')
         console.log(result)
 
         setData(result);
