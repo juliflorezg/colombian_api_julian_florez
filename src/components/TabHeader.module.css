@@ -1,0 +1,7 @@
+.tabactive {
+  background-color: turquoise;
+}
+
+.tabinactive {
+  background-color: #fff;
+}
