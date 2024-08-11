@@ -5,8 +5,8 @@ export function groupByDepartmentAndCity(data, departments) {
   console.log({ data, departments })
 
   const locationsByDepartment = {}
-  console.log(locationsByDepartment)
-  console.log(locationsByDepartment)
+  // console.log(locationsByDepartment)
+  // console.log(locationsByDepartment)
   // const result = []
 
   for (let i = 0; i < data.length; i++) {
@@ -14,10 +14,10 @@ export function groupByDepartmentAndCity(data, departments) {
     const departmentKey = departments.find(dept => dept.id === data[i].city.departmentId).name;
     let cityKey = data[i].city.name
 
-    console.log(departmentKey)
-    console.log(cityKey)
-    console.log(locationsByDepartment[departmentKey])
-    console.log(locationsByDepartment[cityKey])
+    // console.log(departmentKey)
+    // console.log(cityKey)
+    // console.log(locationsByDepartment[departmentKey])
+    // console.log(locationsByDepartment[cityKey])
     // console.log(locationsByDepartment[departmentKey][cityKey])
 
     console.log(!locationsByDepartment[departmentKey])
@@ -26,7 +26,7 @@ export function groupByDepartmentAndCity(data, departments) {
       locationsByDepartment[departmentKey] = {}
     }
 
-    console.log(!locationsByDepartment[departmentKey][cityKey])
+    // console.log(!locationsByDepartment[departmentKey][cityKey])
     if (!locationsByDepartment[departmentKey][cityKey]) {
       locationsByDepartment[departmentKey][cityKey] = {}
     }
@@ -36,8 +36,8 @@ export function groupByDepartmentAndCity(data, departments) {
     }
 
     locationsByDepartment[departmentKey][cityKey].items.push(data[i])
-    console.log(locationsByDepartment[departmentKey][cityKey])
-    console.log(locationsByDepartment)
+    // console.log(locationsByDepartment[departmentKey][cityKey])
+    // console.log(locationsByDepartment)
   }
 
   for (const department in locationsByDepartment) {
