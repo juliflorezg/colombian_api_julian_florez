@@ -27,11 +27,6 @@ function sortPresidents(data, field) {
     } else return 0
   })
 
-
-  console.log(presidentsByPoliticalParty)
-
-
-  console.log(result)
   return result
 }
 
@@ -49,14 +44,12 @@ const useFetchPresident = (active) => {
         const finishTime = new Date().getTime()
         const duration = (finishTime - startTime) / 1000
 
-        // console.log({ startTime, finishTime, durationInMS: finishTime - startTime, durationInSec: (finishTime - startTime) / 1000 })
         if (!response.ok) {
           throw new Error(`HTTP error! status: ${response.status}`);
         }
         const data = await response.json();
 
         const result = sortPresidents(data, 'politicalParty')
-        console.log(result)
 
         setData({ data: data, processedData: result, count: result.length, apiResponseInSec: duration });
       } catch (error) {

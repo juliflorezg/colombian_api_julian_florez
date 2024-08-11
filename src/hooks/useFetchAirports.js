@@ -3,7 +3,7 @@ import { groupByDepartmentAndCity } from './useFetchTouristicLocations';
 
 
 
-const useFetchAirports = (departments) => {
+const useFetchAirports = (departments, active) => {
   const [data, setData] = useState(null);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState(null);
@@ -11,14 +11,19 @@ const useFetchAirports = (departments) => {
   useEffect(() => {
     const fetchData = async () => {
       try {
+        const startTime = new Date().getTime()
         const response = await fetch('https://api-colombia.com/api/v1/Airport');
+        const finishTime = new Date().getTime()
+        const duration = (finishTime - startTime) / 1000
+
         if (!response.ok) {
           throw new Error(`HTTP error! status: ${response.status}`);
         }
         const data = await response.json();
 
         const result = groupByDepartmentAndCity(data, departments);
-        setData(result);
+        // setData(result);
+        setData({ data: data, processedData: result, count: data.length, apiResponseInSec: duration });
       } catch (error) {
         setError(error.message);
       } finally {
@@ -26,10 +31,10 @@ const useFetchAirports = (departments) => {
       }
     };
 
-    if (departments) {
+    if (departments && active === "aeropuertos") {
       fetchData();
     }
-  }, [departments]);
+  }, [departments, active]);
 
   return [data, loading, error];
 };
