@@ -1,0 +1,40 @@
+.presidentsTable {
+  width: 100%;
+  border-collapse: collapse;
+  border: 2px solid rgb(140 140 140);
+  font-family: sans-serif;
+  /* font-size: 0.8rem; */
+  letter-spacing: 1px;
+}
+
+.presidentsTable thead {
+  height: 50px;
+  background-color: #2c5e77;
+  color: white;
+}
+
+.presidentsTable tbody {
+  background-color: #fff;
+}
+
+.presidentsTable th,
+td {
+  border: 1px solid rgb(0, 0, 104);
+  height: 30px;
+  padding: .5rem;
+
+}
+
+.presidentsTable__total-row {
+  outline-style: groove;
+}
+
+.presidentsTable__total-text,
+.presidentsTable__total-value {
+  font-size: 1.5rem;
+  border-bottom: 2px solid black;
+}
+
+.presidentsTable__total-value {
+  text-align: center;
+}

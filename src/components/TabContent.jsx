@@ -8,6 +8,7 @@ import './TabHeader.module.css'
 import MessageData from './TotalRegistries';
 import AllRegistriesList from './AllRegistriesList';
 import './TabContent.module.css'
+import ProcessedDataTable from './ProcessedDataTable';
 
 function TabContent({ active }) {
   console.log({ activeTab: active })
@@ -55,15 +56,13 @@ function TabContent({ active }) {
 
   console.log("data:", data)
   console.log("presidents data:", dataPresidents)
-  console.log("locations data:", dataLocations)
-  console.log("airports data:", dataAirports)
-  console.log(loading)
+  // console.log("locations data:", dataLocations)
+  // console.log("airports data:", dataAirports)
+  // console.log(loading)
   return (
     <React.Fragment>
       <p>{active}</p>
       <p>{loading}</p>
-      {/* {(active === "presidentes" && loadingPresidents) | (active === "atracciones" && loadingLocations) | active === "aeropuertos" && loadingAirports ? ( */}
-      {/* {(active === "presidentes" && loadingPresidents) | (active === "atracciones" && loadingLocations) ? ( */}
       {loading ? (
         <div className='spinnerContainer'>
           {loadingSpinnerHTML}
@@ -78,6 +77,10 @@ function TabContent({ active }) {
 
           {data !== null ? (
             <AllRegistriesList data={data.data} active={active} departments={departments} />
+          ) : null}
+
+          {data !== null ? (
+            <ProcessedDataTable data={data.processedData} active={active} departments={departments} />
           ) : null}
 
           {data !== null ? (
