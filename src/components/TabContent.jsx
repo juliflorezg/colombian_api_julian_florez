@@ -49,33 +49,56 @@ function TabContent({ active }) {
     <circle className="path" cx="25" cy="25" r="20" fill="none" strokeWidth="5"></circle>
   </svg>
 
-
   return (
     <React.Fragment>
-      <p>{active}</p>
-      <p>{loading}</p>
       {loading ? (
         <div className='spinnerContainer'>
           {loadingSpinnerHTML}
         </div>
       ) : (
-        <div>
+        <div className='tabContentContainer'>
+
+          <h2>
+            Un componente que exponga la cantidad de registros existentes por cada
+            entidad.
+          </h2>
+
           {data !== null ? (
             <MessageData message={`Número de registros para la entidad ${active}:`} data={data.count} />
           ) : null}
 
+          <h2>
+            Un componente con todos los registros de cada entidad.
+          </h2>
+
           {data !== null ? (
             <AllRegistriesList data={data.data} active={active} departments={departments} />
           ) : null}
+
+
+          <h2>
+            Un componente por cada una de las funciones solicitadas en cada entidad del
+            ítem 2. Procesamiento.
+          </h2>
 
           {data !== null ? (
             <ProcessedDataTable data={data.processedData} active={active} departments={departments} />
           ) : null}
 
           {data !== null && active === 'aeropuertos' ?
-            <AirportsProcessedData data={airportsByRegDepCityType} active={active} />
+            <React.Fragment>
+              <h2>
+                En el caso del numeral d del ítem 2. Procesamiento, el componente debe
+                mostrar la visualización de la estructura de datos final.
+              </h2>
+              <AirportsProcessedData data={airportsByRegDepCityType} active={active} />
+            </React.Fragment>
             : null}
 
+          <h2>
+            Un componente que muestre el tiempo de respuesta de la solicitud a la API (al
+            solicitar los datos de cada entidad).
+          </h2>
           {data !== null ? (
             // <TotalRegistries active={active} count={data.count} />
             <MessageData message={`Tiempo de respuesta para la entidad ${active}:`} data={data.apiResponseInSec} unit="segundos" />

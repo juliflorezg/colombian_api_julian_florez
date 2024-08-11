@@ -8,7 +8,6 @@ function ColombiaDash() {
 
   return (
     <React.Fragment>
-      <h1>aquí irá el dashboard</h1>
       <TabComponent active={activeTab} setActiveTab={setActiveTab}></TabComponent>
     </React.Fragment>
   )
