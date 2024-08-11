@@ -1,0 +1,17 @@
+services:
+  client-react-dev:
+    image: client-react-dev
+    build:
+      context: .
+      dockerfile: ./Dockerfile.1
+    init: true
+    ports:
+      - 3000:3000
+  client-react-nginx:
+    image: client-react-nginx
+    build:
+      context: .
+      dockerfile: ./Dockerfile.2
+    init: true
+    ports:
+      - 8080:8080
