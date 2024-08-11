@@ -1,11 +1,7 @@
 import { useState, useEffect } from 'react';
-// import { groupByDepartmentAndCity } from './useFetchTouristicLocations';
 
 
 function groupByRegionDepartmentCityAndType(data, departments, regions) {
-  console.log('hereeeeeeeeeeee')
-  console.log(data)
-  console.log(regions)
 
   const result = { region: {} }
   for (const r of regions) {
@@ -15,19 +11,11 @@ function groupByRegionDepartmentCityAndType(data, departments, regions) {
   }
 
   for (let i = 0; i < data.length; i++) {
-    //  [0].department.regionId
     const regionKey = regions.find(r => r.id === data[i].department.regionId).name;
-    //  [0].deparmentId
     const departmentKey = departments.find(d => d.id === data[i].department.id).name;
     const cityKey = data[i].city.name
     const type = data[i].type
 
-    console.log({
-      regionKey,
-      departmentKey,
-      cityKey,
-      type
-    })
     if (!result.region[regionKey].departamento[departmentKey]) {
       result.region[regionKey].departamento[departmentKey] = { ciudad: {} }
     }
@@ -41,15 +29,12 @@ function groupByRegionDepartmentCityAndType(data, departments, regions) {
     result.region[regionKey].departamento[departmentKey].ciudad[cityKey].tipo[type]++
   }
 
-  console.log(result)
-  console.log(JSON.stringify(result))
 
-
-  return {}
+  return result
 }
 
 
-const useFetchAirportsByDepCityType = (departments, regions) => {
+const useFetchAirportsByDepCityType = (departments, regions, active) => {
   const [data, setData] = useState(null);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState(null);
@@ -72,10 +57,10 @@ const useFetchAirportsByDepCityType = (departments, regions) => {
       }
     };
 
-    if (departments) {
+    if (departments && active === "aeropuertos") {
       fetchData();
     }
-  }, [departments, regions]);
+  }, [departments, regions, active]);
 
   return [data, loading, error];
 };

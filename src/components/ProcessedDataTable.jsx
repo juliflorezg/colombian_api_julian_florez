@@ -24,8 +24,6 @@ function ProcessedDataTable({ data, active, departments }) {
       </React.Fragment>
 
   } else if (active === 'atracciones') {
-    console.log("~~~~~~~~~~~~ active in processed data table:", active, "~~~~~~~~~~~~")
-    console.log("66666666666666666666666666666", data)
 
     const renderItem = (dep, city, items) => {
       if (items.map) {
@@ -60,7 +58,6 @@ function ProcessedDataTable({ data, active, departments }) {
       // 
       // ]
       const entries = Object.entries(data)
-      console.log(entries)
 
 
       for (const entry of entries) {
@@ -102,7 +99,6 @@ function ProcessedDataTable({ data, active, departments }) {
     }
 
     renderRow = (data) => {
-      console.log("in render row for airports", data)
       const trList = []
       // [
       //   ['Antioquia', {
@@ -144,7 +140,6 @@ function ProcessedDataTable({ data, active, departments }) {
     );
   }
 
-  console.log(data)
   return (
     <div className='cardListContainer'>
       <table className='presidentsTable'>

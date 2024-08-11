@@ -16,9 +16,6 @@ const useFetchRegions = () => {
           throw new Error(`HTTP error! status: ${response.status}`);
         }
         const data = await response.json();
-
-        // const result = sortPresidents(data, 'politicalParty')
-        console.log(data)
         setData(data);
         return data
       } catch (error) {

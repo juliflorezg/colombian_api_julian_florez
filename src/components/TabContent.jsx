@@ -12,7 +12,6 @@ import ProcessedDataTable from './ProcessedDataTable';
 import AirportsProcessedData from './AirportsProcessedData';
 
 function TabContent({ active }) {
-  console.log({ activeTab: active })
   const { departments, regions } = useContext(GlobalDataContext)
   const [data, setData] = useState(null)
   const [loading, setLoading] = useState(false)
@@ -22,10 +21,8 @@ function TabContent({ active }) {
   const [dataAirports, loadingAirports, errorAirports] = useFetchAirports(departments, active)
   const [airportsByRegDepCityType, loadingAirportsType, errorAirportsType] = useFetchAirportsByDepCityType(departments, regions, active)
 
-  console.log({ loadingPresidents, loadingLocations })
 
   useEffect(() => {
-    console.log('active has changed:', active)
     switch (active) {
       case "presidentes": {
         setData(dataPresidents)
@@ -34,14 +31,12 @@ function TabContent({ active }) {
         break
       }
       case "atracciones": {
-        console.log("set loading based on locations")
         setData(dataLocations)
         setLoading(loadingLocations)
         setError(errorLocations)
         break
       }
       case "aeropuertos": {
-        console.log("set loading based on airports")
         setData(dataAirports)
         setLoading(loadingAirports)
         setError(errorAirports)
@@ -63,8 +58,6 @@ function TabContent({ active }) {
         <div className='spinnerContainer'>
           {loadingSpinnerHTML}
         </div>
-        // <p>loading</p>
-        // <div>{loadingSpinnerHTML}</div>
       ) : (
         <div>
           {data !== null ? (
@@ -91,9 +84,6 @@ function TabContent({ active }) {
 
         </div>
       )}
-      {/* <div>
-        {loadingSpinnerHTML}
-      </div> */}
     </React.Fragment>
   );
 }

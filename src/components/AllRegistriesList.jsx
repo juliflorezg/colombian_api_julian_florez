@@ -24,7 +24,6 @@ function AllRegistriesList({ data, active, departments }) {
 
   } else if (active === 'atracciones') {
     card = (item, i) => {
-      console.log(item.city)
       let departmentName
       let cityName
       if (item.city) {

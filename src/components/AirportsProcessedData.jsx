@@ -27,7 +27,6 @@ function AirportsProcessedData({ data, active }) {
     }
 
     renderRow = (data) => {
-      console.log("in render row for airports", data)
       const trList = []
       // {
       //   "region": {
@@ -72,10 +71,6 @@ function AirportsProcessedData({ data, active }) {
     );
   }
 
-  console.group("airports processed data")
-  console.log(active)
-  console.log(data)
-  console.groupEnd("airports processed data")
   return (
     <div className='cardListContainer'>
       <table className='presidentsTable'>
