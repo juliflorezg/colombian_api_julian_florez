@@ -1,7 +1,31 @@
 .tabactive {
-  background-color: turquoise;
+  /* background-color: turquoise; */
+  border-bottom: 5px solid turquoise;
+  font-weight: 700;
 }
 
 .tabinactive {
-  background-color: #fff;
+  border-bottom: 5px solid transparent
+    /* background-color: #fff; */
+}
+
+.tabHeaderList {
+  display: flex;
+  justify-content: center;
+  margin: 0;
+  padding: 0;
+}
+
+.tabHeaderList__listItem {
+  list-style-type: none;
+  padding: 1rem;
+  padding-bottom: 0;
+  font-size: 1.5rem;
+  /* border-bottom: 5px solid transparent; */
+  transition: all .2s ease-in-out;
+}
+
+.tabHeaderList__listItem:hover {
+  cursor: pointer;
+  border-bottom: 5px solid turquoise
 }

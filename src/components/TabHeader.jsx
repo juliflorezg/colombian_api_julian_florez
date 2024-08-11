@@ -5,18 +5,18 @@ function TabHeader({ active, setActiveTab }) {
   // const { departments, regions } = useContext(GlobalDataContext)
   const [listItemsInfo, setListItemsInfo] = useState([
     { presidentes: "Presidentes" },
-    { aeropuertos: "Aeropuertos" },
     { atracciones: "Atracciones turísticas" },
+    { aeropuertos: "Aeropuertos" },
   ])
 
   return (
     <React.Fragment>
-      <ul>
+      <ul className='tabHeaderList'>
         {
           listItemsInfo.map((item) => {
             const [key, value] = Object.entries(item)[0]
             return (
-              <li key={key + value} className={active === key ? 'tabactive' : 'tabinactive'} onClick={() => setActiveTab(key)}>{value}</li>
+              <li key={key + value} className={active === key ? 'tabHeaderList__listItem tabactive' : 'tabHeaderList__listItem tabinactive'} onClick={() => setActiveTab(key)}>{value}</li>
             )
           })
         }
