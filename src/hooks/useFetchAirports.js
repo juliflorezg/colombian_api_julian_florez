@@ -22,7 +22,6 @@ const useFetchAirports = (departments, active) => {
         const data = await response.json();
 
         const result = groupByDepartmentAndCity(data, departments);
-        // setData(result);
         setData({ data: data, processedData: result, count: data.length, apiResponseInSec: duration });
       } catch (error) {
         setError(error.message);
