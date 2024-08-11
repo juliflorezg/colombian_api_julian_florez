@@ -16,13 +16,15 @@ function sortPresidents(data, field) {
     presidentsByPoliticalParty[key].push(data[i])
   }
   for (const key in presidentsByPoliticalParty) {
-    result.push(presidentsByPoliticalParty[key])
+    result.push({ [key]: presidentsByPoliticalParty[key] })
   }
 
   result.sort((a, b) => {
-    if (a.length > b.length) {
+    const valueA = Object.values(a)[0]
+    const valueB = Object.values(b)[0]
+    if (valueA.length > valueB.length) {
       return -1
-    } else if (a.length > b.length) {
+    } else if (valueA.length > valueB.length) {
       return 1
     } else return 0
   })
