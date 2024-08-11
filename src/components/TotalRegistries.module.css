@@ -1,5 +1,19 @@
-.count {
+.messageDataContainer {
+  display: inline-block;
+  background-color: #fffeca;
+  border-radius: 1.25rem;
+  padding: 1rem;
+  margin-bottom: 2rem;
+}
+
+.messageDataContainer p {
+  display: flex;
+  gap: .75rem;
+  margin: 0;
   font-size: 1.5rem;
+}
+
+.count {
   font-weight: 700;
   color: blue;
 }

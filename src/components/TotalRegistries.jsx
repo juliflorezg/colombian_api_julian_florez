@@ -1,16 +1,16 @@
 import React from 'react';
 import './TotalRegistries.module.css'
 
-function TotalRegistries({ active, count }) {
+function MessageData({ message, data, unit }) {
 
   return (
-    <div>
-      <p>Numero total de registros para {active}: <span className='count'>{count}</span></p>
+    <div className='messageDataContainer'>
+      <p><span>{message}</span> <span className='count'>{data}</span><span>{unit}</span></p>
     </div>
   )
 }
 
-export default TotalRegistries
+export default MessageData
 
 
 
