@@ -1,0 +1,63 @@
+.cardListContainer {
+  border-radius: 1.25rem;
+  background-color: #ffe1e1;
+  padding: 1.75rem;
+  margin-bottom: 2rem;
+}
+
+.cardContainer {
+  display: flex;
+  flex-direction: column;
+  background-color: #e4ecff;
+  border-radius: .5rem;
+  margin-bottom: 2rem;
+  padding: 1.5rem;
+}
+
+.cardContainer__image-container {
+  min-width: 50%;
+  max-width: 300px;
+  margin: 0 auto;
+  margin-bottom: 1.75rem;
+}
+
+.cardContainer__image-container img {
+  width: 100%;
+
+}
+
+.cardContainer__presidentInfo {}
+
+.cardContainer__airportInfo {
+  display: flex;
+  flex-direction: column;
+}
+
+.presidentInfo__name {
+  font-size: 1.75rem;
+  color: blue;
+}
+
+.presidentInfo__politicalParty,
+.presidentInfo__period {
+
+  display: flex;
+  gap: 1rem;
+  align-items: center;
+}
+
+@media screen and (min-width: 766px) {
+  .cardContainer {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    gap: 3.5rem;
+  }
+
+  .cardContainer__image-container {
+    min-width: 20%;
+  }
+
+
+
+}
