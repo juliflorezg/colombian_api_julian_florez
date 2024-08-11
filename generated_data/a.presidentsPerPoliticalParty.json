@@ -1,0 +1,670 @@
+[
+  {
+    "Partido Liberal": [
+      {
+        "id": 22,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Enrique_Olaya_Herrera_1.jpg/99px-Enrique_Olaya_Herrera_1.jpg",
+        "name": "Enrique",
+        "lastName": "Olaya Herrera",
+        "startPeriodDate": "1930-08-07",
+        "endPeriodDate": "1934-08-07",
+        "politicalParty": "Partido Liberal",
+        "description": "Enrique Alfredo Olaya Herrera (Guateque, 12 de noviembre de 1880-Roma, 18 de febrero de 1937) fue un periodista, abogado, diplomático y político colombiano, miembro del Partido Liberal Colombiano3​. Fue presidente de Colombia entre 1930 y 1934, siendo el primer liberal en ocupar el cargo luego de la larga estadía de los conservadores en el poder, periodo conocido como la Hegemonía Conservadora. Enrique Olaya Herrera llegó a la presidencia en representación de una coalición bipartidista conocida como Concentración Nacional. Pertenecía a una familia liberal y como tal participó en la Guerra de los Mil Días. Su gobierno tuvo que manejar el problema económico que llevó al país al derrumbamiento de capitales, después de la Gran Depresión de 1929, que fue mundial y tuvo repercusiones en Colombia. Olaya Herrera inició en la década del treinta el ciclo del proteccionismo nacional, con el cual se fomentó el desarrollo de la industria colombiana con capitales nacionales, para hacer de ella la base de los estímulos desarrollistas",
+        "cityId": 255,
+        "city": null
+      },
+      {
+        "id": 23,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Alfonso_Lopez_Pumarejo.jpg/100px-Alfonso_Lopez_Pumarejo.jpg",
+        "name": "Alfonso",
+        "lastName": "Lopez Pumarejo",
+        "startPeriodDate": "1934-08-07",
+        "endPeriodDate": "1938-08-07",
+        "politicalParty": "Partido Liberal",
+        "description": "Alfonso López Pumarejo (Honda, Tolima, 31 de enero de 1886-Londres, 20 de noviembre de 1959) fue un empresario, político, pensador y diplomático colombiano. Ejerció como presidente de la República de Colombia en dos periodos. Nunca obtuvo un título profesional, si bien su preparación en el exterior le permitió tener una visión más contemporánea del mundo, de la economía y de la política; volvió a Bogotá en 1904, empezando a colaborar en los negocios de su padre (la prestigiosa Casa López), llegando a emprender la fundación del Banco Mercantil Americano en 1918, la Casa Mercantil de Ultramar y el Diario Nacional. Fue presidente de Colombia en dos períodos, primero entre 1934 y 1938, y luego entre 1942 y 1945, puesto que tuvo que renunciar. En su primer mandato se hizo conocido por sus medidas progresistas, incluyendo una reforma constitucional en 1936 que le dio a la propiedad privada una función social, y en general por su gobierno conocido como Revolución en Marcha.4​ Durante su segundo mandato presidencial, la división del Partido Liberal y la tenaz oposición conservadora irrogaron la capacidad de maniobra del presidente e incrementaron el descontento general, al punto de que en 1944 fue apresado durante dos días en San Juan de Pasto por el coronel rebelde Diógenes Gil, aunque esta conspiración fracasó. Pese a ello se vio obligado a renunciar en 1945.",
+        "cityId": 1043,
+        "city": null
+      },
+      {
+        "id": 24,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Santos_en_la_Rosario.jpg/99px-Santos_en_la_Rosario.jpg",
+        "name": "Eduardo Santos",
+        "lastName": "Montejo",
+        "startPeriodDate": "1938-08-07",
+        "endPeriodDate": "1942-08-07",
+        "politicalParty": "Partido Liberal",
+        "description": "Eduardo Santos Montejo (Bogotá,1​2​3​28 de agosto de 1888 - Ibidem, 27 de marzo de 1974) fue un abogado, político, humanista y periodista colombiano.4​ Fue miembro y presidente de la Academia Colombiana de Historia durante los años cuarenta y cincuenta, y jefe del Partido Liberal, ejerciendo influencia en las decisiones políticas de su país durante casi cuarenta años. Se le considera como uno de los grandes humanistas del siglo xx en Colombia.5​6​ Como periodista destacó trabajando para uno de los diarios más influyentes de Colombia, El Tiempo, desde el cual defendió los intereses del Partido Liberal y sus propias ambiciones políticas. Estuvo a la cabeza del diario desde su adquisición de manos de Alfonso Villegas en junio de 1913, hasta su muerte en 1974",
+        "cityId": 167,
+        "city": null
+      },
+      {
+        "id": 25,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Alfonso_Lopez_Pumarejo.jpg/100px-Alfonso_Lopez_Pumarejo.jpg",
+        "name": "Alfonso",
+        "lastName": "Lopez Pumarejo",
+        "startPeriodDate": "1942-08-07",
+        "endPeriodDate": "1945-08-07",
+        "politicalParty": "Partido Liberal",
+        "description": "Alfonso López Pumarejo (Honda, Tolima, 31 de enero de 1886-Londres, 20 de noviembre de 1959) fue un empresario, político, pensador y diplomático colombiano. Ejerció como presidente de la República de Colombia en dos periodos. Nunca obtuvo un título profesional, si bien su preparación en el exterior le permitió tener una visión más contemporánea del mundo, de la economía y de la política; volvió a Bogotá en 1904, empezando a colaborar en los negocios de su padre (la prestigiosa Casa López), llegando a emprender la fundación del Banco Mercantil Americano en 1918, la Casa Mercantil de Ultramar y el Diario Nacional. Fue presidente de Colombia en dos períodos, primero entre 1934 y 1938, y luego entre 1942 y 1945, puesto que tuvo que renunciar. En su primer mandato se hizo conocido por sus medidas progresistas, incluyendo una reforma constitucional en 1936 que le dio a la propiedad privada una función social, y en general por su gobierno conocido como Revolución en Marcha.4​ Durante su segundo mandato presidencial, la división del Partido Liberal y la tenaz oposición conservadora irrogaron la capacidad de maniobra del presidente e incrementaron el descontento general, al punto de que en 1944 fue apresado durante dos días en San Juan de Pasto por el coronel rebelde Diógenes Gil, aunque esta conspiración fracasó. Pese a ello se vio obligado a renunciar en 1945.",
+        "cityId": 1043,
+        "city": null
+      },
+      {
+        "id": 26,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Carlos_Lozano_y_Lozano_%28cropped%29.JPG/100px-Carlos_Lozano_y_Lozano_%28cropped%29.JPG",
+        "name": "Carlos",
+        "lastName": "Lozano y Lozano",
+        "startPeriodDate": "1942-10-09",
+        "endPeriodDate": "1942-10-19",
+        "politicalParty": "Partido Liberal",
+        "description": "Carlos Lozano y Lozano (Fusagasugá, Cundinamarca, 31 de enero de 1904-Bogotá, 13 de febrero de 1952) fue un político, abogado, diplomático y estadista colombiano, miembro del Partido Liberal Colombiano. Lozano fue designado presidencial y se encargó del gobierno durante agosto de 1942, en reemplazo del titular Alfonso López Pumarejo, que fue de visita a Venezuela. También ocupó varios cargos relevantes siendo ministro en distintas carteras y gobiernos. Murió de manera trágica y prematura, con 48 años, en la vía a Chiquinquirá, en un confuso accidente víal.",
+        "cityId": 640,
+        "city": null
+      },
+      {
+        "id": 27,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Echand%C3%ADa_en_la_Rosario.jpg/100px-Echand%C3%ADa_en_la_Rosario.jpg",
+        "name": "Dario",
+        "lastName": "Echandia Olaya",
+        "startPeriodDate": "1943-10-19",
+        "endPeriodDate": "1943-05-16",
+        "politicalParty": "Partido Liberal",
+        "description": "Darío Echandía Olaya (Chaparral, 13 de octubre de 1897-Ibagué, 7 de mayo de 19891​) fue un jurista egresado de la Universidad del Rosario, ideólogo, filósofo y político colombiano de ascendencia libanesa, miembro del Partido Liberal. Echandía ocupó el cargo de presidente de Colombia en tres oportunidades, sin haber sido elegido por voto popular2​ y en todas ellas siendo designado o presidente temporal duranta ausencias de los titulares. Tuvo un papel decisivo en los dos mandatos presidenciales que condujo Alfonso López Pumarejo y, luego, en los episodios de “El Bogotazo” o en el desarrollo de la política de concordia en bipartidismo conservador-liberal.",
+        "cityId": 1069,
+        "city": null
+      },
+      {
+        "id": 28,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Lleras_en_la_Rosario.jpg/101px-Lleras_en_la_Rosario.jpg",
+        "name": "Alberto",
+        "lastName": "Lleras Camargo",
+        "startPeriodDate": "1945-08-07",
+        "endPeriodDate": "1946-08-07",
+        "politicalParty": "Partido Liberal",
+        "description": "Alberto Lleras Camargo (Bogotá,1​ 3 de julio de 1906-Bogotá, 4 de enero de 1990) fue un periodista, escritor, diplomático y humanista colombiano, miembro del Partido Liberal Colombiano. Fue conocido como El Monarca2​3​4​5​ o el Muelón Lleras.6​7​8​9​ Es actualmente considerado como el estadista más importante del siglo xx en Colombia.10​11​ Inició su carrera como periodista de los diarios El Liberal, La República, El Espectador y El Tiempo, donde se codeó con grandes personalidades, incluyendo a Alfonso López Pumarejo, quien es considerado como su padrino político y del que fue amigo personal. Al mismo tiempo se opuso, primero al gobierno de Eduardo Santos, y luego al radicalismo del santismo cuando López regresó al poder.",
+        "cityId": 167,
+        "city": null
+      },
+      {
+        "id": 34,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Lleras_en_la_Rosario.jpg/100px-Lleras_en_la_Rosario.jpg",
+        "name": "Alberto",
+        "lastName": "Lleras Camargo",
+        "startPeriodDate": "1958-08-07",
+        "endPeriodDate": "1962-08-07",
+        "politicalParty": "Partido Liberal",
+        "description": "Alberto Lleras Camargo (Bogotá,1​ 3 de julio de 1906-Bogotá, 4 de enero de 1990) fue un periodista, escritor, diplomático y humanista colombiano, miembro del Partido Liberal Colombiano. Fue conocido como El Monarca2​3​4​5​ o el Muelón Lleras.6​7​8​9​ Es actualmente considerado como el estadista más importante del siglo xx en Colombia.10​11​ Inició su carrera como periodista de los diarios El Liberal, La República, El Espectador y El Tiempo, donde se codeó con grandes personalidades, incluyendo a Alfonso López Pumarejo, quien es considerado como su padrino político y del que fue amigo personal. Al mismo tiempo se opuso, primero al gobierno de Eduardo Santos, y luego al radicalismo del santismo cuando López regresó al poder.",
+        "cityId": 167,
+        "city": null
+      },
+      {
+        "id": 37,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/LlerasRestrepo.jpg/100px-LlerasRestrepo.jpg",
+        "name": "Carlos",
+        "lastName": "Lleras Restrepo",
+        "startPeriodDate": "1966-08-07",
+        "endPeriodDate": "1970-08-07",
+        "politicalParty": "Partido Liberal",
+        "description": "Carlos Alberto Lleras Restrepo (Bogotá, 12 de abril de 1908 - Ibídem, 27 de septiembre de 1994) fue un abogado, pensador, periodista y político colombiano. Fue presidente de Colombia durante el período 1966-1970 por el Partido Liberal, siendo el tercero del sistema del Frente Nacional, considerado uno de los mandatarios más proactivos en materia económica y social y reformadores de Colombia, junto a Alfonso López Pumarejo.1​2​3​4​ Tuvo una amplia trayectoria política, ocupando varios cargos a lo largo de su vida. Fue senador de Colombia en los años 40 y luego en los años 60 durante la presidencia de su primo segundo Alberto Lleras. También fue Representante a la Cámara en los años 30, contralor general y rector del colegio Gimnasio Moderno de Bogotá en 1944. Como militante del Partido Liberal fue director de ésta colectividad y apoyó las candidaturas presidenciales de Julio César Turbay y el disidente liberal Luis Carlos Galán. También apoyó el Movimiento de Salvación Nacional, partido fundado por Álvaro Gómez y al que pertenecía su hijo Carlos. Es el abuelo materno del político y exvicepresidente de Colombia Germán Vargas Lleras.",
+        "cityId": 167,
+        "city": null
+      },
+      {
+        "id": 40,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Alfonso_L%C3%B3pez_Michelsen.png/99px-Alfonso_L%C3%B3pez_Michelsen.png",
+        "name": "Alfonso",
+        "lastName": "Lopez Michelsen",
+        "startPeriodDate": "1974-08-07",
+        "endPeriodDate": "1978-08-07",
+        "politicalParty": "Partido Liberal",
+        "description": "Alfonso López Michelsen (Bogotá, 30 de junio de 1913-Bogotá, 11 de julio de 2007) fue un político, catedrático, diplomático y abogado egresado de la Universidad del Rosario. Militó en el Partido Liberal Colombiano y fue elegido como 32º presidente de Colombia para el período 1974-1978.4​ Fue miembro de la prestigiosa familia López, ya que era hijo del también expresidente Alfonso López Pumarejo y nieto del banquero Pedro A. López. Además de su extensa carrera política, López Michelsen también fungió como rector de la Universidad Libre. Salvo por su participación como concejal de Engativá en 1938, es posible afirmar que López Michelsen empezó realmente su vida política cuando superaba sus 40 años. Es de conocimiento público que uno de los motivos para esto fueron las consecuencias del escándalo conocido como \"\"el caso Handel,\"\" el cual involucró a su padre en cargos de corrupción por nepotismo",
+        "cityId": 167,
+        "city": null
+      },
+      {
+        "id": 41,
+        "image": "null",
+        "name": "Indalecio",
+        "lastName": "Liévano Aguirre",
+        "startPeriodDate": "1976-10-06",
+        "endPeriodDate": "1976-12-30",
+        "politicalParty": "Partido Liberal",
+        "description": "Indalecio Liévano Aguirre (Bogotá, 24 de julio de 1917-Ibidem 29 de marzo de 1982) fue un diplomático, escritor, periodista, estadista, abogado, economista, historiador, y político colombiano, militante importante del Partido Liberal Colombiano.1​2​3​ Fue presidente de Colombia brevemente en 1975. Fue canciller de Colombia durante el gobierno de López Michelsen, cargo bajo el cual fue impulsor de varios tratados limítrofes con otros país y una política pacífica con todos los países del mundo;3​ como designado presidencial, ocupó la presidencia brévemente a finales de septiembre de 1975.1​ También fue embajador de Colombia ante la ONU en el de Turbay. En la ONU llegó a ser presidente de la Asamblea General de la ONU en 1978.3​4​ Como escritor e historiador destacó como defensor del legado del expresidente colombiano Rafael Núñez, y la publicación de la que se considera como una de las mejores biografías sobre Simón Bolívar en Hispanoamérica",
+        "cityId": 167,
+        "city": null
+      },
+      {
+        "id": 42,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Julio_C%C3%A9sar_Turbay_Ayala.jpg/100px-Julio_C%C3%A9sar_Turbay_Ayala.jpg",
+        "name": "Julio Cesar",
+        "lastName": "Turbay",
+        "startPeriodDate": "1978-08-07",
+        "endPeriodDate": "1982-08-07",
+        "politicalParty": "Partido Liberal",
+        "description": "Julio César Turbay Ayala (Bogotá, 18 de junio de 1916-ibídem, 13 de septiembre de 2005) fue un político y diplomático colombiano de ascendencia libanesa, militante del Partido Liberal. Fue elegido presidente de Colombia para el período 1978 - 1982. Antes de la presidencia ejerció varios cargos públicos como senador de la república, representante a la cámara por Bogotá, ministro de minas y petróleos, ministro de relaciones exteriores y diplomáticos en varios gobiernos.1​ También fue múltiples veces director de su partido.2​ Asumió el gobierno con poca educación, ya que no tenía un título universitario, lo que le valió críticas,3​4​ además de que sus salidas en falso con la prensa y su aspecto físico le hicieron blanco de chistes y burlas aún incluso después de su mandato.1​ Durante su gobierno la guerrilla urbana Movimiento 19 de abril (M-19) realizó algunas de sus incursiones más conocidas, lo que lo llevó a impulsar una directriz institucional conocida como Estatuto de Seguridad.5​ Gobernó durante el final de la bonanza marimbera y el comienzo del narcotráfico en Colombia,6​ inauguró la televisión a color en Colombia, presentó una reforma constitucional fallida en 1979 y permitió la fundación de la primera universidad castrense de Colombia: La Universidad Militar Nueva Granada.",
+        "cityId": 167,
+        "city": null
+      },
+      {
+        "id": 43,
+        "image": "null",
+        "name": "Victor Manuel",
+        "lastName": "Mosquera Chaux",
+        "startPeriodDate": "1981-02-03",
+        "endPeriodDate": "1981-11-27",
+        "politicalParty": "Partido Liberal",
+        "description": "Víctor Manuel Mosquera Chaux (Popayán, 1° de octubre de 1919-Bogotá, 10 de noviembre de 1997) fue un político, periodista y abogado colombiano, militante del Partido Liberal Colombiano.1​2​ Fue uno de los cofundadores del diario El Liberal de Popayán. En este medio se destacó en calidad de director y como escritor crítico y serio. Por su labor recibió la tarjeta de periodista. Fue también ministro de justicia en el gobierno Lleras, y gobierno en la presidencia de Pastrana, así como Gobernador del Cauca entre 1959 y 1960. Ocupó la presidencia de Colombia en calidad de designado en dos ocasiones durante los años 80.3​4​5​ Es descendiente del General patriota y cuatro veces Presidente de Colombia Tomás Cipriano de Mosquera.",
+        "cityId": 399,
+        "city": null
+      },
+      {
+        "id": 45,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/President_Virgilio_Barco.png/99px-President_Virgilio_Barco.png",
+        "name": "Virgilio",
+        "lastName": "Barco vargas",
+        "startPeriodDate": "1986-08-07",
+        "endPeriodDate": "1990-08-07",
+        "politicalParty": "Partido Liberal",
+        "description": "Virgilio Barco Vargas (Cúcuta, 17 de septiembre de 1921 - Bogotá, 20 de mayo de 1997) fue un ingeniero civil, empresario y político colombiano, miembro del Partido Liberal Colombiano. Fue presidente de Colombia entre 1986 y 1990. En 2023 fue considerado como parte responsable del exterminio de la Unión Patriótica, en tanto cabeza del Estado colombiano durante el recrudecimiento de los asesinatos contra ese movimiento político de izquierda.1​ Ocupó varios cargos públicos como Alcalde Mayor de Bogotá entre 1966 y 1969: ministro de Obras Públicas, ministro de Agricultura, embajador ante el Reino Unido, senador de la República, y finalmente la presidente de Colombia en el período de 1986 a 1990, con la votación más alta de la historia para ese momento2​3​4​, cuando todavía no existía la segunda vuelta presidencial. Con la salida de los liberales del poder en 1946, Barco se declaró en oposición al gobierno, viéndose obligado a salir del país en los años 50. También fue parte de la oposición a la dictadura militar del General Gustavo Rojas Pinilla y participó en la campaña presidencial de Alberto Lleras Camargo, durante el sistema del Frente Nacional, en el que también estuvo involucrado desde su raíz, ya que apoyó todas las campañas presidenciales exitosas desde 1958 a 1974.",
+        "cityId": 870,
+        "city": null
+      },
+      {
+        "id": 46,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/C%C3%A9sar_Gaviria.jpg/100px-C%C3%A9sar_Gaviria.jpg",
+        "name": "Cesar",
+        "lastName": "gaviria Trujillo",
+        "startPeriodDate": "1990-08-07",
+        "endPeriodDate": "1994-08-07",
+        "politicalParty": "Partido Liberal",
+        "description": "César Augusto Gaviria Trujillo (Pereira, 31 de marzo de 1947)1​ es un político colombiano Fue 36.º presidente de Colombia de 1990 a 1994, 7.º secretario general de la Organización de los Estados Americanos de 1994 a 2004, y director nacional del Partido Liberal de 2005 a 2009, cargo que de nuevo ocupa. Durante su mandato como presidente, fue convocada una Asamblea Nacional Constituyente que promulgó la Constitución de Colombia de 1991. En octubre de 2021, su nombre fue mencionado en los Pandora Papers como propietario de una empresa ubicada en Panamá, país considerado paraíso fiscal, a través de la cual adquiría empresas colombianas.",
+        "cityId": 897,
+        "city": null
+      },
+      {
+        "id": 47,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Ernesto_Samper.jpg/99px-Ernesto_Samper.jpg",
+        "name": "Ernesto",
+        "lastName": "Samper Pizano",
+        "startPeriodDate": "1994-08-07",
+        "endPeriodDate": "1998-08-07",
+        "politicalParty": "Partido Liberal",
+        "description": "Ernesto Samper Pizano (Bogotá, 3 de agosto de 1950) es un abogado, economista y político colombiano miembro del Partido Liberal Colombiano.3​ Samper ha ocupado varios cargos a lo largo de su trayectoria como político: ha sido concejal por Bogotá, senador, diputado por Cundinamarca, embajador de Colombia en España, ministro de Desarrollo y finalmente presidente de la República de Colombia entre el 7 de agosto de 1994 y el 7 de agosto de 1998. En julio de 2014 fue elegido secretario general de la UNASUR para presidir este organismo internacional,4​ período que finalizó el 31 de enero de 2019.",
+        "cityId": 167,
+        "city": null
+      }
+    ]
+  },
+  {
+    "Partido conservador": [
+      {
+        "id": 11,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Jos%C3%A9_Manuel_Marroqu%C3%ADn.jpg",
+        "name": "Jose Manuel",
+        "lastName": "Marroquin",
+        "startPeriodDate": "1900-07-31",
+        "endPeriodDate": "1904-08-07",
+        "politicalParty": "Partido conservador",
+        "description": "José Manuel Marroquín Ricaurte (Bogotá, 6 de agosto de 1827-ibidem, 19 de septiembre de 1908), llamado \"\"El Señor de Yerbabuena\"\"2​ fue un escritor, humanista, estadista, periodista y político colombiano, miembro del Partido Conservador Colombiano. Destacado escritor, se considera uno de los grandes exponentes del género costumbrista en Colombia, así como mecenas de la escritura como cofundador de la Academia Colombiana de la Lengua. Entre sus obras literarias, sobresalen sus cuatro novelas: El Moro, Entre primos, Blas Gil y Amores y leyes; y también sus artículos literarios, tanto en prosa como en verso. También destacó como periodista, fundó con sus colegas el periódico El Mosaico, colaborando con Jorge Isaacs, Eugenio Díaz Castro y José María Vergara.",
+        "cityId": 167,
+        "city": null
+      },
+      {
+        "id": 12,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/1/13/Rafael_Reyes.jpg",
+        "name": "Rafael",
+        "lastName": "Reyes Prieto",
+        "startPeriodDate": "1904-08-07",
+        "endPeriodDate": "1909-06-09",
+        "politicalParty": "Partido conservador",
+        "description": "José Gregorio Rafael Reyes Prieto (Santa Rosa de Viterbo, 5 de diciembre de 1849-Bogotá, 18 de febrero de 1921), conocido también simplemente como General Reyes, fue un explorador, comerciante, abogado, político, diplomático y militar colombiano, miembro del Partido Conservador Colombiano.3​ En sus inicios fue un exitoso empresario de la quina y pionera de la colonización de las selvas colombianas. Destacó luego como un militar excepcional, participando en la Guerra de los Mil Días, y en varios conflictos locales durante varias décadas, llegando a ostentar el rango de General del Ejército colombiano. También fungió como diplomático en varios encargos especiales y como ministro de obras públicas en las décadas de los 80 y 90 del siglo xix.",
+        "cityId": 328,
+        "city": null
+      },
+      {
+        "id": 13,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/7/74/Angueucl.jpg",
+        "name": "Diego Euclides",
+        "lastName": "De Angulo Lemos",
+        "startPeriodDate": "1908-03-09",
+        "endPeriodDate": "1908-04-14",
+        "politicalParty": "Partido conservador",
+        "description": "Diego Euclides de Angulo Lemos (Popayán, 12 de noviembre de 1841-Funza, 14 de febrero de 1917) fue un militar y político colombiano. Ocupó la presidencia de Colombia del 9 de marzo al 14 de abril de 19081​ por ausencia temporal del presidente Rafael Reyes, de quien era cuñado y para quien trabajó como ministro en varias carteras.",
+        "cityId": 399,
+        "city": null
+      },
+      {
+        "id": 14,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/9/90/Jorge_Holguin.jpg",
+        "name": "Jorge",
+        "lastName": "Holguin Mallarino",
+        "startPeriodDate": "1909-06-09",
+        "endPeriodDate": "1909-08-04",
+        "politicalParty": "Partido conservador",
+        "description": "Jorge Marcelo Holguín Mallarino (Santiago de Cali, 30 de octubre de 1848-Bogotá, 2 de marzo de 1928), apodado Luis León,5​ fue un estadista, militar, banquero, empresario, periodista, diplomático y político colombiano, miembro del Partido Conservador Colombiano.6​7​ Tiene un registro único en la historia política colombiana, ya que ocupó cargos públicos en todos los gobiernos colombianos desde 1885 hasta 1922, y todos en el mismo partido, convirtiéndolo en el funcionario público que ha trabajado por más tiempo y en más gobiernos nacionales en la historia republicana.8​ También es recordado por haber firmado como ministro de relaciones exteriores el tratado Holguín-Avebury. Fue congresista a principios del siglo XX y agente diplomático especial en medio de la crisis con Panamá.",
+        "cityId": 1093,
+        "city": null
+      },
+      {
+        "id": 15,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/1/14/Ram%C3%B3n_Gonz%C3%A1lez_Valencia.jpg",
+        "name": "Ramon",
+        "lastName": "Gonzalez Valencia",
+        "startPeriodDate": "1909-08-04",
+        "endPeriodDate": "1910-08-07",
+        "politicalParty": "Partido conservador",
+        "description": "José Rafael Ramón Eufrasio de Jesús González Valencia4​ (Chitagá, 24 de mayo de 1851-Pamplona, 3 de octubre de 1928), conocido como \"\"El Bayardo Colombiano\"\" o simplemente como \"\"El Bayardo\"\"5​6​7​8​, fue un militar, político y estadista colombiano, miembro del Partido Conservador Colombiano. Fue un personaje muy reconocido por sus políticas económicas en lo material y un reconocido militar, que participó en importantes guerras del país, no solamente como estratega sino en el campo de batalla. Como militar participó en varios conflictos importantes incluyendo la Guerra de los Mil Días, donde participó como oficial al servicio del gobierno conservador. También se desempeñó como ministro de guerra en 1901 y luego como vicepresidente del conservador Rafael Reyes, de 1904 a 1905.",
+        "cityId": 857,
+        "city": null
+      },
+      {
+        "id": 17,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/e/e7/J.V.Concha.png",
+        "name": "Jose Vicente",
+        "lastName": "Concha",
+        "startPeriodDate": "1914-08-07",
+        "endPeriodDate": "1918-08-07",
+        "politicalParty": "Partido conservador",
+        "description": "José Vicente Concha Ferreira (Bogotá, 21 de abril de 1867-Roma, 8 de diciembre de 19292​) fue un político, abogado, jurisconsulto, sociólogo, periodista, educador y escritor colombiano, miembro del Partido Conservador, siendo uno de los militantes más progresistas dentro del rígido sistema conservador.3​4​5​ Fue presidente de Colombia entre 1914 y 19186​ logrando principalmente mantener al país en la neutralidad durante la Primera Guerra Mundial5​, pese a que tuvo que enfrentar una dura crisis económica por la disminución de las importaciones. Fue abogado y diplomático, representante a la Cámara en 1898 por Bogotá, Ministro de Guerra en 1901, embajador en Estados Unidos en 1902. Como embajador se resistió a firmar un tratado con ese país, que ve como improcedente para Colombia y regresa a finales de dicho año como parlamentario.",
+        "cityId": 167,
+        "city": null
+      },
+      {
+        "id": 18,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Marco_Fidel_Suarez.jpg",
+        "name": "Marco Fidel",
+        "lastName": "Suarez",
+        "startPeriodDate": "1918-08-07",
+        "endPeriodDate": "1921-11-11",
+        "politicalParty": "Partido conservador",
+        "description": "Marco Fidel Suárez Barrientos (Hatoviejo, 23 de abril de 1855-Bogotá, 3 de abril de 1927) fue un escritor, necrólogo,6​ diplomático, estadista, filósofo, educador, catedrático y político colombiano, miembro del Partido Conservador Colombiano. Ocupó el cargo de presidente de la República entre 1918 y 1921, cuando se vio obligado a renunciar.7​ Proveniente de una familia de pocos recursos, a lo largo de su vida ocupó diversos trabajos como maestro, escritor y posteriormente canciller junto a los demás oficios políticos, donde pudo ir adquiriendo conocimiento, hasta su formación clerical durante su adolescencia. Luego fungió como militar hasta su retirada a raíz de la derrota de su causa. A partir del año de 1896 Suárez se adentró en el mundo de la política, tan ajeno a su espíritu y a su carácter pacífico. Fue uno de los marcos y referencias del mundo que exigía un temperamento rígido que no era el suyo. Siempre se sintió perdido en una selva donde sus palabras eran mal interpretadas y sus motivos, distorsionados.",
+        "cityId": 29,
+        "city": null
+      },
+      {
+        "id": 19,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/9/90/Jorge_Holguin.jpg",
+        "name": "Jorge",
+        "lastName": "Holguin Mallarino",
+        "startPeriodDate": "1921-11-11",
+        "endPeriodDate": "1922-08-07",
+        "politicalParty": "Partido conservador",
+        "description": "Jorge Marcelo Holguín Mallarino (Santiago de Cali, 30 de octubre de 1848-Bogotá, 2 de marzo de 1928), apodado Luis León,5​ fue un estadista, militar, banquero, empresario, periodista, diplomático y político colombiano, miembro del Partido Conservador Colombiano.6​7​ Tiene un registro único en la historia política colombiana, ya que ocupó cargos públicos en todos los gobiernos colombianos desde 1885 hasta 1922, y todos en el mismo partido, convirtiéndolo en el funcionario público que ha trabajado por más tiempo y en más gobiernos nacionales en la historia republicana.8​ También es recordado por haber firmado como ministro de relaciones exteriores el tratado Holguín-Avebury. Fue congresista a principios del siglo XX y agente diplomático especial en medio de la crisis con Panamá.",
+        "cityId": 1093,
+        "city": null
+      },
+      {
+        "id": 20,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/2/25/Gen._Pedro_Nel_Ospina%2C_Pres._Colombia_%28LOC%29.jpg",
+        "name": "Pedro Nel",
+        "lastName": "Ospino vasquez",
+        "startPeriodDate": "1922-08-07",
+        "endPeriodDate": "1926-08-07",
+        "politicalParty": "Partido conservador",
+        "description": "Pedro Nel Ignacio Tomás de Villanueva Ospina Vásquez (Bogotá, 18 de septiembre de 1858-Medellín, 1 de julio de 1927), fue un militar, político, educador, empresario, escritor, diplomático e ingeniero colombiano, miembro del Partido Conservador Colombiano. Como empresario fue el encargado de administrar los negocios de su familia, siendo importante en el área de las exportaciones de café, así como también en el área de la extracción minera y la ganadería. Es así mismo reconocido como uno de los empresarios insignes de su región y del país.6​7​ Ocupó distintos cargos públicos a lo largo de su carrera (incluyendo ministro de defensa por su carrera militar) y se desempeñó como presidente de su país en el período 1922-1926.8​ En su gobierno se dio la primera bonanza cafetera del siglo, el ingreso de la indemnización por la pérdida de Panamá en 1903 por parte del gobierno de los Estados Unidos.",
+        "cityId": 167,
+        "city": null
+      },
+      {
+        "id": 21,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/65/Abad%C3%ADa_Mendez_en_la_Rosario_%28cropped%29.jpg",
+        "name": "Miguel",
+        "lastName": "Abadia Mendez",
+        "startPeriodDate": "1926-08-07",
+        "endPeriodDate": "1930-08-07",
+        "politicalParty": "Partido conservador",
+        "description": "Miguel Abadía Méndez (Coello, 5 de julio de 1867-Choachí, 15 de mayo de 1947) fue un abogado, escritor, catedrático y político colombiano, miembro del Partido Conservador Colombiano.4​ Ocupó varios cargos públicos, siendo ministro en siete carteras (Instrucción pública, Hacienda, Relaciones Exteriores, Gobierno, Guerra, Correos y Telégrafos), y fungiendo como consejero de Estado y magistrado de la Corte Suprema de Justicia. Como ministro de Gobierno (Hoy de Interior) orientó la reforma constitucional de 1910 de la Constitución de 1886. Representó al país en Chile, Argentina y Brasil. Fue presidente de Colombia entre 1926 y 1930, siendo el último del período de la Hegemonía Conservadora, ya que por los problemas de sus últimos años de gobierno y la crisis de candidatura de 1930, su partido perdió las elecciones presidenciales, poniendo fin a 4 décadas de gobierno conservador.",
+        "cityId": 30,
+        "city": null
+      },
+      {
+        "id": 44,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Belisario_Betancur_1985.jpg/100px-Belisario_Betancur_1985.jpg",
+        "name": "Belisaio",
+        "lastName": "Betancur Cuartas",
+        "startPeriodDate": "1982-08-07",
+        "endPeriodDate": "1986-08-07",
+        "politicalParty": "Partido conservador",
+        "description": "Belisario Antonio Betancur Cuartas (Amagá, 4 de febrero de 1923-Bogotá, 7 de diciembre de 2018), apodado El Hombre Fuerte de Amagá,1​2​ fue un abogado, escritor, poeta y político colombiano, militante del Partido Conservador y presidente de la República de Colombia durante el período de 1982 a 1986. Fue tres veces candidato presidencial. Como presidente de Colombia intentó dos procesos de paz con las guerrillas de las Fuerzas Armadas Revolucionarias de Colombia - Ejército del Pueblo (FARC-EP), el Movimiento 19 de abril (M-19), y el Ejército Popular de Liberación (EPL) los cuales fracasaron por la falta de apoyo político y compromiso de ambas partes involucradas. También enfrentó la Toma del Palacio de Justicia y la Tragedia de Armero, ambas en 1985, los primeros ataques del narcoterrorismo, el surgimiento del narcoparamilitarismo, el asesinato de su ministro de Justicia, Rodrigo Lara Bonilla y el inicio del genocidio contra la Unión Patriótica.",
+        "cityId": 16,
+        "city": null
+      },
+      {
+        "id": 48,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Andres_Pastrana_Arango_%282001%29.jpg/98px-Andres_Pastrana_Arango_%282001%29.jpg",
+        "name": "Andres",
+        "lastName": "Pastrana Arango",
+        "startPeriodDate": "1998-08-07",
+        "endPeriodDate": "2002-08-07",
+        "politicalParty": "Partido conservador",
+        "description": "Andrés Pastrana Arango (Bogotá, 17 de agosto de 1954) es un abogado, empresario, diplomático, periodista y político colombiano miembro y líder del Partido Conservador Colombiano. Fue alcalde mayor de Bogotá, senador y presidente de Colombia entre 1998 y 2002, es recordado por los fallidos Diálogos de paz con las Fuerzas Armadas Revolucionarias de Colombia-Ejército del Pueblo (FARC-EP).1​ Durante los preparativos de las elecciones regionales de Colombia de 1988, Andrés Pastrana fue secuestrado por 'Los Extraditables' del Cartel de Medellín, en la sede de su campaña a la Alcaldía de Bogotá en el barrio La Soledad.2​ El cautiverio duró entre el 18 y el 25 de enero de ese año cuando fue liberado,3​ lo que le permitió ganar las elecciones del mes de marzo siguiente. Ejerció el cargo de presidente de la República entre 1998 y 2002 siendo el 56.º presidente de la República de Colombia. Hijo de Misael Pastrana Borrero, quien fue presidente de Colombia entre 1970 y 1974.",
+        "cityId": 167,
+        "city": null
+      }
+    ]
+  },
+  {
+    "Partido Conservador": [
+      {
+        "id": 7,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Antonio_Basilio_Cuervo.jpg",
+        "name": "Antonio",
+        "lastName": "Basilio Cuervo",
+        "startPeriodDate": "1893-01-16",
+        "endPeriodDate": "1893-01-17",
+        "politicalParty": "Partido Conservador",
+        "description": "Antonio Basilio Cuervo Urisarri (Bogotá, 13 de junio de 1834-Ibídem, 19 de febrero de 1893) fue un militar, geógrafo, escritor, diplomático, abogado, periodista, historiador y político colombiano, miembro del Partido Conservador Colombiano.3​ Como militar participó de importantes campañas militares en su natal Colombia y en Brasil y los Estados Unidos.4​ Como geógrafo escribió varios tratados relevantes en la materia, y trazó los límites fronterizos entre Colombia y Venezuela.5​ También ejerció como Director de su partido. Ejerció como presidente interno de Colombia los días 16 y 17 de enero de 1893, por encargo del titular Miguel Antonio Caro, durante una revuelta popular en Bogotá.",
+        "cityId": 167,
+        "city": null
+      },
+      {
+        "id": 9,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Museo_Nacional_-_Guillermo_Quintero_Calderon.JPG/800px-Museo_Nacional_-_Guillermo_Quintero_Calderon.JPG",
+        "name": "Guillermo",
+        "lastName": "Quintero Calderón",
+        "startPeriodDate": "1896-03-12",
+        "endPeriodDate": "1896-03-17",
+        "politicalParty": "Partido Conservador",
+        "description": "Guillermo Quintero Calderón (Puerto Nacional, 3 de febrero de 1832-Quintero, Chile, 14 de febrero de 1919), conocido como \"\"El Héroe de la Humareda\"\"1​ fue un militar, escritor, hacendado y político colombiano miembro del Partido Conservador Colombiano.2​ Alcanzó el grado de general después de haber participado en varias de las guerras civiles sucedidas en la época, hasta que empezó a ocupar cargos políticos, como el de gobernador de Santander en 1888, representante a la cámara y senador. Fue elegido designado presidencial para el período 1894-1896. En su calidad de comandante general del Ejército de Colombia, ejerció brevemente la presidencia en ausencia del titular Miguel Antonio Caro, a mediados de marzo de 1985, en lo que se conoció popularmente como \"\"El Gobierno de los Cinco Días\"\".3​ También ejerció otros cargos públicos, siendo ministro para el gobierno de José Manuel Marroquín, y gobernador de Santander a finales del siglo XIX.",
+        "cityId": 452,
+        "city": null
+      },
+      {
+        "id": 29,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Mariano_Ospina_P%C3%A9rez.jpg/100px-Mariano_Ospina_P%C3%A9rez.jpg",
+        "name": "Mariano",
+        "lastName": "Ospina Perez",
+        "startPeriodDate": "1946-08-07",
+        "endPeriodDate": "1950-08-07",
+        "politicalParty": "Partido Conservador",
+        "description": "Luis Mariano Ospina Pérez (Medellín, 24 de noviembre de 1891-Bogotá, 14 de abril de 1976) fue un ingeniero, empresario, y político colombiano, miembro del Partido Conservador Colombiano. Como ingeniero llevó los negocios de su poderosa e influyente familia en el sector comercial y propuso reformas al sistema urbanístico colombiano. Su talento para los negocios lo llevaron a ser el primer presidente de la Federación Nacional de Cafeteros, en 1930. Con amplia trayectoria política, Ospina llegó a ser presidente de Colombia entre 1946 y 1950, en su gobierno, intentó sin éxito gobernar con ambos partidos. sobresalió por obras como el Instituto de Seguros Sociales, la privatización del petróleo y la creación de la Flota Mercante Grancolombiana.",
+        "cityId": 12,
+        "city": null
+      },
+      {
+        "id": 30,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Laureano_G%C3%B3mez_%28c._1925-1926%29.jpg/84px-Laureano_G%C3%B3mez_%28c._1925-1926%29.jpg",
+        "name": "Laureano",
+        "lastName": "Gomez Castro",
+        "startPeriodDate": "1950-08-07",
+        "endPeriodDate": "1951-11-05",
+        "politicalParty": "Partido Conservador",
+        "description": "Laureano Eleuterio Gómez Castro1​ (Bogotá, 20 de febrero de 1889-ibidem, 13 de julio de 1965), llamado por sus partidarios El Hombre Tempestad, El Tribuno del Siglo XX, El Monstruo, y por sus adversarios liberales como El Basilisco,2​3​4​ fue un ingeniero, periodista, diplomático y político colombiano, militante y líder del Partido Conservador Colombiano. Gómez fue durante tres décadas uno de los líderes más prominentes del Partido Conservador y considerado uno de los oradores más eminentes de Colombia. Es un personaje controvertido en la historia de Colombia hasta el día de hoy. Tenía unas posturas binarias que no daban cabida a ningún matiz5​. Su nacionalismo, mezclado con un pensamiento católico preconciliar, ortodoxo y conservador, lo acercaron al nacionalcatolicismo español con el que mantuvo cierta concordancia.",
+        "cityId": 167,
+        "city": null
+      },
+      {
+        "id": 31,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Roberto_Urdaneta_Arbelaez.jpg/91px-Roberto_Urdaneta_Arbelaez.jpg",
+        "name": "Roberto",
+        "lastName": "Urdaneta Arbelaez",
+        "startPeriodDate": "1951-11-05",
+        "endPeriodDate": "1953-06-13",
+        "politicalParty": "Partido Conservador",
+        "description": "Roberto Urdaneta Arbeláez (Bogotá, 27 de junio de 1890-ibidem, 20 de agosto de 1972) fue un diplomático, estadista, periodista y político colombiano.1​ Fue miembro del Grupo Nacional Colombiano de la Corte Permanente de Arbitraje de La Haya.2​ Catedrático en la Universidad Nacional de Colombia; Ministro de Hacienda, ministro de Gobierno y ministro de guerra, durante los mandatos de los presidentes: Alfonso López Pumarejo, Mariano Ospina Pérez y Laureano Gómez. Ocupó la presidencia de Colombia, en calidad de designado, desde el 5 de noviembre de 1951 hasta el 13 de junio de 1953, en reemplazo del titular Laureano Gómez Castro, quien se retiró del cargo por motivos de salud. Fue sucedido por una dictadura militar de 4 años, en el gobierno de Gustavo Rojas Pinilla.",
+        "cityId": 167,
+        "city": null
+      },
+      {
+        "id": 35,
+        "image": "https://es.wikipedia.org/wiki/Archivo:Guillermo_Leon_Valencia_Munoz.jpg",
+        "name": "Guillermo Leon",
+        "lastName": "Valencia",
+        "startPeriodDate": "1962-08-07",
+        "endPeriodDate": "1966-08-07",
+        "politicalParty": "Partido Conservador",
+        "description": "Guillermo León Valencia Muñoz (Popayán, 27 de abril de 1909-Nueva York, 4 de noviembre de 1971) fue un abogado, político y diplomático colombiano, miembro del Partido Conservador Colombiano.3​ Valencia ocupó varios cargos públicos desde concejal de Popayán hasta presidente de su país.4​ Representó a Colombia ante la Organización de las Naciones Unidas durante la IV Sesión de la Asamblea General celebrada en 1949.5​6​ Fue designado embajador extraordinario y plenipotenciario en España en dos oportunidades una de ellas al culminar su mandato presidencial.7​ Fue presidente de Colombia entre 1962 a 1966, siendo el segundo presidente del sistema bipartidista conocido como Frente Nacional. Como presidente tuvo que enfrentar el surgimiento de las guerrillas FARC y ELN, a quienes no logró controlar8​, y por lo cual se creó el sistema legal de autodefensas o de los grupos paramilitares amparados por el Decreto 3398 de 1965.",
+        "cityId": 399,
+        "city": null
+      },
+      {
+        "id": 36,
+        "image": "",
+        "name": "Jose Antonio",
+        "lastName": "Monsalvo",
+        "startPeriodDate": "1963-08-06",
+        "endPeriodDate": "1963-08-08",
+        "politicalParty": "Partido Conservador",
+        "description": "Montalvo Berbeo nació en Bogotá el 22 de febrero de 1892, hizo sus estudios secundarios en el Colegio de los Hermanos Cristianos y en el Colegio Mayor de Nuestra Señora del Rosario y en 1914, se graduó de abogado del Colegio Mayor de Nuestra Señora del Rosario. Se enroló en la carrera judicial como fiscal de la causa por el asesinato de Rafael Uribe Uribe. Estuvo casado con Isabel Higuera Jiménez con la que tuvo a sus hijos Gabriel Montalvo Higuera uno de los grandes jerarcas de la Iglesia Católica en el mundo y Teresa Montalvo Higuera una religiosa. Aparte de su actividad oficial, Montalvo fue profesor de Derecho Penal de la Pontificia Universidad Javeriana, y también dictó las cátedras de Derecho Internacional Privado y Pruebas Judiciales, en el Colegio Mayor de Nuestra Señora del Rosario.",
+        "cityId": 167,
+        "city": null
+      },
+      {
+        "id": 38,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Misael_Pastrana_en_1970.jpg/100px-Misael_Pastrana_en_1970.jpg",
+        "name": "Misael",
+        "lastName": "Pastrana Borrero",
+        "startPeriodDate": "1970-08-07",
+        "endPeriodDate": "1974-08-07",
+        "politicalParty": "Partido Conservador",
+        "description": "Misael Eduardo Pastrana Borrero (Neiva, 14 de noviembre de 1923-Bogotá, 21 de agosto de 1997) fue un abogado penalista, diplomático, periodista5​, escritor6​, activista ambiental7​ y político colombiano, miembro activo del Partido Conservador Colombiano, del cual llegó a ser uno de sus máximos exponentes. Pastrana destacó desde muy joven como político del conservatismo moderado8​, siendo apadrinado políticamente por el prestigioso ingeniero y empresario Mariano Ospina Pérez, quien llegó a ser presidente de Colombia en 1946, y bajo cuya tutela Pastrana se inició en el mundo de la políticaː Fue secretario de la presidencia (1949-1950), ministro de varias carteras en los años 60, y finalmente ministro de gobierno, renunciando al cargo para buscar una candidatura presidencial en 1969. Fue elegido como presidente de Colombia entre el 7 de agosto de 1970 y el 7 de agosto de 1974, coincidiendo su período con el último cuatrenio del Frente Nacional.9​10​ A pesar de que su gobierno fue estable, se considera poco proactivo, ya que con contadas excepciones se considera que no ocurrió nada de trascendencia.11​ Pese a su afiliación al conservatismo fue un tímido progresista.12​ En su último año de gobierno (1974) apareció el Movimiento 19 de abril (M-19), guerrilla urbana surgida del inconformismo por el presunto fraude electoral13​14​15​16​ que protagonizó y que lo habría llevado a la presidencia, en 1970",
+        "cityId": 167,
+        "city": null
+      },
+      {
+        "id": 39,
+        "image": "",
+        "name": "Rafael",
+        "lastName": "Azuero Manchola",
+        "startPeriodDate": "1973-07-21",
+        "endPeriodDate": "1973-07-24",
+        "politicalParty": "Partido Conservador",
+        "description": "Rafael Azuero Manchola (Neiva, 21 de septiembre de 1908-Neiva, 14 de septiembre de 1982) fue un médico y político colombiano, miembro del Partido Conservador Colombiano. Estudió medicina en la Universidad Nacional de Colombia; regresó a su región y ejerció la profesión en Pitalito y en la misma Neiva, siendo elegido concejal de la ciudad por el Partido Conservador en 1934. Fue Representante a la Cámara por el departamento del Huila y senador. En 1970 fue elegido presidente del Directorio Nacional Conservador y en 1972 el Congreso lo elige Designado Presidencial. Entre el 21 y el 24 de julio de 1973, Azuero ejerció la Presidencia de Colombia, ante el viaje del titular Misael Pastrana a Venezuela.",
+        "cityId": 657,
+        "city": null
+      }
+    ]
+  },
+  {
+    "Partido nacional": [
+      {
+        "id": 3,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/d/db/Rafael_Nunez.JPG",
+        "name": "Rafael",
+        "lastName": "Nuñez Moledo",
+        "startPeriodDate": "1887-06-04",
+        "endPeriodDate": "1888-08-07",
+        "politicalParty": "Partido nacional",
+        "description": "Rafael Wenceslao Núñez Moledo (Cartagena, 28 de septiembre de 1825-Ib., 18 de septiembre de 1894) fue un abogado, periodista, escritor, político y militar colombiano, antiguo miembro del Partido Liberal Colombiano y luego líder del Partido Nacional. Primero como liberal moderado y luego como líder de una coalición bipartidista, Núñez fue a nombre propio presidente del país en 4 ocasiones, y fue clave para el ascenso político de figuras como Miguel Antonio Caro, Carlos Holguín, Eliseo Payán, Francisco Javier Zaldúa, entre otros importantes personajes. También fue clave para el regreso de los conservadores al poder, en lo que se conoció como hegemonía conservadora.",
+        "cityId": 210,
+        "city": null
+      },
+      {
+        "id": 4,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Carlos-holguin-Mallarino.jpg",
+        "name": "Carlos",
+        "lastName": "Holguín Mallarino",
+        "startPeriodDate": "1888-08-07",
+        "endPeriodDate": "1892-08-07",
+        "politicalParty": "Partido nacional",
+        "description": "Carlos Holguín Mallarino (Nóvita, Chocó, 11 de julio de 1832-Bogotá, 19 de octubre de 1894) fue un abogado, empresario, diplomático, político, periodista y militar colombiano, miembro del Partido Conservador Colombiano. Previamente a su presidencia Holguín había destacado como periodista. En Cali creó el periódico El Caucano (1857). En Bogotá colaboró con la redacción de La Prensa. Igualmente fue un asiduo colaborador de los periódicos conservadores de la capital, El Conservador, El Filotémico, El Porvenir y El Tradicionista entre otros. Además escribió numerosos sonetos y escritos en periódicos y revistas. En sus escritos fue sarcástico, irónico, polemista y crítico.",
+        "cityId": 482,
+        "city": null
+      },
+      {
+        "id": 5,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Miguel_antonio_caro.png",
+        "name": "Miguel Antonio",
+        "lastName": "Caro",
+        "startPeriodDate": "1892-08-07",
+        "endPeriodDate": "1892-09-21",
+        "politicalParty": "Partido nacional",
+        "description": "Miguel Antonio José Zolio Cayetano Andrés Avelino de las Mercedes Caro Tobar (Bogotá, 10 de noviembre de 1843-Bogotá, 5 de agosto de 1909), más conocido simplemente como Miguel Antonio Caro, fue un humanista, periodista, escritor, filólogo y político colombiano. Presidente de Colombia, entre 1892 a 1898 y Vicepresidente de Colombia, entre 1892 y 1894.",
+        "cityId": 167,
+        "city": null
+      },
+      {
+        "id": 6,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/d/db/Rafael_Nunez.JPG",
+        "name": "Rafael",
+        "lastName": "Nuñez Moledo",
+        "startPeriodDate": "1892-09-21",
+        "endPeriodDate": "1894-09-18",
+        "politicalParty": "Partido nacional",
+        "description": "Rafael Wenceslao Núñez Moledo (Cartagena, 28 de septiembre de 1825-Ib., 18 de septiembre de 1894) fue un abogado, periodista, escritor, político y militar colombiano, antiguo miembro del Partido Liberal Colombiano y luego líder del Partido Nacional. Primero como liberal moderado y luego como líder de una coalición bipartidista, Núñez fue a nombre propio presidente del país en 4 ocasiones, y fue clave para el ascenso político de figuras como Miguel Antonio Caro, Carlos Holguín, Eliseo Payán, Francisco Javier Zaldúa, entre otros importantes personajes. También fue clave para el regreso de los conservadores al poder, en lo que se conoció como hegemonía conservadora.",
+        "cityId": 210,
+        "city": null
+      },
+      {
+        "id": 8,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Miguel_antonio_caro.png",
+        "name": "Miguel Antonio",
+        "lastName": "Caro",
+        "startPeriodDate": "1894-09-18",
+        "endPeriodDate": "1898-08-07",
+        "politicalParty": "Partido nacional",
+        "description": "Miguel Antonio José Zolio Cayetano Andrés Avelino de las Mercedes Caro Tobar (Bogotá, 10 de noviembre de 1843-Bogotá, 5 de agosto de 1909), más conocido simplemente como Miguel Antonio Caro, fue un humanista, periodista, escritor, filólogo y político colombiano. Presidente de Colombia, entre 1892 a 1898 y Vicepresidente de Colombia, entre 1892 y 1894.",
+        "cityId": 167,
+        "city": null
+      },
+      {
+        "id": 10,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Manuel_antonio_sanclemente.jpg",
+        "name": "Manuel Antonio",
+        "lastName": "Sanclemente",
+        "startPeriodDate": "1898-07-08",
+        "endPeriodDate": "1900-07-31",
+        "politicalParty": "Partido nacional",
+        "description": "Manuel Antonio San-clemente (Buga, 15 de septiembre de 1813-Villeta, 19 de marzo de 1902) fue un estadista, educador, jurista y político colombiano. Ocupó la presidencia de la República entre 1898 y 1900, cuando un golpe de Estado orquestado por su vicepresidente lo sacó del poder de manera pacífica.2​ Como militar y político le correspondió afrontar la guerra civil de 1860, que se inició en los estados del Cauca, Santander y Bolívar y se extendió por todo el país, destacando las acciones del Oratorio, Manizales, Segovia, La Barrigona, Subachoque, El Rosal, Usaquén y Bogotá. Durante su gobierno estalló la guerra de los Mil Días, que determinó su derrocamiento, el debilitamiento de Colombia y la pérdida de Panamá en 1903. Ha sido el presidente de Colombia con mayor edad en ejercer el cargo, con 84 años al momento de asumir funciones",
+        "cityId": 1095,
+        "city": null
+      }
+    ]
+  },
+  {
+    "Partido Nacional": [
+      {
+        "id": 2,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Eliseo_Pay%C3%A1n_1.jpg",
+        "name": "Eliseo",
+        "lastName": "Payán Hurtado",
+        "startPeriodDate": "1887-01-07",
+        "endPeriodDate": "1887-06-04",
+        "politicalParty": "Partido Nacional",
+        "description": "José Eliseo Payán Hurtado (Cali, 1 de agosto de 1825-Buga, 30 de junio de 1895) fue un estadista, abogado, militar y político colombiano. Es conocido por su carrera política en Buga y en Cauca, futuro Valle del Cauca. Payán fue el primer vicepresidente de la actual Colombia, y también ocupó la presidencia de la República entre enero y junio de 1887, como vicepresidente de Rafael Núñez, quien estaba en licencia. Su mandato se caracterizó por acercarse a los liberales radicales y por la moderación del conservatismo, en el período conocido como la \"\"Payanización\"\".",
+        "cityId": 1093,
+        "city": null
+      },
+      {
+        "id": 1,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/63/Jos%C3%A9_Mar%C3%ADa_Campo_Serrano_1.jpg",
+        "name": "José María",
+        "lastName": "Campo Serrano",
+        "startPeriodDate": "1886-08-05",
+        "endPeriodDate": "1887-01-06",
+        "politicalParty": "Partido Nacional",
+        "description": "José María Campo Serrano (Santa Marta, 8 de septiembre de 1832-Santa Marta, 24 de febrero de 1915) fue un político, abogado y militar colombiano, miembro del extinto Partido Nacional Colombiano. Ocupó varios cargos de importancia, siendo congresista, gobernador en varias ocasiones del Estado Soberano del Magdalena y jefe civil y militar de Antioquia durante la revolución de 1885. También ejerció como ministro durante los gobiernos de Francisco Javier Zaldúa, Ezequiel Hurtado y Rafael Núñez. Concurrió por Antioquia al Consejo Nacional de Delegatarios. Campo fue elegido designado presidencial para el período 1886-1888, siendo nombrado presidente ante la ausencia del titular Rafael Núñez, de 1886 a enero de 1887. En su corto mandato, Campo fue el encargado de sancionar la nueva constitución de 1886, que estuvo vigente hasta 1991.",
+        "cityId": 709,
+        "city": null
+      }
+    ]
+  },
+  {
+    "Militar": [
+      {
+        "id": 32,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Portrait_of_Gustavo_Rojas_Pinilla_%28cropped%29.png/110px-Portrait_of_Gustavo_Rojas_Pinilla_%28cropped%29.png",
+        "name": "Gustavo",
+        "lastName": "Rojas Pinilla",
+        "startPeriodDate": "1953-06-13",
+        "endPeriodDate": "1957-05-10",
+        "politicalParty": "Militar",
+        "description": "Gustavo Rojas Pinilla (Tunja, 12 de marzo de 1900-Melgar, 17 de enero de 1975), fue un militar, ingeniero civil y político colombiano. Durante su carrera política fue apodado Gurropín debido a las primeras sílabas de su nombre.6​7​8​9​ Fue presidente de Colombia tras el golpe de Estado que le daría al titular Laureano Gómez, ocupando de facto la presidencia de Colombia del 13 de junio de 1953 al 10 de mayo de 1957 mediante una dictadura militar.10​ Su mandato se caracterizó por la realización de relevantes trabajos de infraestructura,11​ gracias a obras como el Aeropuerto Internacional El Dorado, el Hospital Militar Central, la calle 26, el Centro Administrativo Nacional (CAN) y la Secretaría Nacional de Asistencia Social (Sendas), además algunas concesiones petroleras volvieron al control gubernamental. 12​ Durante su gobierno se inició el proceso de despolitización de la Policía Nacional13​ y la llegada del servicio de televisión al país, también dio término a la segunda etapa de la época conocida como La Violencia.14​ En 1954, durante su mandato se reconoció el derecho al sufragio femenino.15​ También prohibió el porte legal de armas a través de un sistema de salvoconductos.",
+        "cityId": 1046,
+        "city": null
+      },
+      {
+        "id": 33,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Junta_Militar_de_1957.jpg/100px-Junta_Militar_de_1957.jpg",
+        "name": "Junta Militar",
+        "lastName": "De Gobierno",
+        "startPeriodDate": "1957-05-10",
+        "endPeriodDate": "1958-08-07",
+        "politicalParty": "Militar",
+        "description": "La Junta Militar de Gobierno de 1957 fue el órgano militar que rigió a Colombia entre el 10 de mayo de 1957 y el 7 de agosto de 1958.1​ Asumió el poder después de la renuncia del general Gustavo Rojas Pinilla a la presidencia. Estaba compuesta por cinco miembros, todos oficiales generales de las Fuerzas Militares de Colombia. Su gobierno permitió a los partidos liberal y conservador poner en práctica el pacto del Frente Nacional, mediante el cual se alternaron la presidencia hasta 1974. También fue la encargada de la transición del gobierno militar al sistema de democracia. Se trata del único gobierno militar plural de la historia de Colombia.",
+        "cityId": 167,
+        "city": null
+      }
+    ]
+  },
+  {
+    "Unión Republicana (Conservador)": [
+      {
+        "id": 16,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Carlos_Eugenio_Restrepo_Restrepo.jpg",
+        "name": "Carlos Eugenio",
+        "lastName": "Restrepo Restrepo",
+        "startPeriodDate": "1910-08-07",
+        "endPeriodDate": "1914-08-07",
+        "politicalParty": "Unión Republicana (Conservador)",
+        "description": "Carlos Eugenio Restrepo Restrepo (Medellín, 12 de septiembre de 1867- Ibídem, 6 de julio de 1937), fue un político, abogado, periodista, escritor, empresario y militar colombiano, miembro del Partido Conservador Colombiano y militante de la influyente coalición Unión Republicana. Restrepo fue un férreo opositor al gobierno de Rafael Reyes, y se destacó como periodista y analista político. También fue un exitoso empresario, siendo miembro y presidente de la primera Junta Directiva de la Cámara de Comercio de Medellín para Antioquia, y fundador y gerente de la Compañía Antioqueña de Tejidos.",
+        "cityId": 12,
+        "city": null
+      }
+    ]
+  },
+  {
+    "Partido Primero Colombia": [
+      {
+        "id": 49,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Presidente_%C3%81lvaro_Uribe_V%C3%A9lez.jpg/100px-Presidente_%C3%81lvaro_Uribe_V%C3%A9lez.jpg",
+        "name": "Alvaro",
+        "lastName": "Uribe Velez",
+        "startPeriodDate": "2002-08-07",
+        "endPeriodDate": "2010-08-07",
+        "politicalParty": "Partido Primero Colombia",
+        "description": "Álvaro Uribe Vélez (Medellín, 4 de julio de 1952) es un abogado, empresario2​ y político colombiano de ideología conservadora3​, considerado por la prensa internacional y local como el político más influyente de lo que lleva transcurrido el siglo XXI en Colombia.4​5​ Uribe es abogado de la Universidad de Antioquia y cursó estudios en administración, gerencia y negociación de conflictos en la Escuela de Extensión de la Universidad de Harvard;6​ y es miembro sénior asociado del St Antony's College de la Universidad de Oxford.7​ Desempeñó diferentes cargos en las Empresas Públicas de Medellín, el Ministerio de Trabajo y la Aeronáutica Civil. Fue alcalde de Medellín (1982), senador de la República (1986-1994) y gobernador de Antioquia (1995-1997), siendo elegido presidente de la República de Colombia en 2002 y reelegido en 2006.8​ Fue presidente de Colombia en los períodos 2002-2006 y 2006-2010.8​Anteriormente cercano al Partido Liberal Colombiano, Uribe se presentó a las elecciones presidenciales de 2002, apoyado por el movimiento Primero Colombia, logrando imponerse a sus contendores con el 54 % de los votos a su favor. Su mandato se caracterizó por la lucha contra el terrorismo y el narcotráfico bajo la política de seguridad democrática, un programa de gobierno que fue financiado en parte por el Plan Colombia y que recibió críticas por sectores de la oposición, disidentes y defensores de derechos humanos.9​10​ Promovió su reelección y fue reelecto en 2006 tras haber logrado la aprobación de la reforma constitucional de 2005, la cual dio vía libre a la reelección",
+        "cityId": 12,
+        "city": null
+      }
+    ]
+  },
+  {
+    "Partido de la U": [
+      {
+        "id": 50,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Juan_Manuel_Santos_and_Lula_%28cropped%29.jpg/98px-Juan_Manuel_Santos_and_Lula_%28cropped%29.jpg",
+        "name": "Juan Manuel",
+        "lastName": "Santos Calderon",
+        "startPeriodDate": "2010-08-07",
+        "endPeriodDate": "2018-08-07",
+        "politicalParty": "Partido de la U",
+        "description": "Juan Manuel Santos Calderón (Bogotá, 10 de agosto de 1951) es un político, economista y docente colombiano ganador del Premio Nobel de la Paz 2016, que ejerció el cargo de presidente de la República de Colombia desde el 7 de agosto de 2010 hasta el 7 de agosto de 2018, siendo reelegido en 2014. Actualmente es profesor en la Escuela de Gobierno John F. Kennedy de la Universidad de Harvard,3​ de la Universidad Nacional de Colombia4​ y Miembro de la Junta de la Fundación Rockefeller. 5​6​7​ Incursionó a la política haciéndose miembro del Partido Liberal Colombiano, fue ministro de Comercio Exterior durante el gobierno de César Gaviria, más tarde hizo parte del gobierno del conservador Andrés Pastrana Arango en el que se desempeñó como ministro de Hacienda. Después de consolidarse el gobierno de Álvaro Uribe Vélez en la presidencia en 2002, Santos dejó el Partido Liberal y fue uno de los creadores del Partido de la U, fue nombrado ministro de Defensa durante el gobierno de Álvaro Uribe desde el 19 de julio de 2006 (Decreto 2271 de 20068​) hasta el 23 de mayo de 2009 (Decreto 1853 de 20099​), periodo en la cual se dio el auge del fenómeno conocido como Falsos positivos en Colombia, de la mano de un programa de incentivos del Ministerio de Defensa a los integrantes del Ejército que demostrarán resultados contra la subversión, detallado en la Directiva Ministerial 029 de 2005. En 2016 recibió el Premio Nobel de la Paz \"\"por sus decididos esfuerzos para llevar más de cincuenta años de guerra civil en el país a su fin\"\".",
+        "cityId": 167,
+        "city": null
+      }
+    ]
+  },
+  {
+    "Partido Centro Democratico": [
+      {
+        "id": 51,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Iv%C3%A1n_Duque_M%C3%A1rquez_%2849610487797%29_%28cropped%29.jpg/99px-Iv%C3%A1n_Duque_M%C3%A1rquez_%2849610487797%29_%28cropped%29.jpg",
+        "name": "Ivan",
+        "lastName": "Duque Marquez",
+        "startPeriodDate": "2018-08-07",
+        "endPeriodDate": "2022-08-07",
+        "politicalParty": "Partido Centro Democratico",
+        "description": "Iván Duque Márquez (Bogotá, 1 de agosto de 1976) es un abogado, escritor y político colombiano. Fue presidente de Colombia desde el 7 de agosto de 2018 hasta el 7 de agosto de 2022.4​ Ejerció como senador de la República de Colombia desde el 20 de julio de 2014 hasta el 10 de abril de 2018.1​2​3​ Trabajó como representante de Colombia ante el Banco Interamericano de Desarrollo. Abogado de la Universidad Sergio Arboleda, comenzó su vida política como asesor del entonces ministro de Hacienda, Juan Manuel Santos, quien lo nombró como representante de Colombia ante el Banco Interamericano de Desarrollo (BID), entre 2001 hasta 2013, donde estuvo encargado de la División de Cultura.3​5​6​ Posteriormente, rompió con el Gobierno de Santos tras la apertura de los diálogos de paz y se postuló para senador de la república por el Centro Democrático,7​ resultando electo para el periodo 2014-2018.8​ Finalizado su primer periodo como senador, se postuló a la presidencia, liderando una coalición uribista2​ y ganó las elecciones presidenciales de 2018, a sus cuarenta y dos años. Se convirtió en el presidente más joven de la historia reciente de Colombia.1​9​10​ Durante su gobierno, dio continuidad a algunos elementos de los acuerdos de paz con las FARC-EP, firmados por el Gobierno antecesor. La Misión de Verificación de la ONU, así como el Consejo de Seguridad del mismo organismo, han reiterado su apoyo y acompañamiento a la implementación de los mismos.11​ Si bien numerosos grupos de la sociedad civil, analistas y opositores políticos, objetan la falta de compromiso del Ejecutivo en ejercicio en cumplir a cabalidad con los acuerdos. También ha continuado el asesinato de exguerrilleros de las FARC-EP, reinsertados a la vida civil, que se venía dando desde la firma misma de los acuerdos en 2016.",
+        "cityId": 167,
+        "city": null
+      }
+    ]
+  },
+  {
+    "Colombia Humana": [
+      {
+        "id": 52,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Presidente_Gustavo_Petro_Urrego.jpg/100px-Presidente_Gustavo_Petro_Urrego.jpg",
+        "name": "Gustavo Francisco",
+        "lastName": "Petro Urrego",
+        "startPeriodDate": "2022-08-07",
+        "endPeriodDate": null,
+        "politicalParty": "Colombia Humana",
+        "description": "Gustavo Francisco Petro Urrego (Ciénaga de Oro,a​ 19 de abril de 1960)2​ es un político y economista colombiano. Es el actual presidente de la República de Colombia desde el 7 de agosto de 2022. Desde temprana edad, vivió en Zipaquirá, Cundinamarca, en esta ciudad fue personero y después concejal.3​ En su juventud militó en el Movimiento 19 de abril (M-19), una guerrilla urbana partícipe del conflicto armado interno de Colombia entre 1974 y 1990, la cual, tras su desmovilización en 1990, se transformaría en la Alianza Democrática M-19, la segunda fuerza política más importante en la Asamblea Constituyente de 1991. Bajo sus siglas, fue electo para ser miembro de la Cámara de Representantes en las elecciones de 1991.4​ Fue senador de la república por el Polo Democrático Alternativo (PDA), cargo al que accedió en las elecciones de 2006.5​6​ En el 2009, renunció a su cargo para aspirar a la presidencia de Colombia, en las elecciones de 2010, en representación del mismo partido. Tras su salida del Polo Democrático, funda el Movimiento Progresistas (posteriormente Colombia Humana) con el que llegó a la alcaldía de Bogotá, gobernándola entre 2012 y 2015.7​ En 2020, la Corte IDH emitió un fallo en contra del Estado colombiano por haber destituido y obstruido su alcaldía en Bogotá en el 2013.8​ En 2018 fue candidato para la presidencia de Colombia por segunda vez: en dichas elecciones ocupó el segundo lugar, permitiéndole ser senador, gracias a la ley de estatuto de oposición, que otorga un escaño a la segunda votación presidencial más alta.",
+        "cityId": 522,
+        "city": null
+      }
+    ]
+  }
+]

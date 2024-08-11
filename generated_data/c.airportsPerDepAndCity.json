@@ -1,0 +1,2887 @@
+{
+  "Antioquia": {
+    "Rionegro": {
+      "items": [
+        {
+          "id": 45,
+          "name": "Base Aérea BG. Arturo Lema Posada",
+          "iataCode": "N/A",
+          "oaciCode": "N/A",
+          "type": "Militar",
+          "deparmentId": 2,
+          "department": {
+            "id": 2,
+            "name": "Antioquia",
+            "description": "Antioquia es uno de los treinta y dos departamentos que, junto con Bogotá, Distrito Capital, forman la República de Colombia. Su capital es Medellín, la segunda ciudad más poblada del país. Está ubicado al noroccidente colombiano, en las regiones Andina y Caribe, limitando al norte con el mar Caribe (océano Atlántico), Córdoba y Bolívar, al este con Santander y Boyacá, al sur con Caldas y Risaralda, y al oeste con Chocó. Con unos 6 500 000 habitantes en 2015 es el departamento más poblado, y con 63 600 km², el sexto más extenso, superado por Amazonas, Vichada, Caquetá, Meta y Guainía.",
+            "cityCapitalId": 12,
+            "municipalities": 125,
+            "surface": 63612,
+            "population": 6887306,
+            "phonePrefix": "4",
+            "countryId": 1,
+            "cityCapital": null,
+            "country": null,
+            "cities": null,
+            "regionId": 5,
+            "region": null,
+            "naturalAreas": null,
+            "maps": null,
+            "indigenousReservations": null,
+            "airports": [
+              null
+            ]
+          },
+          "cityId": 91,
+          "city": {
+            "id": 91,
+            "name": "Rionegro",
+            "description": "Rionegro es un municipio de Colombia, ubicado en el departamento de Antioquia. Está localizado en el valle de San Nicolás o también llamado Altiplano del Oriente, en la subregión Oriente, siendo la ciudad con mayor población y la que concentra el movimiento económico de la subregión. Está ubicada a tan solo 35 minutos de Medellín, capital del departamento, gracias al túnel de interconexión Aburrá-Oriente. Su nombre oficial es Ciudad Santiago de Arma de Rionegro.",
+            "surface": 196,
+            "population": 135465,
+            "postalCode": "54040",
+            "departmentId": 2,
+            "department": null,
+            "touristAttractions": null,
+            "presidents": null,
+            "indigenousReservations": null,
+            "airports": [
+              null
+            ],
+            "radios": null
+          },
+          "latitude": -75.42037792,
+          "longitude": 6.166336066
+        },
+        {
+          "id": 9,
+          "name": "Aeropuerto Internacional José María Córdova",
+          "iataCode": "MDE",
+          "oaciCode": "SKRG",
+          "type": "Internacional",
+          "deparmentId": 2,
+          "department": {
+            "id": 2,
+            "name": "Antioquia",
+            "description": "Antioquia es uno de los treinta y dos departamentos que, junto con Bogotá, Distrito Capital, forman la República de Colombia. Su capital es Medellín, la segunda ciudad más poblada del país. Está ubicado al noroccidente colombiano, en las regiones Andina y Caribe, limitando al norte con el mar Caribe (océano Atlántico), Córdoba y Bolívar, al este con Santander y Boyacá, al sur con Caldas y Risaralda, y al oeste con Chocó. Con unos 6 500 000 habitantes en 2015 es el departamento más poblado, y con 63 600 km², el sexto más extenso, superado por Amazonas, Vichada, Caquetá, Meta y Guainía.",
+            "cityCapitalId": 12,
+            "municipalities": 125,
+            "surface": 63612,
+            "population": 6887306,
+            "phonePrefix": "4",
+            "countryId": 1,
+            "cityCapital": null,
+            "country": null,
+            "cities": null,
+            "regionId": 5,
+            "region": null,
+            "naturalAreas": null,
+            "maps": null,
+            "indigenousReservations": null,
+            "airports": [
+              null
+            ]
+          },
+          "cityId": 91,
+          "city": {
+            "id": 91,
+            "name": "Rionegro",
+            "description": "Rionegro es un municipio de Colombia, ubicado en el departamento de Antioquia. Está localizado en el valle de San Nicolás o también llamado Altiplano del Oriente, en la subregión Oriente, siendo la ciudad con mayor población y la que concentra el movimiento económico de la subregión. Está ubicada a tan solo 35 minutos de Medellín, capital del departamento, gracias al túnel de interconexión Aburrá-Oriente. Su nombre oficial es Ciudad Santiago de Arma de Rionegro.",
+            "surface": 196,
+            "population": 135465,
+            "postalCode": "54040",
+            "departmentId": 2,
+            "department": null,
+            "touristAttractions": null,
+            "presidents": null,
+            "indigenousReservations": null,
+            "airports": [
+              null
+            ],
+            "radios": null
+          },
+          "latitude": -75.423110000511,
+          "longitude": 6.1645330006573
+        }
+      ],
+      "count": 2
+    },
+    "Medellín": {
+      "items": [
+        {
+          "id": 25,
+          "name": "Aeropuerto Enrique Olaya Herrera",
+          "iataCode": "EOH",
+          "oaciCode": "SKMD",
+          "type": "Nacional",
+          "deparmentId": 2,
+          "department": {
+            "id": 2,
+            "name": "Antioquia",
+            "description": "Antioquia es uno de los treinta y dos departamentos que, junto con Bogotá, Distrito Capital, forman la República de Colombia. Su capital es Medellín, la segunda ciudad más poblada del país. Está ubicado al noroccidente colombiano, en las regiones Andina y Caribe, limitando al norte con el mar Caribe (océano Atlántico), Córdoba y Bolívar, al este con Santander y Boyacá, al sur con Caldas y Risaralda, y al oeste con Chocó. Con unos 6 500 000 habitantes en 2015 es el departamento más poblado, y con 63 600 km², el sexto más extenso, superado por Amazonas, Vichada, Caquetá, Meta y Guainía.",
+            "cityCapitalId": 12,
+            "municipalities": 125,
+            "surface": 63612,
+            "population": 6887306,
+            "phonePrefix": "4",
+            "countryId": 1,
+            "cityCapital": null,
+            "country": null,
+            "cities": null,
+            "regionId": 5,
+            "region": null,
+            "naturalAreas": null,
+            "maps": null,
+            "indigenousReservations": null,
+            "airports": [
+              null
+            ]
+          },
+          "cityId": 12,
+          "city": {
+            "id": 12,
+            "name": "Medellín",
+            "description": "Medellín es un distrito colombiano, capital del departamento de Antioquia. Es la ciudad más poblada del departamento y la segunda más poblada del país después de Bogotá.8​ Está ubicada en la parte más ancha de la región natural conocida como Valle de Aburrá, en la cordillera central de los Andes. Está extendida por ambas orillas del río Medellín, que la atraviesa de sur a norte, y es el municipio principal del Área metropolitana del Valle de Aburrá.9​",
+            "surface": 382,
+            "population": 2533424,
+            "postalCode": "50001",
+            "departmentId": 2,
+            "department": null,
+            "touristAttractions": null,
+            "presidents": null,
+            "indigenousReservations": null,
+            "airports": [
+              null
+            ],
+            "radios": null
+          },
+          "latitude": -75.5904472197126,
+          "longitude": 6.2203583296561
+        }
+      ],
+      "count": 1
+    },
+    "Carepa": {
+      "items": [
+        {
+          "id": 15,
+          "name": "Aeropuerto Antonio Roldán Betancourt",
+          "iataCode": "APO",
+          "oaciCode": "SKLC",
+          "type": "Nacional",
+          "deparmentId": 2,
+          "department": {
+            "id": 2,
+            "name": "Antioquia",
+            "description": "Antioquia es uno de los treinta y dos departamentos que, junto con Bogotá, Distrito Capital, forman la República de Colombia. Su capital es Medellín, la segunda ciudad más poblada del país. Está ubicado al noroccidente colombiano, en las regiones Andina y Caribe, limitando al norte con el mar Caribe (océano Atlántico), Córdoba y Bolívar, al este con Santander y Boyacá, al sur con Caldas y Risaralda, y al oeste con Chocó. Con unos 6 500 000 habitantes en 2015 es el departamento más poblado, y con 63 600 km², el sexto más extenso, superado por Amazonas, Vichada, Caquetá, Meta y Guainía.",
+            "cityCapitalId": 12,
+            "municipalities": 125,
+            "surface": 63612,
+            "population": 6887306,
+            "phonePrefix": "4",
+            "countryId": 1,
+            "cityCapital": null,
+            "country": null,
+            "cities": null,
+            "regionId": 5,
+            "region": null,
+            "naturalAreas": null,
+            "maps": null,
+            "indigenousReservations": null,
+            "airports": [
+              null
+            ]
+          },
+          "cityId": 41,
+          "city": {
+            "id": 41,
+            "name": "Carepa",
+            "description": "",
+            "surface": null,
+            "population": null,
+            "postalCode": null,
+            "departmentId": 2,
+            "department": null,
+            "touristAttractions": null,
+            "presidents": null,
+            "indigenousReservations": null,
+            "airports": [
+              null
+            ],
+            "radios": null
+          },
+          "latitude": -76.7157690002458,
+          "longitude": 7.8118166595081
+        }
+      ],
+      "count": 1
+    }
+  },
+  "Arauca": {
+    "Saravena": {
+      "items": [
+        {
+          "id": 35,
+          "name": "Aeropuerto Los Colonizadores",
+          "iataCode": "RVE",
+          "oaciCode": "SKSA",
+          "type": "Nacional",
+          "deparmentId": 3,
+          "department": {
+            "id": 3,
+            "name": "Arauca",
+            "description": "Arauca es uno de los treinta y dos departamentos que, junto con Bogotá, Distrito Capital, forman la República de Colombia. Su capital es la homónima Arauca. Está ubicado al este del país, en la región Orinoquía, limitando al norte y este con Venezuela, al sur con Vichada y Casanare, y al oeste con Boyacá",
+            "cityCapitalId": 143,
+            "municipalities": 7,
+            "surface": 23818,
+            "population": 304978,
+            "phonePrefix": "7",
+            "countryId": 1,
+            "cityCapital": null,
+            "country": null,
+            "cities": null,
+            "regionId": 3,
+            "region": null,
+            "naturalAreas": null,
+            "maps": null,
+            "indigenousReservations": null,
+            "airports": [
+              null
+            ]
+          },
+          "cityId": 141,
+          "city": {
+            "id": 141,
+            "name": "Saravena",
+            "description": "",
+            "surface": null,
+            "population": null,
+            "postalCode": null,
+            "departmentId": 3,
+            "department": null,
+            "touristAttractions": null,
+            "presidents": null,
+            "indigenousReservations": null,
+            "airports": [
+              null
+            ],
+            "radios": null
+          },
+          "latitude": -71.8605600056216,
+          "longitude": 6.9566401818432
+        }
+      ],
+      "count": 1
+    },
+    "Tame": {
+      "items": [
+        {
+          "id": 41,
+          "name": "Aeropuerto Gabriel Vargas Santos",
+          "iataCode": "TME",
+          "oaciCode": "SKTM",
+          "type": "Nacional",
+          "deparmentId": 3,
+          "department": {
+            "id": 3,
+            "name": "Arauca",
+            "description": "Arauca es uno de los treinta y dos departamentos que, junto con Bogotá, Distrito Capital, forman la República de Colombia. Su capital es la homónima Arauca. Está ubicado al este del país, en la región Orinoquía, limitando al norte y este con Venezuela, al sur con Vichada y Casanare, y al oeste con Boyacá",
+            "cityCapitalId": 143,
+            "municipalities": 7,
+            "surface": 23818,
+            "population": 304978,
+            "phonePrefix": "7",
+            "countryId": 1,
+            "cityCapital": null,
+            "country": null,
+            "cities": null,
+            "regionId": 3,
+            "region": null,
+            "naturalAreas": null,
+            "maps": null,
+            "indigenousReservations": null,
+            "airports": [
+              null
+            ]
+          },
+          "cityId": 142,
+          "city": {
+            "id": 142,
+            "name": "Tame",
+            "description": "",
+            "surface": null,
+            "population": null,
+            "postalCode": null,
+            "departmentId": 3,
+            "department": null,
+            "touristAttractions": null,
+            "presidents": null,
+            "indigenousReservations": null,
+            "airports": [
+              null
+            ],
+            "radios": null
+          },
+          "latitude": -71.7602985282201,
+          "longitude": 6.4499321697396
+        }
+      ],
+      "count": 1
+    },
+    "Arauca": {
+      "items": [
+        {
+          "id": 16,
+          "name": "Aeropuerto Santiago Pérez Quiroz",
+          "iataCode": "AUC",
+          "oaciCode": "SKUC",
+          "type": "Nacional",
+          "deparmentId": 3,
+          "department": {
+            "id": 3,
+            "name": "Arauca",
+            "description": "Arauca es uno de los treinta y dos departamentos que, junto con Bogotá, Distrito Capital, forman la República de Colombia. Su capital es la homónima Arauca. Está ubicado al este del país, en la región Orinoquía, limitando al norte y este con Venezuela, al sur con Vichada y Casanare, y al oeste con Boyacá",
+            "cityCapitalId": 143,
+            "municipalities": 7,
+            "surface": 23818,
+            "population": 304978,
+            "phonePrefix": "7",
+            "countryId": 1,
+            "cityCapital": null,
+            "country": null,
+            "cities": null,
+            "regionId": 3,
+            "region": null,
+            "naturalAreas": null,
+            "maps": null,
+            "indigenousReservations": null,
+            "airports": [
+              null
+            ]
+          },
+          "cityId": 143,
+          "city": {
+            "id": 143,
+            "name": "Arauca",
+            "description": "Arauca, cuyo nombre colonial es Villa de Santa Bárbara de Arauca, es un municipio colombiano, capital del departamento de Arauca. Está localizado sobre el margen sur del río Arauca. Limita con Venezuela al norte, con la cual está conectada mediante el Puente Internacional José Antonio Páez y se comunica por vía terrestre hacia el centro de Colombia mediante la Ruta de los Libertadores",
+            "surface": 5841,
+            "population": 96814,
+            "postalCode": "810001",
+            "departmentId": 3,
+            "department": null,
+            "touristAttractions": null,
+            "presidents": null,
+            "indigenousReservations": null,
+            "airports": [
+              null
+            ],
+            "radios": null
+          },
+          "latitude": -70.7369359999433,
+          "longitude": 7.0689110004557
+        }
+      ],
+      "count": 1
+    }
+  },
+  "Atlántico": {
+    "Barranquilla": {
+      "items": [
+        {
+          "id": 2,
+          "name": "Aeropuerto Internacional Ernesto Cortissoz",
+          "iataCode": "BAQ",
+          "oaciCode": "SKBQ",
+          "type": "Internacional",
+          "deparmentId": 4,
+          "department": {
+            "id": 4,
+            "name": "Atlántico",
+            "description": "El Atlántico es uno de los treinta y dos departamentos que, junto a Bogotá, Distrito Capital, forman la República de Colombia. Su capital es Barranquilla. Ubicado en la región Caribe, limita al norte con el mar Caribe, al Oriente con el río Magdalena y al Sur y al Occidente con el departamento de Bolívar. Con unos 2 500 000 habitantes en 2015, es el cuarto departamento más poblado (por detrás de Antioquia, Valle del Cauca y Cundinamarca); con 3019 km² es el tercero menos extenso (por delante de Quindío y San Andrés y Providencia, el menos extenso) y con 815 hab/km² es el segundo más densamente poblado (por detrás de San Andrés y Providencia)",
+            "cityCapitalId": 144,
+            "municipalities": 23,
+            "surface": 3388,
+            "population": 2804025,
+            "phonePrefix": "5",
+            "countryId": 1,
+            "cityCapital": null,
+            "country": null,
+            "cities": null,
+            "regionId": 1,
+            "region": null,
+            "naturalAreas": null,
+            "maps": null,
+            "indigenousReservations": null,
+            "airports": [
+              null
+            ]
+          },
+          "cityId": 144,
+          "city": {
+            "id": 144,
+            "name": "Barranquilla",
+            "description": "El Área metropolitana de Barranquilla es una conurbación colombiana ubicada en el norte del departamento de Atlántico. Su municipio principal es la capital departamental Barranquilla, y los otros municipios periféricos que la integran son Soledad, Galapa, Puerto Colombia y Malambo. Es la primera conurbación de la Región Caribe, la más densamente poblada y la cuarta del país.",
+            "surface": 520,
+            "population": 2326292,
+            "postalCode": "80001",
+            "departmentId": 4,
+            "department": null,
+            "touristAttractions": null,
+            "presidents": null,
+            "indigenousReservations": null,
+            "airports": [
+              null
+            ],
+            "radios": null
+          },
+          "latitude": -74.7806769994191,
+          "longitude": 10.8894609990694
+        }
+      ],
+      "count": 1
+    }
+  },
+  "Bogotá": {
+    "Bogotá D.C.": {
+      "items": [
+        {
+          "id": 44,
+          "name": "Aeropuerto Militar CATAM",
+          "iataCode": "BOG",
+          "oaciCode": "N/A",
+          "type": "Militar",
+          "deparmentId": 5,
+          "department": {
+            "id": 5,
+            "name": "Bogotá",
+            "description": "Bogotá, oficialmente Bogotá, Distrito Capital​ (antiguamente, Santafé de Bogotá),​ es la capital de la República de Colombia y del departamento de Cundinamarca. Está administrada como distrito capital, y goza de autonomía para la gestión de sus intereses dentro de los límites de la Constitución y la ley.12​18​ A diferencia de los demás distritos de Colombia, Bogotá es una entidad territorial de primer orden, con las atribuciones administrativas que la ley confiere a los departamentos",
+            "cityCapitalId": 167,
+            "municipalities": 1,
+            "surface": 1139,
+            "population": 8906342,
+            "phonePrefix": "1",
+            "countryId": 1,
+            "cityCapital": null,
+            "country": null,
+            "cities": null,
+            "regionId": 5,
+            "region": null,
+            "naturalAreas": null,
+            "maps": null,
+            "indigenousReservations": null,
+            "airports": [
+              null
+            ]
+          },
+          "cityId": 167,
+          "city": {
+            "id": 167,
+            "name": "Bogotá D.C.",
+            "description": "Bogotá, oficialmente Bogotá, Distrito Capital​ (antiguamente, Santafé de Bogotá y originalmente, Santafé),​ es la capital de la República de Colombia y del departamento de Cundinamarca. Está administrada como distrito capital, y goza de autonomía para la gestión de sus intereses dentro de los límites de la Constitución y la ley.12​18​ A diferencia de los demás distritos de Colombia, Bogotá es una entidad territorial de primer orden, con las atribuciones administrativas que la ley confiere a los departamentos",
+            "surface": 1636,
+            "population": 7901653,
+            "postalCode": "110110",
+            "departmentId": 5,
+            "department": null,
+            "touristAttractions": null,
+            "presidents": null,
+            "indigenousReservations": null,
+            "airports": [
+              null
+            ],
+            "radios": null
+          },
+          "latitude": -74.15303487,
+          "longitude": 4.704754079
+        },
+        {
+          "id": 19,
+          "name": "Aeropuerto Flaminio Suarez Camacho",
+          "iataCode": "GYM",
+          "oaciCode": "SKGY",
+          "type": "Nacional",
+          "deparmentId": 5,
+          "department": {
+            "id": 5,
+            "name": "Bogotá",
+            "description": "Bogotá, oficialmente Bogotá, Distrito Capital​ (antiguamente, Santafé de Bogotá),​ es la capital de la República de Colombia y del departamento de Cundinamarca. Está administrada como distrito capital, y goza de autonomía para la gestión de sus intereses dentro de los límites de la Constitución y la ley.12​18​ A diferencia de los demás distritos de Colombia, Bogotá es una entidad territorial de primer orden, con las atribuciones administrativas que la ley confiere a los departamentos",
+            "cityCapitalId": 167,
+            "municipalities": 1,
+            "surface": 1139,
+            "population": 8906342,
+            "phonePrefix": "1",
+            "countryId": 1,
+            "cityCapital": null,
+            "country": null,
+            "cities": null,
+            "regionId": 5,
+            "region": null,
+            "naturalAreas": null,
+            "maps": null,
+            "indigenousReservations": null,
+            "airports": [
+              null
+            ]
+          },
+          "cityId": 167,
+          "city": {
+            "id": 167,
+            "name": "Bogotá D.C.",
+            "description": "Bogotá, oficialmente Bogotá, Distrito Capital​ (antiguamente, Santafé de Bogotá y originalmente, Santafé),​ es la capital de la República de Colombia y del departamento de Cundinamarca. Está administrada como distrito capital, y goza de autonomía para la gestión de sus intereses dentro de los límites de la Constitución y la ley.12​18​ A diferencia de los demás distritos de Colombia, Bogotá es una entidad territorial de primer orden, con las atribuciones administrativas que la ley confiere a los departamentos",
+            "surface": 1636,
+            "population": 7901653,
+            "postalCode": "110110",
+            "departmentId": 5,
+            "department": null,
+            "touristAttractions": null,
+            "presidents": null,
+            "indigenousReservations": null,
+            "airports": [
+              null
+            ],
+            "radios": null
+          },
+          "latitude": -74.0646302524275,
+          "longitude": 4.8151436329454
+        },
+        {
+          "id": 3,
+          "name": "Aeropuerto Internacional El Dorado",
+          "iataCode": "BOG",
+          "oaciCode": "SKBO",
+          "type": "Internacional",
+          "deparmentId": 5,
+          "department": {
+            "id": 5,
+            "name": "Bogotá",
+            "description": "Bogotá, oficialmente Bogotá, Distrito Capital​ (antiguamente, Santafé de Bogotá),​ es la capital de la República de Colombia y del departamento de Cundinamarca. Está administrada como distrito capital, y goza de autonomía para la gestión de sus intereses dentro de los límites de la Constitución y la ley.12​18​ A diferencia de los demás distritos de Colombia, Bogotá es una entidad territorial de primer orden, con las atribuciones administrativas que la ley confiere a los departamentos",
+            "cityCapitalId": 167,
+            "municipalities": 1,
+            "surface": 1139,
+            "population": 8906342,
+            "phonePrefix": "1",
+            "countryId": 1,
+            "cityCapital": null,
+            "country": null,
+            "cities": null,
+            "regionId": 5,
+            "region": null,
+            "naturalAreas": null,
+            "maps": null,
+            "indigenousReservations": null,
+            "airports": [
+              null
+            ]
+          },
+          "cityId": 167,
+          "city": {
+            "id": 167,
+            "name": "Bogotá D.C.",
+            "description": "Bogotá, oficialmente Bogotá, Distrito Capital​ (antiguamente, Santafé de Bogotá y originalmente, Santafé),​ es la capital de la República de Colombia y del departamento de Cundinamarca. Está administrada como distrito capital, y goza de autonomía para la gestión de sus intereses dentro de los límites de la Constitución y la ley.12​18​ A diferencia de los demás distritos de Colombia, Bogotá es una entidad territorial de primer orden, con las atribuciones administrativas que la ley confiere a los departamentos",
+            "surface": 1636,
+            "population": 7901653,
+            "postalCode": "110110",
+            "departmentId": 5,
+            "department": null,
+            "touristAttractions": null,
+            "presidents": null,
+            "indigenousReservations": null,
+            "airports": [
+              null
+            ],
+            "radios": null
+          },
+          "latitude": -74.160003210556,
+          "longitude": 4.6984024208816
+        }
+      ],
+      "count": 3
+    }
+  },
+  "Bolívar": {
+    "El Carmen de Bolívar": {
+      "items": [
+        {
+          "id": 7,
+          "name": "Aeropuerto Internacional Rafael Núñez",
+          "iataCode": "CTG",
+          "oaciCode": "SKCG",
+          "type": "Internacional",
+          "deparmentId": 6,
+          "department": {
+            "id": 6,
+            "name": "Bolívar",
+            "description": "Bolívar es uno de los treinta y dos departamentos que, junto con Bogotá, Distrito Capital, forman la República de Colombia. Su capital es Cartagena de Indias, sede de la asamblea departamental, mientras que en Turbaco se encuentra la sede de la gobernación. Está ubicado en la región Caribe, limitando al norte con el mar Caribe (océano Atlántico), al noreste con Atlántico, al este con Magdalena y Cesar, al sureste con Santander, al suroeste con Antioquia y al oeste con Córdoba y Sucre.",
+            "cityCapitalId": 210,
+            "municipalities": 45,
+            "surface": 25978,
+            "population": 2236603,
+            "phonePrefix": "5",
+            "countryId": 1,
+            "cityCapital": null,
+            "country": null,
+            "cities": null,
+            "regionId": 1,
+            "region": null,
+            "naturalAreas": null,
+            "maps": null,
+            "indigenousReservations": null,
+            "airports": [
+              null
+            ]
+          },
+          "cityId": 203,
+          "city": {
+            "id": 203,
+            "name": "El Carmen de Bolívar",
+            "description": "El Carmen de Bolívar es un municipio del departamento de Bolívar, Colombia, ubicado en el sistema orográfico de los Montes de María, siendo la población más grande, así como la que concentra el movimiento económico y comercial de la subregión. Está a 120 km al sudeste de Cartagena de Indias y a 69 km al norte de Sincelejo.",
+            "surface": 954,
+            "population": 70131,
+            "postalCode": "132050",
+            "departmentId": 6,
+            "department": null,
+            "touristAttractions": null,
+            "presidents": null,
+            "indigenousReservations": null,
+            "airports": [
+              null
+            ],
+            "radios": null
+          },
+          "latitude": -75.5153339592878,
+          "longitude": 10.4449415954788
+        }
+      ],
+      "count": 1
+    }
+  },
+  "Caldas": {
+    "Manizales": {
+      "items": [
+        {
+          "id": 43,
+          "name": "Aeropuerto del Café",
+          "iataCode": "N/A",
+          "oaciCode": "N/A",
+          "type": "En Construccion",
+          "deparmentId": 8,
+          "department": {
+            "id": 8,
+            "name": "Caldas",
+            "description": "Caldas es uno de los treinta y dos departamentos que, junto con Bogotá, Distrito Capital, forman la República de Colombia. Su capital es Manizales. Está ubicado en el centro del país, en la región andina, limitando al norte con Antioquia, al noreste con Boyacá, al este con Cundinamarca, al sur con Tolima y Risaralda y al oeste con Risaralda. Con 7888 km² es el quinto departamento menos extenso —por delante de Risaralda, Atlántico, Quindío y San Andrés y Providencia, el menos extenso— y con 125 hab/km², el sexto más densamente poblado, por detrás de San Andrés y Providencia, Atlántico, Quindío, Risaralda y Valle del Cauca",
+            "cityCapitalId": 337,
+            "municipalities": 27,
+            "surface": 7888,
+            "population": 1036455,
+            "phonePrefix": "6",
+            "countryId": 1,
+            "cityCapital": null,
+            "country": null,
+            "cities": null,
+            "regionId": 5,
+            "region": null,
+            "naturalAreas": null,
+            "maps": null,
+            "indigenousReservations": null,
+            "airports": [
+              null
+            ]
+          },
+          "cityId": 337,
+          "city": {
+            "id": 337,
+            "name": "Manizales",
+            "description": "Manizales es un municipio colombiano, capital del departamento de Caldas. Está ubicado en el centro occidente de Colombia en la región paisa, así como en el eje cafetero, sobre la Cordillera Central de los Andes, cerca del Nevado del Ruiz. Tiene una población de 454,077 habitantes (2022). Es la región más poblada y competitiva del departamento con un aporte del 68% de su PIB total.",
+            "surface": 571,
+            "population": 454077,
+            "postalCode": "170001",
+            "departmentId": 8,
+            "department": null,
+            "touristAttractions": null,
+            "presidents": null,
+            "indigenousReservations": null,
+            "airports": [
+              null
+            ],
+            "radios": null
+          },
+          "latitude": 0,
+          "longitude": 0
+        },
+        {
+          "id": 24,
+          "name": "Aeropuerto La Nubia",
+          "iataCode": "MZL",
+          "oaciCode": "SKMZ",
+          "type": "Nacional",
+          "deparmentId": 8,
+          "department": {
+            "id": 8,
+            "name": "Caldas",
+            "description": "Caldas es uno de los treinta y dos departamentos que, junto con Bogotá, Distrito Capital, forman la República de Colombia. Su capital es Manizales. Está ubicado en el centro del país, en la región andina, limitando al norte con Antioquia, al noreste con Boyacá, al este con Cundinamarca, al sur con Tolima y Risaralda y al oeste con Risaralda. Con 7888 km² es el quinto departamento menos extenso —por delante de Risaralda, Atlántico, Quindío y San Andrés y Providencia, el menos extenso— y con 125 hab/km², el sexto más densamente poblado, por detrás de San Andrés y Providencia, Atlántico, Quindío, Risaralda y Valle del Cauca",
+            "cityCapitalId": 337,
+            "municipalities": 27,
+            "surface": 7888,
+            "population": 1036455,
+            "phonePrefix": "6",
+            "countryId": 1,
+            "cityCapital": null,
+            "country": null,
+            "cities": null,
+            "regionId": 5,
+            "region": null,
+            "naturalAreas": null,
+            "maps": null,
+            "indigenousReservations": null,
+            "airports": [
+              null
+            ]
+          },
+          "cityId": 337,
+          "city": {
+            "id": 337,
+            "name": "Manizales",
+            "description": "Manizales es un municipio colombiano, capital del departamento de Caldas. Está ubicado en el centro occidente de Colombia en la región paisa, así como en el eje cafetero, sobre la Cordillera Central de los Andes, cerca del Nevado del Ruiz. Tiene una población de 454,077 habitantes (2022). Es la región más poblada y competitiva del departamento con un aporte del 68% de su PIB total.",
+            "surface": 571,
+            "population": 454077,
+            "postalCode": "170001",
+            "departmentId": 8,
+            "department": null,
+            "touristAttractions": null,
+            "presidents": null,
+            "indigenousReservations": null,
+            "airports": [
+              null
+            ],
+            "radios": null
+          },
+          "latitude": -75.4692103507527,
+          "longitude": 5.0293625217822
+        }
+      ],
+      "count": 2
+    }
+  },
+  "Caquetá": {
+    "Florencia": {
+      "items": [
+        {
+          "id": 46,
+          "name": "Base Aérea Larandia",
+          "iataCode": "N/A",
+          "oaciCode": "SKLR",
+          "type": "Militar",
+          "deparmentId": 9,
+          "department": {
+            "id": 9,
+            "name": "Caquetá",
+            "description": "Caquetá es uno de los treinta y dos departamentos que, junto con Bogotá, Distrito Capital, forman la República de Colombia. Su capital es Florencia. Está ubicado al sur del país, en la región Amazonia, limitando al norte con Meta y Guaviare, al noreste con Vaupés, al sur con Amazonas y Putumayo, y al oeste con Cauca y Huila. Con 88 965 km² es el tercer departamento más extenso —por detrás de Amazonas y Vichada—. Todos sus municipios forman parte de los territorios focalizados",
+            "cityCapitalId": 364,
+            "municipalities": 16,
+            "surface": 88965,
+            "population": 419275,
+            "phonePrefix": "8",
+            "countryId": 1,
+            "cityCapital": null,
+            "country": null,
+            "cities": null,
+            "regionId": 4,
+            "region": null,
+            "naturalAreas": null,
+            "maps": null,
+            "indigenousReservations": null,
+            "airports": [
+              null
+            ]
+          },
+          "cityId": 364,
+          "city": {
+            "id": 364,
+            "name": "Florencia",
+            "description": "Florencia es un municipio colombiano, capital del departamento de Caquetá. Es el municipio más poblado de la región amazónica por su número de habitantes.5​ Es conocido como «La Puerta de Oro de la Amazonía Colombiana»",
+            "surface": 2292,
+            "population": 173011,
+            "postalCode": "180001",
+            "departmentId": 9,
+            "department": null,
+            "touristAttractions": null,
+            "presidents": null,
+            "indigenousReservations": null,
+            "airports": [
+              null
+            ],
+            "radios": null
+          },
+          "latitude": -75.48650236,
+          "longitude": 1.477556727
+        },
+        {
+          "id": 20,
+          "name": "Aeropuerto Gustavo Artunduaga",
+          "iataCode": "FLA",
+          "oaciCode": "SKFL",
+          "type": "Nacional",
+          "deparmentId": 9,
+          "department": {
+            "id": 9,
+            "name": "Caquetá",
+            "description": "Caquetá es uno de los treinta y dos departamentos que, junto con Bogotá, Distrito Capital, forman la República de Colombia. Su capital es Florencia. Está ubicado al sur del país, en la región Amazonia, limitando al norte con Meta y Guaviare, al noreste con Vaupés, al sur con Amazonas y Putumayo, y al oeste con Cauca y Huila. Con 88 965 km² es el tercer departamento más extenso —por detrás de Amazonas y Vichada—. Todos sus municipios forman parte de los territorios focalizados",
+            "cityCapitalId": 364,
+            "municipalities": 16,
+            "surface": 88965,
+            "population": 419275,
+            "phonePrefix": "8",
+            "countryId": 1,
+            "cityCapital": null,
+            "country": null,
+            "cities": null,
+            "regionId": 4,
+            "region": null,
+            "naturalAreas": null,
+            "maps": null,
+            "indigenousReservations": null,
+            "airports": [
+              null
+            ]
+          },
+          "cityId": 364,
+          "city": {
+            "id": 364,
+            "name": "Florencia",
+            "description": "Florencia es un municipio colombiano, capital del departamento de Caquetá. Es el municipio más poblado de la región amazónica por su número de habitantes.5​ Es conocido como «La Puerta de Oro de la Amazonía Colombiana»",
+            "surface": 2292,
+            "population": 173011,
+            "postalCode": "180001",
+            "departmentId": 9,
+            "department": null,
+            "touristAttractions": null,
+            "presidents": null,
+            "indigenousReservations": null,
+            "airports": [
+              null
+            ],
+            "radios": null
+          },
+          "latitude": -75.5605816669496,
+          "longitude": 1.5895643180767
+        }
+      ],
+      "count": 2
+    },
+    "Solano": {
+      "items": [
+        {
+          "id": 51,
+          "name": "Base Aérea de Tres Esquinas",
+          "iataCode": "TQS",
+          "oaciCode": "SKTQ",
+          "type": "Militar",
+          "deparmentId": 9,
+          "department": {
+            "id": 9,
+            "name": "Caquetá",
+            "description": "Caquetá es uno de los treinta y dos departamentos que, junto con Bogotá, Distrito Capital, forman la República de Colombia. Su capital es Florencia. Está ubicado al sur del país, en la región Amazonia, limitando al norte con Meta y Guaviare, al noreste con Vaupés, al sur con Amazonas y Putumayo, y al oeste con Cauca y Huila. Con 88 965 km² es el tercer departamento más extenso —por detrás de Amazonas y Vichada—. Todos sus municipios forman parte de los territorios focalizados",
+            "cityCapitalId": 364,
+            "municipalities": 16,
+            "surface": 88965,
+            "population": 419275,
+            "phonePrefix": "8",
+            "countryId": 1,
+            "cityCapital": null,
+            "country": null,
+            "cities": null,
+            "regionId": 4,
+            "region": null,
+            "naturalAreas": null,
+            "maps": null,
+            "indigenousReservations": null,
+            "airports": [
+              null
+            ]
+          },
+          "cityId": 371,
+          "city": {
+            "id": 371,
+            "name": "Solano",
+            "description": "",
+            "surface": null,
+            "population": null,
+            "postalCode": null,
+            "departmentId": 9,
+            "department": null,
+            "touristAttractions": null,
+            "presidents": null,
+            "indigenousReservations": null,
+            "airports": [
+              null
+            ],
+            "radios": null
+          },
+          "latitude": -75.23502646,
+          "longitude": 0.746816168
+        }
+      ],
+      "count": 1
+    }
+  },
+  "Casanare": {
+    "Yopal": {
+      "items": [
+        {
+          "id": 39,
+          "name": "Aeropuerto El Alcaraván",
+          "iataCode": "EYP",
+          "oaciCode": "SKYP",
+          "type": "Nacional",
+          "deparmentId": 10,
+          "department": {
+            "id": 10,
+            "name": "Casanare",
+            "description": "Casanare es uno de los treinta y dos departamentos que, junto con Bogotá, Distrito Capital, forman la República de Colombia. Su capital es Yopal. Está ubicado en la región Orinoquía, limitando al norte con Arauca, al este con Vichada, al sur con Meta y al oeste con Boyacá. Con 44 490 km² es el décimo departamento más extenso —por detrás de Amazonas, Vichada",
+            "cityCapitalId": 380,
+            "municipalities": 19,
+            "surface": 44640,
+            "population": 442068,
+            "phonePrefix": "8",
+            "countryId": 1,
+            "cityCapital": null,
+            "country": null,
+            "cities": null,
+            "regionId": 3,
+            "region": null,
+            "naturalAreas": null,
+            "maps": null,
+            "indigenousReservations": null,
+            "airports": [
+              null
+            ]
+          },
+          "cityId": 380,
+          "city": {
+            "id": 380,
+            "name": "Yopal",
+            "description": "Yopal es un municipio colombiano, capital del departamento de Casanare. Su extensión territorial es de 2595 kilómetros cuadrados,4​ y se sitúa a 317 kilómetros del distrito capital de Bogotá. Fundada por colonos boyacenses en 1915, es una de las capitales departamentales más jóvenes de Colombia y una de las ciudades que registra más rápido crecimiento poblacional a nivel nacional, en especial después de la separación de Casanare del departamento de Boyacá",
+            "surface": 2771,
+            "population": 179355,
+            "postalCode": "850001",
+            "departmentId": 10,
+            "department": null,
+            "touristAttractions": null,
+            "presidents": null,
+            "indigenousReservations": null,
+            "airports": [
+              null
+            ],
+            "radios": null
+          },
+          "latitude": -72.3838098303997,
+          "longitude": 5.3176422985893
+        }
+      ],
+      "count": 1
+    }
+  },
+  "Cauca": {
+    "Popayán": {
+      "items": [
+        {
+          "id": 30,
+          "name": "Aeropuerto Guillermo León Valencia",
+          "iataCode": "PPN",
+          "oaciCode": "SKPP",
+          "type": "Nacional",
+          "deparmentId": 11,
+          "department": {
+            "id": 11,
+            "name": "Cauca",
+            "description": "Cauca es uno de los treinta y dos departamentos que, junto al Distrito Capital de Bogotá, conforman la República de Colombia. Su capital y ciudad más poblada es Popayán. Está ubicado al suroccidente del país entre las regiones andina y pacífica, limitando al norte con Valle del Cauca y Tolima, al oriente con Huila, al suroriente con Caquetá, al sur con Putumayo y Nariño, y al noroccidente con el océano Pacífico",
+            "cityCapitalId": 399,
+            "municipalities": 41,
+            "surface": 29308,
+            "population": 1516018,
+            "phonePrefix": "2",
+            "countryId": 1,
+            "cityCapital": null,
+            "country": null,
+            "cities": null,
+            "regionId": 2,
+            "region": null,
+            "naturalAreas": null,
+            "maps": null,
+            "indigenousReservations": null,
+            "airports": [
+              null
+            ]
+          },
+          "cityId": 399,
+          "city": {
+            "id": 399,
+            "name": "Popayán",
+            "description": "Popayán, oficialmente Asunción de Popayán es un municipio colombiano, capital del departamento del Cauca. Se encuentra localizado en el Valle de Pubenza, entre la Cordillera Occidental y Central al suroccidente del país. Su extensión territorial es de 512 km², su altitud media es de 1760 m sobre el nivel del mar, su precipitación media anual de 1941 mm, su temperatura promedio de 14/19 °C y distancia aproximada de 600 km a Bogotá, capital de Colombia.",
+            "surface": 512,
+            "population": 318059,
+            "postalCode": "190001",
+            "departmentId": 11,
+            "department": null,
+            "touristAttractions": null,
+            "presidents": null,
+            "indigenousReservations": null,
+            "airports": [
+              null
+            ],
+            "radios": null
+          },
+          "latitude": -76.6090055153847,
+          "longitude": 2.4545500033108
+        }
+      ],
+      "count": 1
+    },
+    "Guapi": {
+      "items": [
+        {
+          "id": 21,
+          "name": "Aeropuerto Juan Casiano",
+          "iataCode": "GPI",
+          "oaciCode": "SKGP",
+          "type": "Nacional",
+          "deparmentId": 11,
+          "department": {
+            "id": 11,
+            "name": "Cauca",
+            "description": "Cauca es uno de los treinta y dos departamentos que, junto al Distrito Capital de Bogotá, conforman la República de Colombia. Su capital y ciudad más poblada es Popayán. Está ubicado al suroccidente del país entre las regiones andina y pacífica, limitando al norte con Valle del Cauca y Tolima, al oriente con Huila, al suroriente con Caquetá, al sur con Putumayo y Nariño, y al noroccidente con el océano Pacífico",
+            "cityCapitalId": 399,
+            "municipalities": 41,
+            "surface": 29308,
+            "population": 1516018,
+            "phonePrefix": "2",
+            "countryId": 1,
+            "cityCapital": null,
+            "country": null,
+            "cities": null,
+            "regionId": 2,
+            "region": null,
+            "naturalAreas": null,
+            "maps": null,
+            "indigenousReservations": null,
+            "airports": [
+              null
+            ]
+          },
+          "cityId": 412,
+          "city": {
+            "id": 412,
+            "name": "Guapi",
+            "description": "",
+            "surface": null,
+            "population": null,
+            "postalCode": null,
+            "departmentId": 11,
+            "department": null,
+            "touristAttractions": null,
+            "presidents": null,
+            "indigenousReservations": null,
+            "airports": [
+              null
+            ],
+            "radios": null
+          },
+          "latitude": -77.8946674725273,
+          "longitude": 2.5752322179646
+        }
+      ],
+      "count": 1
+    }
+  },
+  "Cesar": {
+    "Valledupar": {
+      "items": [
+        {
+          "id": 37,
+          "name": "Aeropuerto Alfonso López Pumarejo",
+          "iataCode": "VUP",
+          "oaciCode": "SKVP",
+          "type": "Nacional",
+          "deparmentId": 12,
+          "department": {
+            "id": 12,
+            "name": "Cesar",
+            "description": "Cesar es uno de los treinta y dos departamentos que, junto con Bogotá, Distrito Capital, forman la República de Colombia. Su capital es Valledupar. Está ubicado al noreste del país, en las regiones Andina y Caribe, limitando al norte con La Guajira, al este con el Estado Zulia de Venezuela, al sureste con Norte de Santander, al sur con Santander, al suroeste con Bolívar y al oeste con Magdalena.",
+            "cityCapitalId": 441,
+            "municipalities": 25,
+            "surface": 22905,
+            "population": 1341697,
+            "phonePrefix": "4",
+            "countryId": 1,
+            "cityCapital": null,
+            "country": null,
+            "cities": null,
+            "regionId": 1,
+            "region": null,
+            "naturalAreas": null,
+            "maps": null,
+            "indigenousReservations": null,
+            "airports": [
+              null
+            ]
+          },
+          "cityId": 441,
+          "city": {
+            "id": 441,
+            "name": "Valledupar",
+            "description": "Valledupar, también llamada Ciudad de los Santos Reyes del Valle de Upar, es un municipio colombiano, capital del departamento del Cesar. Es la cabecera del municipio homónimo, el cual tiene una extensión de 149 km², 559.462 habitantes y junto a su área metropolitana reúne 691.266 habitantes;1​ está conformado por 25 corregimientos y 102 veredas.",
+            "surface": 30000,
+            "population": 559462,
+            "postalCode": "200001",
+            "departmentId": 12,
+            "department": null,
+            "touristAttractions": null,
+            "presidents": null,
+            "indigenousReservations": null,
+            "airports": [
+              null
+            ],
+            "radios": null
+          },
+          "latitude": -73.25228604372,
+          "longitude": 10.4339994505108
+        }
+      ],
+      "count": 1
+    }
+  },
+  "Chocó": {
+    "Quibdó": {
+      "items": [
+        {
+          "id": 33,
+          "name": "Aeropuerto El Caraño",
+          "iataCode": "UIB",
+          "oaciCode": "SKUI",
+          "type": "Nacional",
+          "deparmentId": 13,
+          "department": {
+            "id": 13,
+            "name": "Chocó",
+            "description": "Chocó es uno de los treinta y dos departamentos que, junto con Bogotá, Distrito Capital, forman la República de Colombia. Su capital es Quibdó. Está ubicado al noroeste del país, en las regiones andina y Pacífico, limitando al norte con la República de Panamá y el mar Caribe (océano Atlántico), al este con Antioquia y Risaralda, al sur con Valle del Cauca y al oeste con el océano Pacífico.",
+            "cityCapitalId": 467,
+            "municipalities": 31,
+            "surface": 46530,
+            "population": 553519,
+            "phonePrefix": "4",
+            "countryId": 1,
+            "cityCapital": null,
+            "country": null,
+            "cities": null,
+            "regionId": 2,
+            "region": null,
+            "naturalAreas": null,
+            "maps": null,
+            "indigenousReservations": null,
+            "airports": [
+              null
+            ]
+          },
+          "cityId": 467,
+          "city": {
+            "id": 467,
+            "name": "Quibdó",
+            "description": "Quibdó es un municipio colombiano, capital del departamento del Chocó y una de las poblaciones más importantes en la Región del Pacífico Colombiano. La ciudad está ubicada en una de las regiones más biodiversas de Colombia, cerca de grandes reservas ecológicas como el parque nacional natural Emberá. También es una de las regiones con mayor número de reservas indígenas. ",
+            "surface": 3337,
+            "population": 116087,
+            "postalCode": "270001",
+            "departmentId": 13,
+            "department": null,
+            "touristAttractions": null,
+            "presidents": null,
+            "indigenousReservations": null,
+            "airports": [
+              null
+            ],
+            "radios": null
+          },
+          "latitude": -76.6434017112367,
+          "longitude": 5.6927153303833
+        }
+      ],
+      "count": 1
+    }
+  },
+  "Córdoba": {
+    "Montería": {
+      "items": [
+        {
+          "id": 13,
+          "name": "Aeropuerto Internacional Los Garzones",
+          "iataCode": "MTR",
+          "oaciCode": "SKMR",
+          "type": "Nacional",
+          "deparmentId": 14,
+          "department": {
+            "id": 14,
+            "name": "Córdoba",
+            "description": "Córdoba es uno de los 32 departamentos que, junto con Bogotá, Distrito Capital, forman la República de Colombia. Su capital es Montería. Está ubicado al norte del país, en la región Caribe, limitando al norte con el mar Caribe (océano Atlántico), al este con los departamentos de Sucre y Bolívar, y al sur y oeste con el departamento de Antioquia. Con 1 710 000 habitantes en 2015, es el octavo departamento más poblado, por detrás de Bogotá, Antioquia, Valle del Cauca, Cundinamarca, Atlántico, Santander y Bolívar. Fue creado por medio de la Ley 9 del 18 de diciembre de 1951, reglamentada el 18 de junio de 1952.",
+            "cityCapitalId": 498,
+            "municipalities": 30,
+            "surface": 25020,
+            "population": 1856496,
+            "phonePrefix": "4",
+            "countryId": 1,
+            "cityCapital": null,
+            "country": null,
+            "cities": null,
+            "regionId": 1,
+            "region": null,
+            "naturalAreas": null,
+            "maps": null,
+            "indigenousReservations": null,
+            "airports": [
+              null
+            ]
+          },
+          "cityId": 498,
+          "city": {
+            "id": 498,
+            "name": "Montería",
+            "description": "Montería es un municipio colombiano, capital del departamento de Córdoba. Está ubicado al noroccidente del país en la región Caribe Colombiana, se encuentra a orillas del río Sinú, por lo que es conocida como la \"Perla del Sinú\". Es considerada la capital ganadera de Colombia;5​ anualmente celebra la feria de la Ganadería durante el mes de junio. Es además, un importante centro comercial y universitario, reconocida como una de las ciudades colombianas con mayor crecimiento y desarrollo en los últimos años y por impulsar el desarrollo sostenible",
+            "surface": 3141,
+            "population": 512994,
+            "postalCode": "230001",
+            "departmentId": 14,
+            "department": null,
+            "touristAttractions": null,
+            "presidents": null,
+            "indigenousReservations": null,
+            "airports": [
+              null
+            ],
+            "radios": null
+          },
+          "latitude": -75.8237825366854,
+          "longitude": 8.8265059673346
+        }
+      ],
+      "count": 1
+    }
+  },
+  "Cundinamarca": {
+    "Madrid": {
+      "items": [
+        {
+          "id": 47,
+          "name": "Base Aérea de Madrid",
+          "iataCode": "N/A",
+          "oaciCode": "SKMA",
+          "type": "Militar",
+          "deparmentId": 15,
+          "department": {
+            "id": 15,
+            "name": "Cundinamarca",
+            "description": "Cundinamarca es uno de los 32 departamentos que, junto con Bogotá, Distrito Capital, forman la República de Colombia. Su capital es Bogotá, la capital del país. Está ubicado en el centro del país, en la región andina, limitando al norte Boyacá, al este y al sur con Meta, al sur con Huila y al oeste con Tolima y Caldas. Enclavado en su territorio se encuentra el Distrito Capital de Bogotá, al que rodea excepto por su límite suroriental.",
+            "cityCapitalId": 167,
+            "municipalities": 116,
+            "surface": 23071,
+            "population": 2473634,
+            "phonePrefix": "1",
+            "countryId": 1,
+            "cityCapital": null,
+            "country": null,
+            "cities": null,
+            "regionId": 5,
+            "region": null,
+            "naturalAreas": null,
+            "maps": null,
+            "indigenousReservations": null,
+            "airports": [
+              null
+            ]
+          },
+          "cityId": 571,
+          "city": {
+            "id": 571,
+            "name": "Madrid",
+            "description": "",
+            "surface": null,
+            "population": null,
+            "postalCode": null,
+            "departmentId": 15,
+            "department": null,
+            "touristAttractions": null,
+            "presidents": null,
+            "indigenousReservations": null,
+            "airports": [
+              null
+            ],
+            "radios": null
+          },
+          "latitude": -74.27088585,
+          "longitude": 4.728473768
+        }
+      ],
+      "count": 1
+    },
+    "Puerto Salgar": {
+      "items": [
+        {
+          "id": 50,
+          "name": "Base Aérea Germán Olano (Palanquero)",
+          "iataCode": "PAL",
+          "oaciCode": "SKPQ",
+          "type": "Militar",
+          "deparmentId": 15,
+          "department": {
+            "id": 15,
+            "name": "Cundinamarca",
+            "description": "Cundinamarca es uno de los 32 departamentos que, junto con Bogotá, Distrito Capital, forman la República de Colombia. Su capital es Bogotá, la capital del país. Está ubicado en el centro del país, en la región andina, limitando al norte Boyacá, al este y al sur con Meta, al sur con Huila y al oeste con Tolima y Caldas. Enclavado en su territorio se encuentra el Distrito Capital de Bogotá, al que rodea excepto por su límite suroriental.",
+            "cityCapitalId": 167,
+            "municipalities": 116,
+            "surface": 23071,
+            "population": 2473634,
+            "phonePrefix": "1",
+            "countryId": 1,
+            "cityCapital": null,
+            "country": null,
+            "cities": null,
+            "regionId": 5,
+            "region": null,
+            "naturalAreas": null,
+            "maps": null,
+            "indigenousReservations": null,
+            "airports": [
+              null
+            ]
+          },
+          "cityId": 586,
+          "city": {
+            "id": 586,
+            "name": "Puerto Salgar",
+            "description": "",
+            "surface": null,
+            "population": null,
+            "postalCode": null,
+            "departmentId": 15,
+            "department": null,
+            "touristAttractions": null,
+            "presidents": null,
+            "indigenousReservations": null,
+            "airports": [
+              null
+            ],
+            "radios": null
+          },
+          "latitude": -74.65665411,
+          "longitude": 5.465754049
+        }
+      ],
+      "count": 1
+    }
+  },
+  "Guaviare": {
+    "San José del Guaviare": {
+      "items": [
+        {
+          "id": 34,
+          "name": "Aeropuerto Jorge Enrique González",
+          "iataCode": "SJE",
+          "oaciCode": "SKSJ",
+          "type": "Nacional",
+          "deparmentId": 17,
+          "department": {
+            "id": 17,
+            "name": "Guaviare",
+            "description": "Guaviare es uno de los treinta y dos departamentos que, junto con Bogotá, Distrito Capital, forman la República de Colombia. Su capital es San José del Guaviare. Está ubicado en la región Amazonia, limitando al norte con Meta, al noreste con Vichada, al oeste con Guainía y al sur con Vaupés y Caquetá. Con 77,276 hab. según estimaciones del DANE,5​ es el quinto departamento menos poblado —por delante de Amazonas, San Andrés y Providencia, Guainía y Vaupés— y con 2,04 hab/km², el quinto menos densamente poblado, por delante de Vaupés, Amazonas, Vichada y Guainía, el menos densamente poblado",
+            "cityCapitalId": 654,
+            "municipalities": 4,
+            "surface": 53460,
+            "population": 90357,
+            "phonePrefix": "8",
+            "countryId": 1,
+            "cityCapital": null,
+            "country": null,
+            "cities": null,
+            "regionId": 4,
+            "region": null,
+            "naturalAreas": null,
+            "maps": null,
+            "indigenousReservations": null,
+            "airports": [
+              null
+            ]
+          },
+          "cityId": 654,
+          "city": {
+            "id": 654,
+            "name": "San José del Guaviare",
+            "description": "San José del Guaviare es un municipio colombiano, capital del departamento de Guaviare. Comenzó a formarse en 1960, vinculado a las actividades colonizadoras de la región selvática y como núcleo de apoyo a las mismas. En 1976 recibió el estatus de municipio y su crecimiento demográfico, desde entonces, se ha proyectado rápidamente.",
+            "surface": 16178,
+            "population": 52815,
+            "postalCode": "950001",
+            "departmentId": 17,
+            "department": null,
+            "touristAttractions": null,
+            "presidents": null,
+            "indigenousReservations": null,
+            "airports": [
+              null
+            ],
+            "radios": null
+          },
+          "latitude": -72.63883975,
+          "longitude": 2.5728217179895
+        }
+      ],
+      "count": 1
+    }
+  },
+  "Huila": {
+    "Neiva": {
+      "items": [
+        {
+          "id": 27,
+          "name": "Aeropuerto Benito Salas",
+          "iataCode": "NVA",
+          "oaciCode": "SKNV",
+          "type": "Nacional",
+          "deparmentId": 18,
+          "department": {
+            "id": 18,
+            "name": "Huila",
+            "description": "Huila es uno de los treinta y dos departamentos que junto con Bogotá, Distrito Capital, conforman la República de Colombia. Su capital y ciudad más poblada es Neiva. Está ubicado al suroeste del país, en la región andina, limitando al norte con Tolima y Cundinamarca, al este con Meta, al sur con Caquetá y al oeste con Cauca.",
+            "cityCapitalId": 657,
+            "municipalities": 37,
+            "surface": 19890,
+            "population": 1140932,
+            "phonePrefix": "8",
+            "countryId": 1,
+            "cityCapital": null,
+            "country": null,
+            "cities": null,
+            "regionId": 5,
+            "region": null,
+            "naturalAreas": null,
+            "maps": null,
+            "indigenousReservations": null,
+            "airports": [
+              null
+            ]
+          },
+          "cityId": 657,
+          "city": {
+            "id": 657,
+            "name": "Neiva",
+            "description": "Neiva es un municipio colombiano, capital del departamento de Huila. Yace entre la cordillera Central y Oriental, en una planicie sobre la margen oriental del río Magdalena, en el valle del mismo nombre, cruzada por el río Las Ceibas y el río del Oro. Su extensión territorial de 1533 km², su altura de 442 metros sobre el nivel del mar y su temperatura promedio de 27.7 ",
+            "surface": 1553,
+            "population": 367401,
+            "postalCode": "410001",
+            "departmentId": 18,
+            "department": null,
+            "touristAttractions": null,
+            "presidents": null,
+            "indigenousReservations": null,
+            "airports": [
+              null
+            ],
+            "radios": null
+          },
+          "latitude": -75.2929522178244,
+          "longitude": 2.9475695070153
+        }
+      ],
+      "count": 1
+    },
+    "Pitalito": {
+      "items": [
+        {
+          "id": 29,
+          "name": "Aeropuerto Contador",
+          "iataCode": "PTX",
+          "oaciCode": "SKPI",
+          "type": "Nacional",
+          "deparmentId": 18,
+          "department": {
+            "id": 18,
+            "name": "Huila",
+            "description": "Huila es uno de los treinta y dos departamentos que junto con Bogotá, Distrito Capital, conforman la República de Colombia. Su capital y ciudad más poblada es Neiva. Está ubicado al suroeste del país, en la región andina, limitando al norte con Tolima y Cundinamarca, al este con Meta, al sur con Caquetá y al oeste con Cauca.",
+            "cityCapitalId": 657,
+            "municipalities": 37,
+            "surface": 19890,
+            "population": 1140932,
+            "phonePrefix": "8",
+            "countryId": 1,
+            "cityCapital": null,
+            "country": null,
+            "cities": null,
+            "regionId": 5,
+            "region": null,
+            "naturalAreas": null,
+            "maps": null,
+            "indigenousReservations": null,
+            "airports": [
+              null
+            ]
+          },
+          "cityId": 681,
+          "city": {
+            "id": 681,
+            "name": "Pitalito",
+            "description": "Pitalito es un municipio colombiano localizado en el suroriente del departamento del Huila. Yace sobre el valle del Magdalena y sobre el vértice que forman las Cordilleras central y oriental. Su extensión territorial de 653km², su altura de 1318 metros sobre el nivel del mar y su temperatura promedio de 18-21 ",
+            "surface": 653,
+            "population": 128600,
+            "postalCode": "417030",
+            "departmentId": 18,
+            "department": null,
+            "touristAttractions": null,
+            "presidents": null,
+            "indigenousReservations": null,
+            "airports": [
+              null
+            ],
+            "radios": null
+          },
+          "latitude": -76.0903327243934,
+          "longitude": 1.8573393912767
+        }
+      ],
+      "count": 1
+    }
+  },
+  "La Guajira": {
+    "Riohacha": {
+      "items": [
+        {
+          "id": 14,
+          "name": "Aeropuerto Internacional Almirante Padilla",
+          "iataCode": "RCH",
+          "oaciCode": "SKRH",
+          "type": "Nacional",
+          "deparmentId": 19,
+          "department": {
+            "id": 19,
+            "name": "La Guajira",
+            "description": "La Guajira (en wayuunaiki: Wajiira o Karibyczonn) es uno de los treinta y dos departamentos que, junto con Bogotá, Distrito Capital, forman la República de Colombia. La traducción más precisa de su nombre sería «Caribe hermoso» y en wayunaiki antiguo Karive Pala «Mar Caribe» también puede significar Mar del Caribe. Su capital es Riohacha. Está ubicado en el extremo noreste del país, en la región Caribe, limitando al norte y este con el mar Caribe (océano Atlántico), al sureste con el estado Venezolano del Zulia, al sur con el departamento del Cesar y al oeste con el del Magdalena.",
+            "cityCapitalId": 694,
+            "municipalities": 15,
+            "surface": 20848,
+            "population": 1002394,
+            "phonePrefix": "5",
+            "countryId": 1,
+            "cityCapital": null,
+            "country": null,
+            "cities": null,
+            "regionId": 1,
+            "region": null,
+            "naturalAreas": null,
+            "maps": null,
+            "indigenousReservations": null,
+            "airports": [
+              null
+            ]
+          },
+          "cityId": 694,
+          "city": {
+            "id": 694,
+            "name": "Riohacha",
+            "description": "Riohacha, oficialmente Distrito Especial, Turístico y Cultural de Riohacha,7​ (en wayuunaiki: Süchiimma que traduce a \"Tierra del Río\") es un distrito colombiano, capital del departamento de La Guajira. Se ubica en la costa del mar Caribe, en el delta del río Ranchería. Es el segundo municipio con mayor extensión territorial en su departamento y principal por constituir un vasto engranaje de entidades públicas, bancos y entidades financieras",
+            "surface": 3084,
+            "population": 287009,
+            "postalCode": "440001",
+            "departmentId": 19,
+            "department": null,
+            "touristAttractions": null,
+            "presidents": null,
+            "indigenousReservations": null,
+            "airports": [
+              null
+            ],
+            "radios": null
+          },
+          "latitude": -72.9271388873727,
+          "longitude": 11.5235555552725
+        }
+      ],
+      "count": 1
+    }
+  },
+  "Magdalena": {
+    "Santa Marta": {
+      "items": [
+        {
+          "id": 12,
+          "name": "Aeropuerto Internacional Simón Bolívar",
+          "iataCode": "SMR",
+          "oaciCode": "SKSM",
+          "type": "Internacional",
+          "deparmentId": 20,
+          "department": {
+            "id": 20,
+            "name": "Magdalena",
+            "description": "Magdalena es uno de los treinta y dos departamentos que, junto con Bogotá, Distrito Capital, forman la República de Colombia. Su capital es Santa Marta. Está ubicado al noreste del país, en la región Caribe. Limita al norte con el mar Caribe, al este con La Guajira, al sureste con Cesar, al sur y oeste con Bolívar y al oeste con Atlántico. Fue uno de los originales nueve estados que conformaron los Estados Unidos de Colombia. El departamento toma el nombre del río Magdalena. Entre sus municipios se encuentra Aracataca, el lugar de nacimiento del premio Nobel de literatura Gabriel García Márquez.",
+            "cityCapitalId": 709,
+            "municipalities": 30,
+            "surface": 23188,
+            "population": 1463427,
+            "phonePrefix": "5",
+            "countryId": 1,
+            "cityCapital": null,
+            "country": null,
+            "cities": null,
+            "regionId": 1,
+            "region": null,
+            "naturalAreas": null,
+            "maps": null,
+            "indigenousReservations": null,
+            "airports": [
+              null
+            ]
+          },
+          "cityId": 709,
+          "city": {
+            "id": 709,
+            "name": "Santa Marta",
+            "description": "Santa Marta, oficialmente Distrito Turístico, Cultural e Histórico de Santa Marta,4​ es la capital del departamento de Magdalena, Colombia. Fue fundada el 29 de julio de 1525 por el español Rodrigo de Bastidas, lo que según los textos, la hace la ciudad en pie más antigua de Colombia. Se encuentra a orillas de la bahía del mismo nombre.",
+            "surface": 2393,
+            "population": 538612,
+            "postalCode": "470001",
+            "departmentId": 20,
+            "department": null,
+            "touristAttractions": null,
+            "presidents": null,
+            "indigenousReservations": null,
+            "airports": [
+              null
+            ],
+            "radios": null
+          },
+          "latitude": -74.2307999996405,
+          "longitude": 11.1197159993865
+        }
+      ],
+      "count": 1
+    }
+  },
+  "Amazonas": {
+    "Leticia": {
+      "items": [
+        {
+          "id": 8,
+          "name": "Aeropuerto Internacional Alfredo Vásquez Cobo",
+          "iataCode": "LET",
+          "oaciCode": "SKLT",
+          "type": "Internacional",
+          "deparmentId": 1,
+          "department": {
+            "id": 1,
+            "name": "Amazonas",
+            "description": "Amazonas es uno de los treinta y dos departamentos que, junto con Bogotá, Distrito Capital, forman la República de Colombia. Su capital es Leticia. Está ubicado en el extremo sur del país, en gran parte al sur de la línea ecuatorial, en la región Amazonia. Limita al norte con Caquetá y Vaupés, al este con el estado brasileño del mismo nombre, al sur con el departamento peruano de Loreto y al oeste con Putumayo. Con 110 000 km² es el departamento más extenso de Colombia, con unos 75 000 habitantes en 2015, el cuarto menos poblado —por delante de Vichada, Vaupés y Guainía, el menos poblado— y con 0.68 hab/km², el tercero menos densamente poblado, por delante de Vichada y Guainía, el menos densamente poblado.",
+            "cityCapitalId": 1,
+            "municipalities": 2,
+            "surface": 109665,
+            "population": 82068,
+            "phonePrefix": "8",
+            "countryId": 1,
+            "cityCapital": null,
+            "country": null,
+            "cities": null,
+            "regionId": 4,
+            "region": null,
+            "naturalAreas": null,
+            "maps": null,
+            "indigenousReservations": null,
+            "airports": [
+              null
+            ]
+          },
+          "cityId": 1,
+          "city": {
+            "id": 1,
+            "name": "Leticia",
+            "description": "Leticia es un municipio fronterizo colombiano, es la capital del departamento del Amazonas. Se encuentra localizado en el extremo sur del país sobre las márgenes del río Amazonas, al sur del área no municipalizada de Tarapacá y al oriente del municipio de Puerto Nariño. Su extensión territorial es de 5968 km², su altura de 82 metros sobre el nivel del mar",
+            "surface": 5968,
+            "population": 42280,
+            "postalCode": "910001",
+            "departmentId": 1,
+            "department": null,
+            "touristAttractions": null,
+            "presidents": null,
+            "indigenousReservations": null,
+            "airports": [
+              null
+            ],
+            "radios": null
+          },
+          "latitude": -69.9424648377189,
+          "longitude": -4.1925091084901
+        }
+      ],
+      "count": 1
+    }
+  },
+  "Meta": {
+    "Villavicencio": {
+      "items": [
+        {
+          "id": 38,
+          "name": "Aeropuerto Vanguardia",
+          "iataCode": "VVC",
+          "oaciCode": "SKVV",
+          "type": "Nacional",
+          "deparmentId": 21,
+          "department": {
+            "id": 21,
+            "name": "Meta",
+            "description": "Meta es uno de los treinta y dos departamentos que, junto con Bogotá, Distrito Capital, forman la República de Colombia. Su capital es Villavicencio. Está ubicado en el centro del país, en la región Orinoquía, limitando al norte con Bogotá, Distrito Capital, Cundinamarca y Casanare, al este con Vichada, al sur con Guaviare y Caquetá, y al oeste con Huila. Con 85 635 km² es el cuarto departamento más extenso —por detrás de Amazonas, Vichada y Caquetá",
+            "cityCapitalId": 740,
+            "municipalities": 29,
+            "surface": 85635,
+            "population": 1080706,
+            "phonePrefix": "8",
+            "countryId": 1,
+            "cityCapital": null,
+            "country": null,
+            "cities": null,
+            "regionId": 3,
+            "region": null,
+            "naturalAreas": null,
+            "maps": null,
+            "indigenousReservations": null,
+            "airports": [
+              null
+            ]
+          },
+          "cityId": 740,
+          "city": {
+            "id": 740,
+            "name": "Villavicencio",
+            "description": "Villavicencio es un municipio colombiano, capital del departamento del Meta y el centro comercial más importante de los Llanos Orientales.4​ Está ubicada en el piedemonte de la Cordillera Oriental, al noroccidente del departamento del Meta, en la margen derecha del río Guatiquía.",
+            "surface": 1338,
+            "population": 558299,
+            "postalCode": "500001",
+            "departmentId": 21,
+            "department": null,
+            "touristAttractions": null,
+            "presidents": null,
+            "indigenousReservations": null,
+            "airports": [
+              null
+            ],
+            "radios": null
+          },
+          "latitude": -73.6133272650964,
+          "longitude": 4.1690640859515
+        }
+      ],
+      "count": 1
+    }
+  },
+  "Nariño": {
+    "Pasto": {
+      "items": [
+        {
+          "id": 28,
+          "name": "Aeropuerto Antonio Nariño",
+          "iataCode": "PSO",
+          "oaciCode": "SKPS",
+          "type": "Nacional",
+          "deparmentId": 22,
+          "department": {
+            "id": 22,
+            "name": "Nariño",
+            "description": "Nariño es uno de los treinta y dos departamentos que, junto con Bogotá, Distrito Capital, forman la República de Colombia. Su capital es San Juan de Pasto. Está ubicado en el extremo suroeste del país, en las regiones andina y pacífica, limitando al norte con Cauca, al este con Putumayo, al sur con las provincias de Esmeraldas, Carchi y Sucumbíos de la República de Ecuador y al oeste con el océano Pacífico. Fue fundado en 1904 con la unión de lo que eran las provincias de Pasto y Obando.",
+            "cityCapitalId": 769,
+            "municipalities": 64,
+            "surface": 33268,
+            "population": 1629181,
+            "phonePrefix": "2",
+            "countryId": 1,
+            "cityCapital": null,
+            "country": null,
+            "cities": null,
+            "regionId": 2,
+            "region": null,
+            "naturalAreas": null,
+            "maps": null,
+            "indigenousReservations": null,
+            "airports": [
+              null
+            ]
+          },
+          "cityId": 769,
+          "city": {
+            "id": 769,
+            "name": "Pasto",
+            "description": "Pasto es un municipio colombiano, capital del departamento de Nariño, cuya cabecera municipal ostenta el nombre de San Juan de Pasto.9​ Se ubica en el suroccidente de la nación, en la región Andina.",
+            "surface": 1181,
+            "population": 460638,
+            "postalCode": "520001",
+            "departmentId": 22,
+            "department": null,
+            "touristAttractions": null,
+            "presidents": null,
+            "indigenousReservations": null,
+            "airports": [
+              null
+            ],
+            "radios": null
+          },
+          "latitude": -77.2909833329443,
+          "longitude": 1.3965964448241
+        }
+      ],
+      "count": 1
+    },
+    "Ipiales": {
+      "items": [
+        {
+          "id": 23,
+          "name": "Aeropuerto San Luis",
+          "iataCode": "IPI",
+          "oaciCode": "SKIP",
+          "type": "Nacional",
+          "deparmentId": 22,
+          "department": {
+            "id": 22,
+            "name": "Nariño",
+            "description": "Nariño es uno de los treinta y dos departamentos que, junto con Bogotá, Distrito Capital, forman la República de Colombia. Su capital es San Juan de Pasto. Está ubicado en el extremo suroeste del país, en las regiones andina y pacífica, limitando al norte con Cauca, al este con Putumayo, al sur con las provincias de Esmeraldas, Carchi y Sucumbíos de la República de Ecuador y al oeste con el océano Pacífico. Fue fundado en 1904 con la unión de lo que eran las provincias de Pasto y Obando.",
+            "cityCapitalId": 769,
+            "municipalities": 64,
+            "surface": 33268,
+            "population": 1629181,
+            "phonePrefix": "2",
+            "countryId": 1,
+            "cityCapital": null,
+            "country": null,
+            "cities": null,
+            "regionId": 2,
+            "region": null,
+            "naturalAreas": null,
+            "maps": null,
+            "indigenousReservations": null,
+            "airports": [
+              null
+            ]
+          },
+          "cityId": 791,
+          "city": {
+            "id": 791,
+            "name": "Ipiales",
+            "description": "Ipiales es un municipio colombiano ubicado en el departamento de Nariño. Situado en la frontera con Ecuador, en el nudo de los Pastos, en el altiplano andino, relativamente cerca de la costa del océano Pacífico (aproximadamente a cinco horas en bus), al pie de monte amazónico y a la línea equinoccial, siendo una región panamazónica.",
+            "surface": 1707,
+            "population": 148000,
+            "postalCode": "524060",
+            "departmentId": 22,
+            "department": null,
+            "touristAttractions": null,
+            "presidents": null,
+            "indigenousReservations": null,
+            "airports": [
+              null
+            ],
+            "radios": null
+          },
+          "latitude": -77.6718766794525,
+          "longitude": 0.8619641456924
+        }
+      ],
+      "count": 1
+    },
+    "San Andrés de Tumaco": {
+      "items": [
+        {
+          "id": 36,
+          "name": "Aeropuerto La Florida",
+          "iataCode": "TCO",
+          "oaciCode": "SKCO",
+          "type": "Nacional",
+          "deparmentId": 22,
+          "department": {
+            "id": 22,
+            "name": "Nariño",
+            "description": "Nariño es uno de los treinta y dos departamentos que, junto con Bogotá, Distrito Capital, forman la República de Colombia. Su capital es San Juan de Pasto. Está ubicado en el extremo suroeste del país, en las regiones andina y pacífica, limitando al norte con Cauca, al este con Putumayo, al sur con las provincias de Esmeraldas, Carchi y Sucumbíos de la República de Ecuador y al oeste con el océano Pacífico. Fue fundado en 1904 con la unión de lo que eran las provincias de Pasto y Obando.",
+            "cityCapitalId": 769,
+            "municipalities": 64,
+            "surface": 33268,
+            "population": 1629181,
+            "phonePrefix": "2",
+            "countryId": 1,
+            "cityCapital": null,
+            "country": null,
+            "cities": null,
+            "regionId": 2,
+            "region": null,
+            "naturalAreas": null,
+            "maps": null,
+            "indigenousReservations": null,
+            "airports": [
+              null
+            ]
+          },
+          "cityId": 828,
+          "city": {
+            "id": 828,
+            "name": "San Andrés de Tumaco",
+            "description": "",
+            "surface": null,
+            "population": null,
+            "postalCode": null,
+            "departmentId": 22,
+            "department": null,
+            "touristAttractions": null,
+            "presidents": null,
+            "indigenousReservations": null,
+            "airports": [
+              null
+            ],
+            "radios": null
+          },
+          "latitude": -78.7515257366375,
+          "longitude": 1.8125020644884
+        }
+      ],
+      "count": 1
+    }
+  },
+  "Norte de Santander": {
+    "Cúcuta": {
+      "items": [
+        {
+          "id": 6,
+          "name": "Aeropuerto Internacional Camilo Daza",
+          "iataCode": "CUC",
+          "oaciCode": "SKCC",
+          "type": "Internacional",
+          "deparmentId": 23,
+          "department": {
+            "id": 23,
+            "name": "Norte de Santander",
+            "description": "Norte de Santander es uno de los treinta y dos departamentos que, junto con Bogotá, Distrito Capital, forman la República de Colombia. Su capital es la ciudad de Cúcuta. Es una entidad territorial que goza de autonomía para la administración de los asuntos seccionales y la planificación y promoción del desarrollo económico y social dentro de su territorio, tiene una extensión de 22.648 km², que equivalen al 1.91% del territorio nacional, ubicado en la región nororiental de Colombia. Limita al norte y al este con los estados de Zulia y Táchira de Venezuela, al sur con los departamentos de Boyacá y Santander, y al oeste con Santander y Cesar.",
+            "cityCapitalId": 870,
+            "municipalities": 40,
+            "surface": 21658,
+            "population": 1651278,
+            "phonePrefix": "7",
+            "countryId": 1,
+            "cityCapital": null,
+            "country": null,
+            "cities": null,
+            "regionId": 5,
+            "region": null,
+            "naturalAreas": null,
+            "maps": null,
+            "indigenousReservations": null,
+            "airports": [
+              null
+            ]
+          },
+          "cityId": 870,
+          "city": {
+            "id": 870,
+            "name": "Cúcuta",
+            "description": "Cúcuta, oficialmente San José de Cúcuta, es un municipio colombiano, capital del departamento de Norte de Santander y núcleo del Área Metropolitana de Cúcuta. La ciudad está situada en el valle homónimo, al pie de la Cordillera Oriental de los Andes Colombianos, próxima a la frontera con Venezuela. Comprende una superficie aproximada de 1117 km², con un área urbana de 64 km² (dividida en 10 comunas) y un área rural de 1053 km² (dividida en 10 corregimientos)",
+            "surface": 1117,
+            "population": 777106,
+            "postalCode": "540001",
+            "departmentId": 23,
+            "department": null,
+            "touristAttractions": null,
+            "presidents": null,
+            "indigenousReservations": null,
+            "airports": [
+              null
+            ],
+            "radios": null
+          },
+          "latitude": -72.5140555000538,
+          "longitude": 7.9313999994753
+        }
+      ],
+      "count": 1
+    }
+  },
+  "Quindío": {
+    "Armenia": {
+      "items": [
+        {
+          "id": 1,
+          "name": "Aeropuerto Internacional El Edén",
+          "iataCode": "AXM",
+          "oaciCode": "SKAR",
+          "type": "Internacional",
+          "deparmentId": 25,
+          "department": {
+            "id": 25,
+            "name": "Quindío",
+            "description": "Quindío, también llamado El Quindío, es uno de los treinta y dos departamentos que, junto con Bogotá, Distrito Capital, forman la República de Colombia. Su capital es Armenia. Está ubicado en el centro-oeste del país, en la región andina, limitando al norte con Risaralda, al este con Tolima y al oeste con Valle del Cauca. Con 1845 km² es el segundo departamento menos extenso —por delante de San Andrés y Providencia— y con 306 hab/km², el tercero más densamente poblado, por detrás de San Andrés y Providencia y Atlántico. Pertenece al eje cafetero y a la región paisa",
+            "cityCapitalId": 885,
+            "municipalities": 12,
+            "surface": 1845,
+            "population": 569569,
+            "phonePrefix": "6",
+            "countryId": 1,
+            "cityCapital": null,
+            "country": null,
+            "cities": null,
+            "regionId": 5,
+            "region": null,
+            "naturalAreas": null,
+            "maps": null,
+            "indigenousReservations": null,
+            "airports": [
+              null
+            ]
+          },
+          "cityId": 885,
+          "city": {
+            "id": 885,
+            "name": "Armenia",
+            "description": "Armenia es un municipio colombiano, capital del departamento del Quindío y núcleo económico de su área metropolitana. Es una de las principales ciudades del eje cafetero colombiano, la región paisa y el Paisaje Cultural Cafetero.4​ Fundada en 1889 durante la colonización antioqueña, basó su economía en la agricultura",
+            "surface": 121,
+            "population": 316926,
+            "postalCode": "630001",
+            "departmentId": 25,
+            "department": null,
+            "touristAttractions": null,
+            "presidents": null,
+            "indigenousReservations": null,
+            "airports": [
+              null
+            ],
+            "radios": null
+          },
+          "latitude": -75.7659806671205,
+          "longitude": 4.4532428642135
+        }
+      ],
+      "count": 1
+    }
+  },
+  "Risaralda": {
+    "Pereira": {
+      "items": [
+        {
+          "id": 10,
+          "name": "Aeropuerto Internacional Matecaña",
+          "iataCode": "PEI",
+          "oaciCode": "SKPE",
+          "type": "Internacional",
+          "deparmentId": 26,
+          "department": {
+            "id": 26,
+            "name": "Risaralda",
+            "description": "Risaralda es uno de los treinta y dos departamentos que, junto con Bogotá, Distrito Capital, forman la República de Colombia. Su capital y ciudad más poblada es Pereira. Está ubicado en el centro-oeste del país, en la región andina, limitando al norte con Antioquia, al este con Caldas y Tolima, al sur con Quindío y Valle del Cauca, y al oeste con Chocó. Con 4140 km² es el cuarto departamento menos extenso",
+            "cityCapitalId": 897,
+            "municipalities": 14,
+            "surface": 4140,
+            "population": 977829,
+            "phonePrefix": "6",
+            "countryId": 1,
+            "cityCapital": null,
+            "country": null,
+            "cities": null,
+            "regionId": 5,
+            "region": null,
+            "naturalAreas": null,
+            "maps": null,
+            "indigenousReservations": null,
+            "airports": [
+              null
+            ]
+          },
+          "cityId": 897,
+          "city": {
+            "id": 897,
+            "name": "Pereira",
+            "description": "Pereira es un municipio colombiano, capital del departamento de Risaralda. Es la ciudad más poblada de la región del eje cafetero; integra el Área Metropolitana de Centro Occidente junto con los municipios de Dosquebradas y La Virginia. Está ubicada en la región centro-occidente del país, en el valle del río Otún en la Cordillera Central de los Andes colombianos.",
+            "surface": 702,
+            "population": 477027,
+            "postalCode": "660000",
+            "departmentId": 26,
+            "department": null,
+            "touristAttractions": null,
+            "presidents": null,
+            "indigenousReservations": null,
+            "airports": [
+              null
+            ],
+            "radios": null
+          },
+          "latitude": -75.7393969995227,
+          "longitude": 4.81269699992
+        }
+      ],
+      "count": 1
+    }
+  },
+  "San Andrés y Providencia": {
+    "Providencia": {
+      "items": [
+        {
+          "id": 31,
+          "name": "Aeropuerto El Embrujo",
+          "iataCode": "PVA",
+          "oaciCode": "SKPV",
+          "type": "Nacional",
+          "deparmentId": 27,
+          "department": {
+            "id": 27,
+            "name": "San Andrés y Providencia",
+            "description": "El archipiélago de San Andrés, Providencia y Santa Catalina (en inglés y criollo sanandresano: Archipelago of San Andrés, Providencia and Santa Catalina) es uno de los treinta y dos departamentos que, junto con Bogotá, Distrito Capital, forman la República de Colombia. Su capital es San Andrés. Está ubicado al oeste del mar Caribe (océano Atlántico) en Centroamérica, a 775 km (480 millas náuticas) al noroeste de la costa atlántica del territorio continental del país, y a 220 km (140 millas náuticas) de las costas orientales de Nicaragua",
+            "cityCapitalId": 912,
+            "municipalities": 2,
+            "surface": 44,
+            "population": 65228,
+            "phonePrefix": "8",
+            "countryId": 1,
+            "cityCapital": null,
+            "country": null,
+            "cities": null,
+            "regionId": 6,
+            "region": null,
+            "naturalAreas": null,
+            "maps": null,
+            "indigenousReservations": null,
+            "airports": [
+              null
+            ]
+          },
+          "cityId": 911,
+          "city": {
+            "id": 911,
+            "name": "Providencia",
+            "description": "",
+            "surface": null,
+            "population": null,
+            "postalCode": null,
+            "departmentId": 27,
+            "department": null,
+            "touristAttractions": null,
+            "presidents": null,
+            "indigenousReservations": null,
+            "airports": [
+              null
+            ],
+            "radios": null
+          },
+          "latitude": -81.3562680941978,
+          "longitude": 13.7389202003514
+        }
+      ],
+      "count": 1
+    },
+    "San Andrés": {
+      "items": [
+        {
+          "id": 11,
+          "name": "Aeropuerto Internacional Gustavo Rojas Pinilla",
+          "iataCode": "ADZ",
+          "oaciCode": "SKSP",
+          "type": "Internacional",
+          "deparmentId": 27,
+          "department": {
+            "id": 27,
+            "name": "San Andrés y Providencia",
+            "description": "El archipiélago de San Andrés, Providencia y Santa Catalina (en inglés y criollo sanandresano: Archipelago of San Andrés, Providencia and Santa Catalina) es uno de los treinta y dos departamentos que, junto con Bogotá, Distrito Capital, forman la República de Colombia. Su capital es San Andrés. Está ubicado al oeste del mar Caribe (océano Atlántico) en Centroamérica, a 775 km (480 millas náuticas) al noroeste de la costa atlántica del territorio continental del país, y a 220 km (140 millas náuticas) de las costas orientales de Nicaragua",
+            "cityCapitalId": 912,
+            "municipalities": 2,
+            "surface": 44,
+            "population": 65228,
+            "phonePrefix": "8",
+            "countryId": 1,
+            "cityCapital": null,
+            "country": null,
+            "cities": null,
+            "regionId": 6,
+            "region": null,
+            "naturalAreas": null,
+            "maps": null,
+            "indigenousReservations": null,
+            "airports": [
+              null
+            ]
+          },
+          "cityId": 912,
+          "city": {
+            "id": 912,
+            "name": "San Andrés",
+            "description": "San Andrés, conocido localmente como North End o Sector del Centro es el centro administrativo, turístico y comercial del departamento colombiano de San Andrés, Providencia y Santa Catalina.",
+            "surface": 26,
+            "population": 71305,
+            "postalCode": "880001",
+            "departmentId": 27,
+            "department": null,
+            "touristAttractions": null,
+            "presidents": null,
+            "indigenousReservations": null,
+            "airports": [
+              null
+            ],
+            "radios": null
+          },
+          "latitude": -81.7508146050185,
+          "longitude": 12.9863770653654
+        }
+      ],
+      "count": 1
+    }
+  },
+  "Santander": {
+    "Bucaramanga": {
+      "items": [
+        {
+          "id": 4,
+          "name": "Aeropuerto Internacional Palonegro",
+          "iataCode": "BGA",
+          "oaciCode": "SKBG",
+          "type": "Internacional",
+          "deparmentId": 28,
+          "department": {
+            "id": 28,
+            "name": "Santander",
+            "description": "Santander es uno de los treinta y dos departamentos que, junto con Bogotá, Distrito Capital, forman la República de Colombia. Su capital es Bucaramanga. Está ubicado al noreste del país, en la región andina, limitando al norte con Cesar y Norte de Santander, al este y sur con Boyacá, al oeste con Antioquia y al noroeste con Bolívar.7​ Con unos 2 280 908 habitantes en 2018 es el sexto departamento por población. Recibe su nombre en alusión a Francisco de Paula Santander, prócer de la independencia de la Nueva Granada",
+            "cityCapitalId": 915,
+            "municipalities": 87,
+            "surface": 30537,
+            "population": 2324090,
+            "phonePrefix": "7",
+            "countryId": 1,
+            "cityCapital": null,
+            "country": null,
+            "cities": null,
+            "regionId": 5,
+            "region": null,
+            "naturalAreas": null,
+            "maps": null,
+            "indigenousReservations": null,
+            "airports": [
+              null
+            ]
+          },
+          "cityId": 915,
+          "city": {
+            "id": 915,
+            "name": "Bucaramanga",
+            "description": "Bucaramanga es un municipio colombiano, capital del departamento de Santander. En 2015 un informe del Banco Mundial la situó como una de las urbes más competitivas y con mejor calidad de vida en América Latina.12​ Está ubicada al nororiente del país sobre la Cordillera Oriental, rama de la cordillera de los Andes, a orillas del río de Oro.",
+            "surface": 162,
+            "population": 612274,
+            "postalCode": "680001",
+            "departmentId": 28,
+            "department": null,
+            "touristAttractions": null,
+            "presidents": null,
+            "indigenousReservations": null,
+            "airports": [
+              null
+            ],
+            "radios": null
+          },
+          "latitude": -73.1813483828285,
+          "longitude": 7.1283043916502
+        }
+      ],
+      "count": 1
+    },
+    "Barrancabermeja": {
+      "items": [
+        {
+          "id": 17,
+          "name": "Aeropuerto Yariguíes",
+          "iataCode": "EJA",
+          "oaciCode": "SKEJ",
+          "type": "Nacional",
+          "deparmentId": 28,
+          "department": {
+            "id": 28,
+            "name": "Santander",
+            "description": "Santander es uno de los treinta y dos departamentos que, junto con Bogotá, Distrito Capital, forman la República de Colombia. Su capital es Bucaramanga. Está ubicado al noreste del país, en la región andina, limitando al norte con Cesar y Norte de Santander, al este y sur con Boyacá, al oeste con Antioquia y al noroeste con Bolívar.7​ Con unos 2 280 908 habitantes en 2018 es el sexto departamento por población. Recibe su nombre en alusión a Francisco de Paula Santander, prócer de la independencia de la Nueva Granada",
+            "cityCapitalId": 915,
+            "municipalities": 87,
+            "surface": 30537,
+            "population": 2324090,
+            "phonePrefix": "7",
+            "countryId": 1,
+            "cityCapital": null,
+            "country": null,
+            "cities": null,
+            "regionId": 5,
+            "region": null,
+            "naturalAreas": null,
+            "maps": null,
+            "indigenousReservations": null,
+            "airports": [
+              null
+            ]
+          },
+          "cityId": 921,
+          "city": {
+            "id": 921,
+            "name": "Barrancabermeja",
+            "description": "Barrancabermeja, oficialmente Distrito Especial, Portuario, Industrial, Turístico y Biodiverso de Barrancabermeja, es un distrito colombiano ubicado a orillas del río Magdalena, en la parte occidental del departamento de Santander. Es la ciudad industrial más importante del departamento de Santander, sede de la refinería de petróleo más grande del país y es la capital de la Provincia de Yariguíes",
+            "surface": 1154,
+            "population": 210729,
+            "postalCode": "687031",
+            "departmentId": 28,
+            "department": null,
+            "touristAttractions": null,
+            "presidents": null,
+            "indigenousReservations": null,
+            "airports": [
+              null
+            ],
+            "radios": null
+          },
+          "latitude": -73.8081229637694,
+          "longitude": 7.0263237634695
+        }
+      ],
+      "count": 1
+    }
+  },
+  "Sucre": {
+    "Corozal": {
+      "items": [
+        {
+          "id": 18,
+          "name": "Aeropuerto Las Brujas",
+          "iataCode": "CZU",
+          "oaciCode": "SKGO",
+          "type": "Nacional",
+          "deparmentId": 29,
+          "department": {
+            "id": 29,
+            "name": "Sucre",
+            "description": "Sucre es uno de los treinta y dos departamentos que, junto con Bogotá, Distrito Capital, forman la República de Colombia. Su capital es Sincelejo. Está ubicado al norte del país, en la región Caribe, limitando al norte con el mar Caribe (océano Atlántico), al este con Bolívar y al oeste con Córdoba. Con 10 670 km² es el sexto departamento menos extenso",
+            "cityCapitalId": 1000,
+            "municipalities": 26,
+            "surface": 10917,
+            "population": 972350,
+            "phonePrefix": "5",
+            "countryId": 1,
+            "cityCapital": null,
+            "country": null,
+            "cities": null,
+            "regionId": 1,
+            "region": null,
+            "naturalAreas": null,
+            "maps": null,
+            "indigenousReservations": null,
+            "airports": [
+              null
+            ]
+          },
+          "cityId": 1025,
+          "city": {
+            "id": 1025,
+            "name": "Corozal",
+            "description": "",
+            "surface": null,
+            "population": null,
+            "postalCode": null,
+            "departmentId": 29,
+            "department": null,
+            "touristAttractions": null,
+            "presidents": null,
+            "indigenousReservations": null,
+            "airports": [
+              null
+            ],
+            "radios": null
+          },
+          "latitude": -75.283496709794,
+          "longitude": 9.3330061196758
+        }
+      ],
+      "count": 1
+    }
+  },
+  "Tolima": {
+    "Mariquita": {
+      "items": [
+        {
+          "id": 42,
+          "name": "Aeropuerto José Celestino Mútis",
+          "iataCode": "MQU",
+          "oaciCode": "SKQU",
+          "type": "Nacional",
+          "deparmentId": 30,
+          "department": {
+            "id": 30,
+            "name": "Tolima",
+            "description": "Tolima es uno de los treinta y dos departamentos que, junto con Bogotá, Distrito Capital, forman la República de Colombia. Su capital es Ibagué. Está ubicado en el centro-oeste del país, en la región andina, limitando al norte con Caldas, al este con Cundinamarca, al sur con Huila y Cauca; y al oeste con Valle del Cauca, Quindío y Risaralda.6​ El río Magdalena atraviesa Tolima de sur a norte.",
+            "cityCapitalId": 1069,
+            "municipalities": 47,
+            "surface": 23562,
+            "population": 1346935,
+            "phonePrefix": "8",
+            "countryId": 1,
+            "cityCapital": null,
+            "country": null,
+            "cities": null,
+            "regionId": 5,
+            "region": null,
+            "naturalAreas": null,
+            "maps": null,
+            "indigenousReservations": null,
+            "airports": [
+              null
+            ]
+          },
+          "cityId": 1045,
+          "city": {
+            "id": 1045,
+            "name": "Mariquita",
+            "description": "",
+            "surface": null,
+            "population": null,
+            "postalCode": null,
+            "departmentId": 30,
+            "department": null,
+            "touristAttractions": null,
+            "presidents": null,
+            "indigenousReservations": null,
+            "airports": [
+              null
+            ],
+            "radios": null
+          },
+          "latitude": -77.3924431796939,
+          "longitude": 6.2018542824888
+        }
+      ],
+      "count": 1
+    },
+    "Melgar": {
+      "items": [
+        {
+          "id": 49,
+          "name": "Base Aérea de Tolemaida",
+          "iataCode": "TOL",
+          "oaciCode": "SKTI",
+          "type": "Militar",
+          "deparmentId": 30,
+          "department": {
+            "id": 30,
+            "name": "Tolima",
+            "description": "Tolima es uno de los treinta y dos departamentos que, junto con Bogotá, Distrito Capital, forman la República de Colombia. Su capital es Ibagué. Está ubicado en el centro-oeste del país, en la región andina, limitando al norte con Caldas, al este con Cundinamarca, al sur con Huila y Cauca; y al oeste con Valle del Cauca, Quindío y Risaralda.6​ El río Magdalena atraviesa Tolima de sur a norte.",
+            "cityCapitalId": 1069,
+            "municipalities": 47,
+            "surface": 23562,
+            "population": 1346935,
+            "phonePrefix": "8",
+            "countryId": 1,
+            "cityCapital": null,
+            "country": null,
+            "cities": null,
+            "regionId": 5,
+            "region": null,
+            "naturalAreas": null,
+            "maps": null,
+            "indigenousReservations": null,
+            "airports": [
+              null
+            ]
+          },
+          "cityId": 1046,
+          "city": {
+            "id": 1046,
+            "name": "Melgar",
+            "description": "",
+            "surface": null,
+            "population": null,
+            "postalCode": null,
+            "departmentId": 30,
+            "department": null,
+            "touristAttractions": null,
+            "presidents": null,
+            "indigenousReservations": null,
+            "airports": [
+              null
+            ],
+            "radios": null
+          },
+          "latitude": -74.69368966,
+          "longitude": 4.26057385
+        }
+      ],
+      "count": 1
+    },
+    "Ibagué": {
+      "items": [
+        {
+          "id": 22,
+          "name": "Aeropuerto Perales",
+          "iataCode": "IBE",
+          "oaciCode": "SKIB",
+          "type": "Nacional",
+          "deparmentId": 30,
+          "department": {
+            "id": 30,
+            "name": "Tolima",
+            "description": "Tolima es uno de los treinta y dos departamentos que, junto con Bogotá, Distrito Capital, forman la República de Colombia. Su capital es Ibagué. Está ubicado en el centro-oeste del país, en la región andina, limitando al norte con Caldas, al este con Cundinamarca, al sur con Huila y Cauca; y al oeste con Valle del Cauca, Quindío y Risaralda.6​ El río Magdalena atraviesa Tolima de sur a norte.",
+            "cityCapitalId": 1069,
+            "municipalities": 47,
+            "surface": 23562,
+            "population": 1346935,
+            "phonePrefix": "8",
+            "countryId": 1,
+            "cityCapital": null,
+            "country": null,
+            "cities": null,
+            "regionId": 5,
+            "region": null,
+            "naturalAreas": null,
+            "maps": null,
+            "indigenousReservations": null,
+            "airports": [
+              null
+            ]
+          },
+          "cityId": 1069,
+          "city": {
+            "id": 1069,
+            "name": "Ibagué",
+            "description": "Ibagué es un municipio colombiano ubicado en el centro-occidente de Colombia, sobre la Cordillera Central de los Andes entre el Cañón del Combeima y el Valle del Magdalena, en cercanías del Nevado del Tolima. Es la capital del departamento de Tolima. Se encuentra a una altitud promedio de 1285",
+            "surface": 1439,
+            "population": 541101,
+            "postalCode": "730001",
+            "departmentId": 30,
+            "department": null,
+            "touristAttractions": null,
+            "presidents": null,
+            "indigenousReservations": null,
+            "airports": [
+              null
+            ],
+            "radios": null
+          },
+          "latitude": -75.1362566704888,
+          "longitude": 4.4836695781705
+        }
+      ],
+      "count": 1
+    }
+  },
+  "Valle del Cauca": {
+    "Cartago": {
+      "items": [
+        {
+          "id": 40,
+          "name": "Aeropuerto Santa Ana",
+          "iataCode": "CRC",
+          "oaciCode": "SKGO",
+          "type": "Nacional",
+          "deparmentId": 31,
+          "department": {
+            "id": 31,
+            "name": "Valle del Cauca",
+            "description": "Valle del Cauca es uno de los treinta y dos departamentos que, junto con Bogotá, Distrito Capital, forman la República de Colombia. Su capital es Cali. Está ubicado en las regiones Andina y del Pacífico, limitando al norte con Chocó y Risaralda, al este con Quindío y Tolima, al sur con Cauca y al oeste con el océano Pacífico. Con 4 600 000 habitantes en 2015 es el segundo departamento más poblado",
+            "cityCapitalId": 1093,
+            "municipalities": 42,
+            "surface": 22140,
+            "population": 4589278,
+            "phonePrefix": "2",
+            "countryId": 1,
+            "cityCapital": null,
+            "country": null,
+            "cities": null,
+            "regionId": 2,
+            "region": null,
+            "naturalAreas": null,
+            "maps": null,
+            "indigenousReservations": null,
+            "airports": [
+              null
+            ]
+          },
+          "cityId": 1079,
+          "city": {
+            "id": 1079,
+            "name": "Cartago",
+            "description": "Cartago es un municipio colombiano ubicado al norte del departamento del Valle del Cauca, que está localizado a orillas del río La Vieja y por el costado occidental de su territorio transcurre el río Cauca. Es conocido como La Villa de Robledo y también como La ciudad del Sol más alegre de Colombia. Fue fundado inicialmente en 1540 en el lugar donde hoy se encuentra la ciudad de Pereira",
+            "surface": 279,
+            "population": 134963,
+            "postalCode": "762021",
+            "departmentId": 31,
+            "department": null,
+            "touristAttractions": null,
+            "presidents": null,
+            "indigenousReservations": null,
+            "airports": [
+              null
+            ],
+            "radios": null
+          },
+          "latitude": -75.9559332997874,
+          "longitude": 4.7584693994114
+        }
+      ],
+      "count": 1
+    },
+    "Cali": {
+      "items": [
+        {
+          "id": 52,
+          "name": "Base Aérea Marco Fidel Suárez",
+          "iataCode": "N/A",
+          "oaciCode": "SKGB",
+          "type": "Militar",
+          "deparmentId": 31,
+          "department": {
+            "id": 31,
+            "name": "Valle del Cauca",
+            "description": "Valle del Cauca es uno de los treinta y dos departamentos que, junto con Bogotá, Distrito Capital, forman la República de Colombia. Su capital es Cali. Está ubicado en las regiones Andina y del Pacífico, limitando al norte con Chocó y Risaralda, al este con Quindío y Tolima, al sur con Cauca y al oeste con el océano Pacífico. Con 4 600 000 habitantes en 2015 es el segundo departamento más poblado",
+            "cityCapitalId": 1093,
+            "municipalities": 42,
+            "surface": 22140,
+            "population": 4589278,
+            "phonePrefix": "2",
+            "countryId": 1,
+            "cityCapital": null,
+            "country": null,
+            "cities": null,
+            "regionId": 2,
+            "region": null,
+            "naturalAreas": null,
+            "maps": null,
+            "indigenousReservations": null,
+            "airports": [
+              null
+            ]
+          },
+          "cityId": 1093,
+          "city": {
+            "id": 1093,
+            "name": "Cali",
+            "description": "Cali, oficialmente Distrito Especial, Deportivo, Cultural, Turístico, Empresarial y de Servicios de Santiago de Cali,8​9​10​ es un distrito colombiano, capital del departamento de Valle del Cauca,2​ la tercera ciudad más poblada y el tercer centro económico y cultural de Colombia. Está situada en la región Sur del Valle del Cauca.",
+            "surface": 619,
+            "population": 2545682,
+            "postalCode": "760000",
+            "departmentId": 31,
+            "department": null,
+            "touristAttractions": null,
+            "presidents": null,
+            "indigenousReservations": null,
+            "airports": [
+              null
+            ],
+            "radios": null
+          },
+          "latitude": -76.49584195,
+          "longitude": 3.459496509
+        },
+        {
+          "id": 5,
+          "name": "Aeropuerto Internacional Alfonso Bonilla Aragón",
+          "iataCode": "CLO",
+          "oaciCode": "SKCL",
+          "type": "Internacional",
+          "deparmentId": 31,
+          "department": {
+            "id": 31,
+            "name": "Valle del Cauca",
+            "description": "Valle del Cauca es uno de los treinta y dos departamentos que, junto con Bogotá, Distrito Capital, forman la República de Colombia. Su capital es Cali. Está ubicado en las regiones Andina y del Pacífico, limitando al norte con Chocó y Risaralda, al este con Quindío y Tolima, al sur con Cauca y al oeste con el océano Pacífico. Con 4 600 000 habitantes en 2015 es el segundo departamento más poblado",
+            "cityCapitalId": 1093,
+            "municipalities": 42,
+            "surface": 22140,
+            "population": 4589278,
+            "phonePrefix": "2",
+            "countryId": 1,
+            "cityCapital": null,
+            "country": null,
+            "cities": null,
+            "regionId": 2,
+            "region": null,
+            "naturalAreas": null,
+            "maps": null,
+            "indigenousReservations": null,
+            "airports": [
+              null
+            ]
+          },
+          "cityId": 1093,
+          "city": {
+            "id": 1093,
+            "name": "Cali",
+            "description": "Cali, oficialmente Distrito Especial, Deportivo, Cultural, Turístico, Empresarial y de Servicios de Santiago de Cali,8​9​10​ es un distrito colombiano, capital del departamento de Valle del Cauca,2​ la tercera ciudad más poblada y el tercer centro económico y cultural de Colombia. Está situada en la región Sur del Valle del Cauca.",
+            "surface": 619,
+            "population": 2545682,
+            "postalCode": "760000",
+            "departmentId": 31,
+            "department": null,
+            "touristAttractions": null,
+            "presidents": null,
+            "indigenousReservations": null,
+            "airports": [
+              null
+            ],
+            "radios": null
+          },
+          "latitude": -76.3811042670173,
+          "longitude": 3.5383995873473
+        }
+      ],
+      "count": 2
+    }
+  },
+  "Vaupés": {
+    "Mitú": {
+      "items": [
+        {
+          "id": 26,
+          "name": "Aeropuerto Fabio Alberto León Bentley",
+          "iataCode": "MVP",
+          "oaciCode": "SKMU",
+          "type": "Nacional",
+          "deparmentId": 32,
+          "department": {
+            "id": 32,
+            "name": "Vaupés",
+            "description": "Vaupés es uno de los treinta y dos departamentos que, junto con Bogotá, Distrito Capital, forman la República de Colombia. Su capital es Mitú. Está ubicado al sureste del país, en la región Amazonía, limitando al norte con el Guaviare y Guainía, al este con Brasil, al sur con Amazonas y al oeste con el Caquetá. Con unos 43 000 habitantes en 2015 es el segundo departamento menos poblado",
+            "cityCapitalId": 1115,
+            "municipalities": 3,
+            "surface": 54135,
+            "population": 48932,
+            "phonePrefix": "8",
+            "countryId": 1,
+            "cityCapital": null,
+            "country": null,
+            "cities": null,
+            "regionId": 4,
+            "region": null,
+            "naturalAreas": null,
+            "maps": null,
+            "indigenousReservations": null,
+            "airports": [
+              null
+            ]
+          },
+          "cityId": 1115,
+          "city": {
+            "id": 1115,
+            "name": "Mitú",
+            "description": "Mitú es la capital del departamento del Vaupés, ubicado en la parte suroriental de Colombia y sobre la frontera con Brasil. El municipio se localiza predominantemente sobre la margen derecha del río Vaupés. Con cerca de 16.422 km², según el censo del DANE, y con una población aproximada de 16.580 habitantes, en donde predominan 27 etnias indígenas diferentes",
+            "surface": 16422,
+            "population": 31568,
+            "postalCode": "970001",
+            "departmentId": 32,
+            "department": null,
+            "touristAttractions": null,
+            "presidents": null,
+            "indigenousReservations": null,
+            "airports": [
+              null
+            ],
+            "radios": null
+          },
+          "latitude": -70.233836332802,
+          "longitude": 1.253548741618
+        }
+      ],
+      "count": 1
+    }
+  },
+  "Vichada": {
+    "Puerto Carreño": {
+      "items": [
+        {
+          "id": 48,
+          "name": "Base Aérea de Marandúa",
+          "iataCode": "MQZ",
+          "oaciCode": "SKUA",
+          "type": "Militar",
+          "deparmentId": 33,
+          "department": {
+            "id": 33,
+            "name": "Vichada",
+            "description": "Vichada es uno de los treinta y dos departamentos que, junto con Bogotá, Distrito Capital, forman la República de Colombia. Su capital es Puerto Carreño. Está ubicado al este del país, en las regiones Orinoquía y Amazonia, limitando al norte con Casanare y Arauca, al norte y este con Venezuela, al sur con Guainía, al suroeste con Guaviare y al oeste con Meta.",
+            "cityCapitalId": 1121,
+            "municipalities": 4,
+            "surface": 100242,
+            "population": 115778,
+            "phonePrefix": "8",
+            "countryId": 1,
+            "cityCapital": null,
+            "country": null,
+            "cities": null,
+            "regionId": 3,
+            "region": null,
+            "naturalAreas": null,
+            "maps": null,
+            "indigenousReservations": null,
+            "airports": [
+              null
+            ]
+          },
+          "cityId": 1121,
+          "city": {
+            "id": 1121,
+            "name": "Puerto Carreño",
+            "description": "Puerto Carreño es un municipio colombiano, capital del departamento de Vichada. Su población es de 15.753 habitantes, su área de 12.409 km² y está sobre la frontera con Venezuela, colindando al norte del río Meta con Puerto Páez. Fue fundada en 1922, sobre la confluencia de los ríos Orinoco y Meta;",
+            "surface": 12409,
+            "population": 15753,
+            "postalCode": "990001",
+            "departmentId": 33,
+            "department": null,
+            "touristAttractions": null,
+            "presidents": null,
+            "indigenousReservations": null,
+            "airports": [
+              null
+            ],
+            "radios": null
+          },
+          "latitude": -68.6871021,
+          "longitude": 5.525512256
+        },
+        {
+          "id": 32,
+          "name": "Aeropuerto Germán Olano",
+          "iataCode": "PCR",
+          "oaciCode": "SKPC",
+          "type": "Nacional",
+          "deparmentId": 33,
+          "department": {
+            "id": 33,
+            "name": "Vichada",
+            "description": "Vichada es uno de los treinta y dos departamentos que, junto con Bogotá, Distrito Capital, forman la República de Colombia. Su capital es Puerto Carreño. Está ubicado al este del país, en las regiones Orinoquía y Amazonia, limitando al norte con Casanare y Arauca, al norte y este con Venezuela, al sur con Guainía, al suroeste con Guaviare y al oeste con Meta.",
+            "cityCapitalId": 1121,
+            "municipalities": 4,
+            "surface": 100242,
+            "population": 115778,
+            "phonePrefix": "8",
+            "countryId": 1,
+            "cityCapital": null,
+            "country": null,
+            "cities": null,
+            "regionId": 3,
+            "region": null,
+            "naturalAreas": null,
+            "maps": null,
+            "indigenousReservations": null,
+            "airports": [
+              null
+            ]
+          },
+          "cityId": 1121,
+          "city": {
+            "id": 1121,
+            "name": "Puerto Carreño",
+            "description": "Puerto Carreño es un municipio colombiano, capital del departamento de Vichada. Su población es de 15.753 habitantes, su área de 12.409 km² y está sobre la frontera con Venezuela, colindando al norte del río Meta con Puerto Páez. Fue fundada en 1922, sobre la confluencia de los ríos Orinoco y Meta;",
+            "surface": 12409,
+            "population": 15753,
+            "postalCode": "990001",
+            "departmentId": 33,
+            "department": null,
+            "touristAttractions": null,
+            "presidents": null,
+            "indigenousReservations": null,
+            "airports": [
+              null
+            ],
+            "radios": null
+          },
+          "latitude": -67.5211059471026,
+          "longitude": 6.4059295914722
+        }
+      ],
+      "count": 2
+    }
+  }
+}
