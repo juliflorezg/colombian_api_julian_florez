@@ -9,6 +9,7 @@ import MessageData from './TotalRegistries';
 import AllRegistriesList from './AllRegistriesList';
 import './TabContent.module.css'
 import ProcessedDataTable from './ProcessedDataTable';
+import AirportsProcessedData from './AirportsProcessedData';
 
 function TabContent({ active }) {
   console.log({ activeTab: active })
@@ -19,7 +20,7 @@ function TabContent({ active }) {
   const [dataPresidents, loadingPresidents, errorPresidents] = useFetchPresident(active)
   const [dataLocations, loadingLocations, errorLocations] = useFetchTouristicLocations(departments, active)
   const [dataAirports, loadingAirports, errorAirports] = useFetchAirports(departments, active)
-  // const [airportsByDepCityType, loadingAirportsType, error3] = useFetchAirportsByDepCityType(departments, regions)
+  const [airportsByRegDepCityType, loadingAirportsType, errorAirportsType] = useFetchAirportsByDepCityType(departments, regions, active)
 
   console.log({ loadingPresidents, loadingLocations })
 
@@ -47,18 +48,13 @@ function TabContent({ active }) {
         break
       }
     }
-  }, [active, dataPresidents, loadingPresidents, dataLocations, loadingLocations, dataAirports, loadingAirports])
+  }, [active, dataPresidents, loadingPresidents, dataLocations, loadingLocations, dataAirports, loadingAirports, airportsByRegDepCityType])
 
   const loadingSpinnerHTML = <svg className="spinner" viewBox="0 0 50 50">
     <circle className="path" cx="25" cy="25" r="20" fill="none" strokeWidth="5"></circle>
   </svg>
 
 
-  console.log("data:", data)
-  console.log("presidents data:", dataPresidents)
-  // console.log("locations data:", dataLocations)
-  // console.log("airports data:", dataAirports)
-  // console.log(loading)
   return (
     <React.Fragment>
       <p>{active}</p>
@@ -82,6 +78,10 @@ function TabContent({ active }) {
           {data !== null ? (
             <ProcessedDataTable data={data.processedData} active={active} departments={departments} />
           ) : null}
+
+          {data !== null && active === 'aeropuertos' ?
+            <AirportsProcessedData data={airportsByRegDepCityType} active={active} />
+            : null}
 
           {data !== null ? (
             // <TotalRegistries active={active} count={data.count} />

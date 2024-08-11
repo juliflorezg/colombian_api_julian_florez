@@ -64,20 +64,13 @@ function ProcessedDataTable({ data, active, departments }) {
 
 
       for (const entry of entries) {
-        console.log(entry)
         const departamento = entry[0]
         const locationsPerCity = Object.entries(entry[1])
-        console.log(locationsPerCity)
         for (const locationsData of locationsPerCity) {
-          console.log(locationsData)
           const ciudad = locationsData[0]
           const locationsAndCount = Object.entries(locationsData[1])
-          console.log(locationsAndCount)
           const items = locationsAndCount[0][1]
-          console.log(items)
-          console.log(items.map)
 
-          // return renderItem(departamento, ciudad, items)
           trList.push(renderItem(departamento, ciudad, items))
 
         }
@@ -85,6 +78,62 @@ function ProcessedDataTable({ data, active, departments }) {
 
       return [...trList]
     }
+  }
+  else if (active === 'aeropuertos') {
+
+    const renderItem = (dep, city, items) => {
+      if (items.map) {
+
+        return items.map((item, i, arr) => {
+          return (
+            <React.Fragment>
+              <tr>
+                <td>{dep}</td>
+                <td>{city}</td>
+                <td>{item.name}</td>
+                <td>{item.oaciCode}</td>
+                <td>{item.iataCode}</td>
+                <td>{item.type}</td>
+              </tr>
+            </React.Fragment>
+          )
+        })
+      }
+    }
+
+    renderRow = (data) => {
+      console.log("in render row for airports", data)
+      const trList = []
+      // [
+      //   ['Antioquia', {
+      //     { jerico: {items: [], count: 1}},
+      //     { jerico: {items: [], count: 1}},
+      //     { jerico: {items: [], count: 1}},
+      //   }], 
+
+      //   ['Atlantico', {
+      //     { barraquilla: {items: [], count: 1}},
+      //   }], 
+      // 
+      // ]
+      const entries = Object.entries(data)
+
+      for (const entry of entries) {
+        const departamento = entry[0]
+        const locationsPerCity = Object.entries(entry[1])
+        for (const locationsData of locationsPerCity) {
+          const ciudad = locationsData[0]
+          const locationsAndCount = Object.entries(locationsData[1])
+          const items = locationsAndCount[0][1]
+
+          trList.push(renderItem(departamento, ciudad, items))
+
+        }
+      }
+
+      return [...trList]
+    }
+
   }
 
   else {
@@ -116,6 +165,16 @@ function ProcessedDataTable({ data, active, departments }) {
               <th>Descripción</th>
             </tr>
           }
+          {active === 'aeropuertos' &&
+            <tr>
+              <th>Departamento</th>
+              <th>Ciudad</th>
+              <th>Nombre</th>
+              <th>Cod. OACI</th>
+              <th>Cod. IATA</th>
+              <th>Tipo</th>
+            </tr>
+          }
         </thead>
         <tbody>
           {data &&
@@ -128,7 +187,8 @@ function ProcessedDataTable({ data, active, departments }) {
               )
             })
               : active === 'atracciones' ? renderRow(data)
-                : null
+                : active === 'aeropuertos' ? renderRow(data)
+                  : null
             )
           }
 
